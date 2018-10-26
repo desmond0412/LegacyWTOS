@@ -1,1 +1,1 @@
-# LegacyWTOS
+# WTOS
