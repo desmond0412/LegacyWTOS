@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &192834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 491520}
+  - 114: {fileID: 11425704}
+  m_Layer: 0
+  m_Name: naivisLightPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &491520
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 192834}
+  m_LocalRotation: {x: -0.14739281, y: 0.5292968, z: 0.8252007, w: -0.13101201}
+  m_LocalPosition: {x: 0.12, y: 1.89, z: -0.06}
+  m_LocalScale: {x: 1.1001757, y: 0.9791556, z: 1.1001763}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11425704
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 192834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d212d206bc498054392781d36eacd81b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DEBUG_MODE: 0
+  lightParticles: {fileID: 192834, guid: 4dbb6a8ae4c7aaa4dae48a32283a19d5, type: 2}
+  lightData:
+    MaxScale: 1.7
+    LightAngle: {x: -41.1, y: -5.6, z: 0}
+    RealPocaAngle: {x: -90, y: 0, z: 0}
+  thisPoca: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 192834}
+  m_IsPrefabParent: 1

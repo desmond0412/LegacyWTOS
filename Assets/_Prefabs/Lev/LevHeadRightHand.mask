@@ -1,0 +1,530 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LevHeadRightHand
+  m_Mask: 01000000000000000100000000000000000000000000000001000000000000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_B_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_B_skirt01/CR_LEV:bn_B_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_B_skirt01/CR_LEV:bn_B_skirt02/CR_LEV:be_B_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_F_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_F_skirt01/CR_LEV:bn_F_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_F_skirt01/CR_LEV:bn_F_skirt02/CR_LEV:be_F_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L01_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L01_skirt01/CR_LEV:bn_L01_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L01_skirt01/CR_LEV:bn_L01_skirt02/CR_LEV:be_L01_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L02_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L02_skirt01/CR_LEV:bn_L02_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L02_skirt01/CR_LEV:bn_L02_skirt02/CR_LEV:be_L02_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L_Hips
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L_Hips/CR_LEV:bn_L_Knee
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L_Hips/CR_LEV:bn_L_Knee/CR_LEV:bn_L_Ankle
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L_Hips/CR_LEV:bn_L_Knee/CR_LEV:bn_L_Ankle/CR_LEV:bn_L_Ball
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_L_Hips/CR_LEV:bn_L_Knee/CR_LEV:bn_L_Ankle/CR_LEV:bn_L_Ball/CR_LEV:bn_L_Toe
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_LB_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_LB_skirt01/CR_LEV:bn_LB_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_LB_skirt01/CR_LEV:bn_LB_skirt02/CR_LEV:be_LB_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_LF_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_LF_skirt01/CR_LEV:bn_LF_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_LF_skirt01/CR_LEV:bn_LF_skirt02/CR_LEV:be_LF_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R01_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R01_skirt01/CR_LEV:bn_R01_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R01_skirt01/CR_LEV:bn_R01_skirt02/CR_LEV:be_R01_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R02_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R02_skirt01/CR_LEV:bn_R02_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R02_skirt01/CR_LEV:bn_R02_skirt02/CR_LEV:bn_R02_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R_Hips
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R_Hips/CR_LEV:bn_R_Knee
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R_Hips/CR_LEV:bn_R_Knee/CR_LEV:bn_R_Ankle
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R_Hips/CR_LEV:bn_R_Knee/CR_LEV:bn_R_Ankle/CR_LEV:bn_R_Ball
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_R_Hips/CR_LEV:bn_R_Knee/CR_LEV:bn_R_Ankle/CR_LEV:bn_R_Ball/CR_LEV:bn_R_Toe
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_RB_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_RB_skirt01/CR_LEV:bn_RB_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_RB_skirt01/CR_LEV:bn_RB_skirt02/CR_LEV:bn_RB_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_RF_skirt01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_RF_skirt01/CR_LEV:bn_RF_skirt02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_RF_skirt01/CR_LEV:bn_RF_skirt02/CR_LEV:be_RF_skirt03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_bag
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_bag/CR_LEV:bn_lowerBag
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_bag/CR_LEV:bn_lowerBag/CR_LEV:be_lowerBag
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_bag/CR_LEV:bn_upperBag
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_bag/CR_LEV:bn_upperBag/CR_LEV:be_upperBag
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_L_Elbow04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_L_Elbow04/CR_LEV:bn_L_Wrist01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_L_upperWrist
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_L_upperWrist/CR_LEV:bn_L_midWrist
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_L_upperWrist/CR_LEV:bn_L_midWrist/CR_LEV:be_LEIV_L_wrist01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:bn_B_ringGaunlet
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:bn_F_ringGaunlet
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:bn_L_ringGaunlet
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:bn_R_ringGaunlet
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:C_LEV_GAUNTLET_element_grp
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:C_LEV_GAUNTLET_element_grp/CR_LEV:bn_element_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:C_LEV_GAUNTLET_element_grp/CR_LEV:bn_element_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:C_LEV_GAUNTLET_element_grp/CR_LEV:bn_element_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:bn_ringGaunlet_01/CR_LEV:C_LEV_GAUNTLET_element_grp/CR_LEV:bn_element_04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_B_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_B_flap_01/CR_LEV:C_LEV_GAUNTLET_be_B_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_F_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_F_flap_01/CR_LEV:C_LEV_GAUNTLET_be_F_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_FL_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_FL_flap_01/CR_LEV:C_LEV_GAUNTLET_be_FL_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_FR_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_FR_flap_01/CR_LEV:C_LEV_GAUNTLET_be_FR_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_L_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_L_flap_01/CR_LEV:C_LEV_GAUNTLET_be_L_flap_01
+      1
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_LB_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_LB_flap_01/CR_LEV:C_LEV_GAUNTLET_be_L_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_LB_flap_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_LB_flap_02/CR_LEV:C_LEV_GAUNTLET_be_LB_flap_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_LB_flap_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_LB_flap_03/CR_LEV:C_LEV_GAUNTLET_be_LB_flap_02
+      1
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_R_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_R_flap_01/CR_LEV:C_LEV_GAUNTLET_be_R_flap_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_R_flap_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_R_flap_02/CR_LEV:bn_R_flap_05
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Flap_grp/CR_LEV:bn_R_flap_02/CR_LEV:bn_R_flap_06
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_B_tentacle_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_B_tentacle_01/CR_LEV:bn_B_tentacle_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_B_tentacle_01/CR_LEV:bn_B_tentacle_02/CR_LEV:bn_B_tentacle_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_B_tentacle_01/CR_LEV:bn_B_tentacle_02/CR_LEV:bn_B_tentacle_03/CR_LEV:bn_B_tentacle_04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_B_tentacle_01/CR_LEV:bn_B_tentacle_02/CR_LEV:bn_B_tentacle_03/CR_LEV:bn_B_tentacle_04/CR_LEV:bn_B_tentacle_05
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_B_tentacle_01/CR_LEV:bn_B_tentacle_02/CR_LEV:bn_B_tentacle_03/CR_LEV:bn_B_tentacle_04/CR_LEV:bn_B_tentacle_05/CR_LEV:bn_B_tentacle_06
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_B_tentacle_01/CR_LEV:bn_B_tentacle_02/CR_LEV:bn_B_tentacle_03/CR_LEV:bn_B_tentacle_04/CR_LEV:bn_B_tentacle_05/CR_LEV:bn_B_tentacle_06/CR_LEV:C_LEV_GAUNTLET_be_B_tentacle_07
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_L_tentacle_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_L_tentacle_01/CR_LEV:bn_L_tentacle_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_L_tentacle_01/CR_LEV:bn_L_tentacle_02/CR_LEV:bn_L_tentacle_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_L_tentacle_01/CR_LEV:bn_L_tentacle_02/CR_LEV:bn_L_tentacle_03/CR_LEV:bn_L_tentacle_04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_L_tentacle_01/CR_LEV:bn_L_tentacle_02/CR_LEV:bn_L_tentacle_03/CR_LEV:bn_L_tentacle_04/CR_LEV:bn_L_tentacle_05
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_L_tentacle_01/CR_LEV:bn_L_tentacle_02/CR_LEV:bn_L_tentacle_03/CR_LEV:bn_L_tentacle_04/CR_LEV:bn_L_tentacle_05/CR_LEV:bn_L_tentacle_06
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_L_tentacle_01/CR_LEV:bn_L_tentacle_02/CR_LEV:bn_L_tentacle_03/CR_LEV:bn_L_tentacle_04/CR_LEV:bn_L_tentacle_05/CR_LEV:bn_L_tentacle_06/CR_LEV:C_LEV_GAUNTLET_be_L_tentacle_07
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_R_tentacle_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_R_tentacle_01/CR_LEV:bn_R_tentacle_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_R_tentacle_01/CR_LEV:bn_R_tentacle_02/CR_LEV:bn_R_tentacle_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_R_tentacle_01/CR_LEV:bn_R_tentacle_02/CR_LEV:bn_R_tentacle_03/CR_LEV:bn_R_tentacle_04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_R_tentacle_01/CR_LEV:bn_R_tentacle_02/CR_LEV:bn_R_tentacle_03/CR_LEV:bn_R_tentacle_04/CR_LEV:bn_R_tentacle_05
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_R_tentacle_01/CR_LEV:bn_R_tentacle_02/CR_LEV:bn_R_tentacle_03/CR_LEV:bn_R_tentacle_04/CR_LEV:bn_R_tentacle_05/CR_LEV:bn_R_tentacle_06
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:be_LEIV_L_elbow03/CR_LEV:bn_L_Elbow03/CR_LEV:drv_LEIV_L_Elbow03/CR_LEV:bn_rootGaunlet/CR_LEV:C_LEV_GAUNTLET_be_rootMechanic/CR_LEV:C_LEV_GAUNTLET_Tentacle_grp/CR_LEV:bn_R_tentacle_01/CR_LEV:bn_R_tentacle_02/CR_LEV:bn_R_tentacle_03/CR_LEV:bn_R_tentacle_04/CR_LEV:bn_R_tentacle_05/CR_LEV:bn_R_tentacle_06/CR_LEV:C_LEV_GAUNTLET_be_R_tentacle_07
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:bn_L_teethA_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:bn_L_teethA_01/CR_LEV:bn_L_teethA_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:bn_L_teethA_01/CR_LEV:bn_L_teethA_02/CR_LEV:C_LEV_GAUNTLET_be_L_teethA_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:bn_R_teethA_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:bn_R_teethA_01/CR_LEV:bn_R_teethA_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_Elbow02/CR_LEV:bn_R_teethA_01/CR_LEV:bn_R_teethA_02/CR_LEV:C_LEV_GAUNTLET_be_R_teethA_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_teethB_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_teethB_01/CR_LEV:bn_L_teethB_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_teethB_01/CR_LEV:bn_L_teethB_02/CR_LEV:C_LEV_GAUNTLET_b2_L_teethB_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_teethC_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_teethC_01/CR_LEV:bn_L_teethC_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_L_teethC_01/CR_LEV:bn_L_teethC_02/CR_LEV:C_LEV_GAUNTLET_be_L_teethC_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_R_teethB_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_R_teethB_01/CR_LEV:bn_R_teethB_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_R_teethB_01/CR_LEV:bn_R_teethB_02/CR_LEV:C_LEV_GAUNTLET_b2_R_teethB_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_R_teethC_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_R_teethC_01/CR_LEV:bn_R_teethC_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_Elbow01/CR_LEV:bn_R_teethC_01/CR_LEV:bn_R_teethC_02/CR_LEV:C_LEV_GAUNTLET_be_R_teethC_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_teethD_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_teethD_01/CR_LEV:bn_L_teethD_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_L_teethD_01/CR_LEV:bn_L_teethD_02/CR_LEV:C_LEV_GAUNTLET_be_L_teethD_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_R_teethD_01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_R_teethD_01/CR_LEV:bn_R_teethD_02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:bn_L_Shoulder01/CR_LEV:bn_L_Shoulder02/CR_LEV:bn_L_Shoulder03/CR_LEV:bn_R_teethD_01/CR_LEV:bn_R_teethD_02/CR_LEV:C_LEV_GAUNTLET_be_R_teethD_03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:fk_L_Shoulder01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:fk_L_Shoulder01/CR_LEV:fk_L_Shoulder02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:fk_L_Shoulder01/CR_LEV:fk_L_Shoulder02/CR_LEV:fk_L_Shoulder03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:fk_L_Shoulder01/CR_LEV:fk_L_Shoulder02/CR_LEV:fk_L_Shoulder03/CR_LEV:fk_L_Elbow01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:fk_L_Shoulder01/CR_LEV:fk_L_Shoulder02/CR_LEV:fk_L_Shoulder03/CR_LEV:fk_L_Elbow01/CR_LEV:fk_L_Elbow02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:fk_L_Shoulder01/CR_LEV:fk_L_Shoulder02/CR_LEV:fk_L_Shoulder03/CR_LEV:fk_L_Elbow01/CR_LEV:fk_L_Elbow02/CR_LEV:fk_L_Elbow03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:fk_L_Shoulder01/CR_LEV:fk_L_Shoulder02/CR_LEV:fk_L_Shoulder03/CR_LEV:fk_L_Elbow01/CR_LEV:fk_L_Elbow02/CR_LEV:fk_L_Elbow03/CR_LEV:fk_L_Elbow04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:fk_L_Shoulder01/CR_LEV:fk_L_Shoulder02/CR_LEV:fk_L_Shoulder03/CR_LEV:fk_L_Elbow01/CR_LEV:fk_L_Elbow02/CR_LEV:fk_L_Elbow03/CR_LEV:fk_L_Elbow04/CR_LEV:fk_Wrist01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:ik_L_Shoulder01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:ik_L_Shoulder01/CR_LEV:ik_L_Shoulder02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:ik_L_Shoulder01/CR_LEV:ik_L_Shoulder02/CR_LEV:ik_L_Shoulder03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:ik_L_Shoulder01/CR_LEV:ik_L_Shoulder02/CR_LEV:ik_L_Shoulder03/CR_LEV:ik_L_Elbow01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:ik_L_Shoulder01/CR_LEV:ik_L_Shoulder02/CR_LEV:ik_L_Shoulder03/CR_LEV:ik_L_Elbow01/CR_LEV:ik_L_Elbow02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:ik_L_Shoulder01/CR_LEV:ik_L_Shoulder02/CR_LEV:ik_L_Shoulder03/CR_LEV:ik_L_Elbow01/CR_LEV:ik_L_Elbow02/CR_LEV:ik_L_Elbow03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:ik_L_Shoulder01/CR_LEV:ik_L_Shoulder02/CR_LEV:ik_L_Shoulder03/CR_LEV:ik_L_Elbow01/CR_LEV:ik_L_Elbow02/CR_LEV:ik_L_Elbow03/CR_LEV:ik_L_Elbow04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_L_Clavicle01/CR_LEV:ik_L_Shoulder01/CR_LEV:ik_L_Shoulder02/CR_LEV:ik_L_Shoulder03/CR_LEV:ik_L_Elbow01/CR_LEV:ik_L_Elbow02/CR_LEV:ik_L_Elbow03/CR_LEV:ik_L_Elbow04/CR_LEV:ik_Wrist01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:be_head
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_B_LeafA01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_B_LeafA01/CR_LEV:bn_B_LeafA02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_B_LeafA01/CR_LEV:bn_B_LeafA02/CR_LEV:be_B_LeafA03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_B_LeafA01/CR_LEV:bn_B_LeafB01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_B_LeafA01/CR_LEV:bn_B_LeafB01/CR_LEV:be_B_LeafB02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_L_headphone
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_L_Leaf01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_L_Leaf01/CR_LEV:bn_L_Leaf02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_L_Leaf01/CR_LEV:bn_L_Leaf02/CR_LEV:be_L_Leaf03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_R_headphone
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_RB_Leaf01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_RB_Leaf01/CR_LEV:bn_RB_Leaf02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:bn_Head01/CR_LEV:bn_RB_Leaf01/CR_LEV:bn_RB_Leaf02/CR_LEV:be_RB_Leaf03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:jnt_B_rootHood01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:jnt_B_rootHood01/CR_LEV:bn_B_hood02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:jnt_L_rootHood01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:jnt_L_rootHood01/CR_LEV:bn_L_hood02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:jnt_R_rootHood01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_Neck01/CR_LEV:jnt_R_rootHood01/CR_LEV:bn_R_hood02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperFingers
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperFingers/CR_LEV:bn_FingerC01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperFingers/CR_LEV:bn_FingerC01/CR_LEV:drv_LowerFingers
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperFingers/CR_LEV:bn_FingerC01/CR_LEV:drv_LowerFingers/CR_LEV:bn_FingerC02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperFingers/CR_LEV:bn_FingerC01/CR_LEV:drv_LowerFingers/CR_LEV:bn_FingerC02/CR_LEV:be_fingerC03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperIndex
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperIndex/CR_LEV:bn_FingerB01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperIndex/CR_LEV:bn_FingerB01/CR_LEV:drv_LowerIndex
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperIndex/CR_LEV:bn_FingerB01/CR_LEV:drv_LowerIndex/CR_LEV:bn_FingerB02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperIndex/CR_LEV:bn_FingerB01/CR_LEV:drv_LowerIndex/CR_LEV:bn_FingerB02/CR_LEV:be_fingerB03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperThumb
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperThumb/CR_LEV:bn_FingerA01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperThumb/CR_LEV:bn_FingerA01/CR_LEV:drv_LowerThumb
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperThumb/CR_LEV:bn_FingerA01/CR_LEV:drv_LowerThumb/CR_LEV:bn_FingerA02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:bn_R_Shoulder01/CR_LEV:bn_R_Shoulder02/CR_LEV:bn_R_Shoulder03/CR_LEV:bn_R_Elbow01/CR_LEV:bn_R_Elbow02/CR_LEV:bn_R_Elbow03/CR_LEV:bn_R_Elbow04/CR_LEV:bn_R_Wrist01/CR_LEV:bn_R_Wrist02/CR_LEV:drv_UpperThumb/CR_LEV:bn_FingerA01/CR_LEV:drv_LowerThumb/CR_LEV:bn_FingerA02/CR_LEV:be_fingerA03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:fk_R_Shoulder01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:fk_R_Shoulder01/CR_LEV:fk_R_Shoulder02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:fk_R_Shoulder01/CR_LEV:fk_R_Shoulder02/CR_LEV:fk_R_Shoulder03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:fk_R_Shoulder01/CR_LEV:fk_R_Shoulder02/CR_LEV:fk_R_Shoulder03/CR_LEV:fk_R_Elbow01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:fk_R_Shoulder01/CR_LEV:fk_R_Shoulder02/CR_LEV:fk_R_Shoulder03/CR_LEV:fk_R_Elbow01/CR_LEV:fk_R_Elbow02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:fk_R_Shoulder01/CR_LEV:fk_R_Shoulder02/CR_LEV:fk_R_Shoulder03/CR_LEV:fk_R_Elbow01/CR_LEV:fk_R_Elbow02/CR_LEV:fk_R_Elbow03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:fk_R_Shoulder01/CR_LEV:fk_R_Shoulder02/CR_LEV:fk_R_Shoulder03/CR_LEV:fk_R_Elbow01/CR_LEV:fk_R_Elbow02/CR_LEV:fk_R_Elbow03/CR_LEV:fk_R_Elbow04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:fk_R_Shoulder01/CR_LEV:fk_R_Shoulder02/CR_LEV:fk_R_Shoulder03/CR_LEV:fk_R_Elbow01/CR_LEV:fk_R_Elbow02/CR_LEV:fk_R_Elbow03/CR_LEV:fk_R_Elbow04/CR_LEV:fk_Wrist01
+      1
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:ik_R_Shoulder01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:ik_R_Shoulder01/CR_LEV:ik_R_Shoulder02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:ik_R_Shoulder01/CR_LEV:ik_R_Shoulder02/CR_LEV:ik_R_Shoulder03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:ik_R_Shoulder01/CR_LEV:ik_R_Shoulder02/CR_LEV:ik_R_Shoulder03/CR_LEV:ik_R_Elbow01
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:ik_R_Shoulder01/CR_LEV:ik_R_Shoulder02/CR_LEV:ik_R_Shoulder03/CR_LEV:ik_R_Elbow01/CR_LEV:ik_R_Elbow02
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:ik_R_Shoulder01/CR_LEV:ik_R_Shoulder02/CR_LEV:ik_R_Shoulder03/CR_LEV:ik_R_Elbow01/CR_LEV:ik_R_Elbow02/CR_LEV:ik_R_Elbow03
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:ik_R_Shoulder01/CR_LEV:ik_R_Shoulder02/CR_LEV:ik_R_Shoulder03/CR_LEV:ik_R_Elbow01/CR_LEV:ik_R_Elbow02/CR_LEV:ik_R_Elbow03/CR_LEV:ik_R_Elbow04
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:bn_Spine_02/CR_LEV:bn_Spine_03/CR_LEV:bn_Spine_04/CR_LEV:bn_Chest_01/CR_LEV:bn_R_Clavicle01/CR_LEV:ik_R_Shoulder01/CR_LEV:ik_R_Shoulder02/CR_LEV:ik_R_Shoulder03/CR_LEV:ik_R_Elbow01/CR_LEV:ik_R_Elbow02/CR_LEV:ik_R_Elbow03/CR_LEV:ik_R_Elbow04/CR_LEV:ik_Wrist01
+      1
+    m_Weight: 1
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_L_Hips
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_L_Hips/CR_LEV:fk_L_Knee
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_L_Hips/CR_LEV:fk_L_Knee/CR_LEV:fk_L_Ankle
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_L_Hips/CR_LEV:fk_L_Knee/CR_LEV:fk_L_Ankle/CR_LEV:fk_L_Ball
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_L_Hips/CR_LEV:fk_L_Knee/CR_LEV:fk_L_Ankle/CR_LEV:fk_L_Ball/CR_LEV:fk_L_Toe
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_R_Hips
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_R_Hips/CR_LEV:fk_R_Knee
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_R_Hips/CR_LEV:fk_R_Knee/CR_LEV:fk_R_Ankle
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_R_Hips/CR_LEV:fk_R_Knee/CR_LEV:fk_R_Ankle/CR_LEV:fk_R_Ball
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:fk_R_Hips/CR_LEV:fk_R_Knee/CR_LEV:fk_R_Ankle/CR_LEV:fk_R_Ball/CR_LEV:fk_R_Toe
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_L_Hips
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_L_Hips/CR_LEV:ik_L_Knee
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_L_Hips/CR_LEV:ik_L_Knee/CR_LEV:ik_L_Ankle
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_L_Hips/CR_LEV:ik_L_Knee/CR_LEV:ik_L_Ankle/CR_LEV:ik_L_Ball
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_L_Hips/CR_LEV:ik_L_Knee/CR_LEV:ik_L_Ankle/CR_LEV:ik_L_Ball/CR_LEV:ik_L_Toe
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_R_Hips
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_R_Hips/CR_LEV:ik_R_Knee
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_R_Hips/CR_LEV:ik_R_Knee/CR_LEV:ik_R_Ankle
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_R_Hips/CR_LEV:ik_R_Knee/CR_LEV:ik_R_Ankle/CR_LEV:ik_R_Ball
+    m_Weight: 0
+  - m_Path: CR_LEV:GLOBAL_GRP/CR_LEV:joints/CR_LEV:mainJoint/CR_LEV:bn_Spine_01/CR_LEV:ik_R_Hips/CR_LEV:ik_R_Knee/CR_LEV:ik_R_Ankle/CR_LEV:ik_R_Ball/CR_LEV:ik_R_Toe
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_BAG
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_BODY
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_GAUNTLET_gauntletMain_mesh
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_GAUNTLET_GlowingPart_mesh
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_HAIR
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_HEADPHONE
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_HOOD
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_SKIRT
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:C_LEV_WOODENSTICK
+    m_Weight: 0
+  - m_Path: CR_LEV:mesh/CR_LEV:LEV_C_LEV_default
+    m_Weight: 0
