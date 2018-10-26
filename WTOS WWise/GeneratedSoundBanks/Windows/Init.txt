@@ -1,0 +1,27 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1229948536	environment			\Default Work Unit\environment	
+
+State	ID	Name	State Group			Notes
+	491961918	forest	environment			
+	748895195	None	environment			
+	4122393694	cave	environment			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	517960309	cave	environment	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\forest_verb		
+	757662163	forest	environment	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\cave_verb		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2918011349	MasterVolume			\Default Work Unit\MasterVolume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1561470890	forest_verb			\Default Work Unit\Master Audio Bus\forest_verb	
+	3811431050	cave_verb			\Default Work Unit\Master Audio Bus\cave_verb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	2648499661	Hall_Medium_Dark	Wwise RoomVerb			
+

@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="Cinematic.A01.P02.CN01.01.Lev.01" xml:space="preserve">
+		<value>Raina?!</value>
+	</data>
+	<data name="Cinematic.A01.P02.CN01.02.Lev.02" xml:space="preserve">
+		<value>No, no, no...</value>
+	</data>
+	<data name="Cinematic.A01.P02.CN01.03.Lev.03" xml:space="preserve">
+		<value>RAINAAAAAA!!</value>
+	</data>
+	<data name="DeathLine.Atatar.01" xml:space="preserve">
+		<value>Eaten by Atatar.</value>
+	</data>
+	<data name="DeathLine.Atatar.02" xml:space="preserve">
+		<value>Turned to crunchy human lunch.</value>
+	</data>
+	<data name="DeathLine.Atatar.03" xml:space="preserve">
+		<value>Big teeth and claws usually gives away the trait.</value>
+	</data>
+	<data name="DeathLine.Atatar.04" xml:space="preserve">
+		<value>Stay away from the ugly monster.</value>
+	</data>
+	<data name="DeathLine.Atatar.05" xml:space="preserve">
+		<value>Keep your distance, keep the rest of your limbs.</value>
+	</data>
+	<data name="DeathLine.Drown.01" xml:space="preserve">
+		<value>Drown to death.</value>
+	</data>
+	<data name="DeathLine.Drown.02" xml:space="preserve">
+		<value>No, Lev cannot breath underwater.</value>
+	</data>
+	<data name="DeathLine.Drown.03" xml:space="preserve">
+		<value>Too much of water, like everything, kills.</value>
+	</data>
+	<data name="DeathLine.Drown.04" xml:space="preserve">
+		<value>Note to self: Learn to swim.</value>
+	</data>
+	<data name="DeathLine.Fall.01" xml:space="preserve">
+		<value>Fall to death.</value>
+	</data>
+	<data name="DeathLine.Fall.02" xml:space="preserve">
+		<value>Mind the gap.</value>
+	</data>
+	<data name="DeathLine.Fall.03" xml:space="preserve">
+		<value>Certain height will certainly kills you.</value>
+	</data>
+	<data name="DeathLine.Fall.04" xml:space="preserve">
+		<value>What goes up, must come down.</value>
+	</data>
+	<data name="DeathLine.Fall.05" xml:space="preserve">
+		<value>Gravity is a bitch.</value>
+	</data>
+	<data name="DeathLine.Fall.06" xml:space="preserve">
+		<value>Fall doesn't kill you, the landing does.</value>
+	</data>
+	<data name="DeathLine.Fall.07" xml:space="preserve">
+		<value>Make sure you can see the other side first before jumping.</value>
+	</data>
+	<data name="DeathLine.Hole.01" xml:space="preserve">
+		<value>Fallen to deep shadow.</value>
+	</data>
+	<data name="DeathLine.Hole.02" xml:space="preserve">
+		<value>See the black shadowy thing? Keep away.</value>
+	</data>
+	<data name="DeathLine.Hole.03" xml:space="preserve">
+		<value>Endless possiblity of the way out, including a cozy deep ditch.</value>
+	</data>
+	<data name="DeathLine.Hole.04" xml:space="preserve">
+		<value>A leap of faith might leads to a faith shared by all. Death.</value>
+	</data>
+	<data name="DeathLine.Moluvusha.01" xml:space="preserve">
+		<value>Gnawed by Moluvusha.</value>
+	</data>
+	<data name="DeathLine.Moluvusha.02" xml:space="preserve">
+		<value>Those things have claws, might better to stay away.</value>
+	</data>
+	<data name="DeathLine.Moluvusha.03" xml:space="preserve">
+		<value>Plants can kill you. For real. In fact it just did.</value>
+	</data>
+	<data name="DeathLine.Moluvusha.04" xml:space="preserve">
+		<value>Don’t underestimate nature.</value>
+	</data>
+	<data name="DeathLine.Phylex.01" xml:space="preserve">
+		<value>Killed by Phylex.</value>
+	</data>
+	<data name="DeathLine.Phylex.02" xml:space="preserve">
+		<value>You really are no match, run.</value>
+	</data>
+	<data name="DeathLine.Phylex.03" xml:space="preserve">
+		<value>Next time, run for your life.</value>
+	</data>
+	<data name="DeathLine.Phylex.04" xml:space="preserve">
+		<value>Don't pissed the alpha predator.</value>
+	</data>
+	<data name="DeathLine.Phylex.05" xml:space="preserve">
+		<value>That thing not just looks dangerous, it is dangerous.</value>
+	</data>
+	<data name="DeathLine.Phylex.06" xml:space="preserve">
+		<value>Wise man said not to anger the big black predator.</value>
+	</data>
+	<data name="DeathLine.Rock.01" xml:space="preserve">
+		<value>Killed by falling rock.</value>
+	</data>
+	<data name="DeathLine.Rock.02" xml:space="preserve">
+		<value>Mind your head.</value>
+	</data>
+	<data name="DeathLine.Rock.03" xml:space="preserve">
+		<value>Lev is hard headed, but not rock hard.</value>
+	</data>
+	<data name="DeathLine.Rock.04" xml:space="preserve">
+		<value>Head trauma recipe: \nThrow a huge boulder in your head.</value>
+	</data>
+	<data name="DeathLine.Rock.05" xml:space="preserve">
+		<value>Rock beats head. Everytime.</value>
+	</data>
+	<data name="Dialog.A01.P02.CS01.01.Lev.01" xml:space="preserve">
+		<value>This should be safe enough to get across</value>
+	</data>
+	<data name="Dialog.A01.P02.CS01.02.Lev.02" xml:space="preserve">
+		<value>Not seeing the other end is what bothers me.</value>
+	</data>
+	<data name="Dialog.A01.P02.CS01.03.Lev.03" xml:space="preserve">
+		<value>Argh~</value>
+	</data>
+	<data name="Dialog.A01.P02.CS01.04.Lev.04" xml:space="preserve">
+		<value>who cares </value>
+	</data>
+	<data name="Dialog.A01.P02.CS01.05.Lev.05" xml:space="preserve">
+		<value>just cross first</value>
+	</data>
+	<data name="Dialog.A01.P02.CS01.06.Lev.06" xml:space="preserve">
+		<value>think later.</value>
+	</data>
+	<data name="Dialog.A01.P02.CS02.01.Raina.01" xml:space="preserve">
+		<value>...Lev</value>
+	</data>
+	<data name="Dialog.A01.P02.CS02.02.Lev.01" xml:space="preserve">
+		<value>...</value>
+	</data>
+	<data name="Dialog.A01.P02.CS02.03.Lev.02" xml:space="preserve">
+		<value>Raina!!</value>
+	</data>
+	<data name="Dialog.A01.P02.CS02.04.Lev.03" xml:space="preserve">
+		<value>What are you doing?</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.01" xml:space="preserve">
+		<value>Hi there!</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.02" xml:space="preserve">
+		<value>You're there, aren't you?</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.03" xml:space="preserve">
+		<value>I might want to tell you a story, a story quite long time ago, where the forest is kinda sick.</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.04" xml:space="preserve">
+		<value>It is absolutely ugly!</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.05" xml:space="preserve">
+		<value>It is absolutely ugly! ... I guess.</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.06" xml:space="preserve">
+		<value>The green isn't green! Because, there is no water around</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.07" xml:space="preserve">
+		<value>Look at this poor poca, rotting because it's thirsty...</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.08" xml:space="preserve">
+		<value>Or maybe it is tired…</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.09" xml:space="preserve">
+		<value>I'm not really sure…</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.10" xml:space="preserve">
+		<value>I guess it's both of them then.</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.11" xml:space="preserve">
+		<value>If the poca is thirsty, everything in the forest will be thirsty.</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.12" xml:space="preserve">
+		<value>And that is not good, I'm really sure that it isn't.</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.13" xml:space="preserve">
+		<value>Or is it?</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.14" xml:space="preserve">
+		<value>I'm not sure I like the color my forest is making</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.15" xml:space="preserve">
+		<value>That's why I plug myself to the poca and refill them with water!</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.16" xml:space="preserve">
+		<value>That's why I plug myself to the poca and refill them with water! Problem solved!</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.17" xml:space="preserve">
+		<value>That's why I plug myself to the poca and refill them with water! Problem solved! \n... I hope</value>
+	</data>
+	<data name="Dialog.Parallax.Myuu.18" xml:space="preserve">
+		<value>And now everything is nice and good! ...Um mostly? ... or some. At least a few.. I'm sure of it! but.....</value>
+	</data>
+</root>

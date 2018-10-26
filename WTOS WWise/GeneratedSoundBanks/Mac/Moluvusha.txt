@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	872959958	moluvusha_close			\Default Work Unit\Moluvusha\moluvusha_close	
+	3704462456	moluvusha_lightgrab			\Default Work Unit\Moluvusha\moluvusha_lightgrab	
+	4266407938	moluvusha_open			\Default Work Unit\Moluvusha\moluvusha_open	
+	4293124028	moluvusha_eat			\Default Work Unit\Moluvusha\moluvusha_eat	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	114008705	sx_moluvusha_eat	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_moluvusha_eat_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Moluvusha\Eat\sx_moluvusha_eat		244936
+	303338631	sx_moluvusha_close	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_moluvusha_close_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Moluvusha\Close\sx_moluvusha_close		401472
+	360604469	sx_moluvusha_light	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_moluvusha_light_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Moluvusha\LightGrab\sx_moluvusha_light		595492
+	623875628	sx_moluvusha_open	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_moluvusha_open_716EBDA3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Moluvusha\Open\sx_moluvusha_open		531612
+

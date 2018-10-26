@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1085006091	stop_forest			\Default Work Unit\Environment\stop_forest	
+	1919234829	start_forest			\Default Work Unit\Environment\start_forest	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	658909375	sx_amb_enchantedforest	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_amb_enchantedforest_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Environment\Forest\sx_amb_enchantedforest		3907404
+

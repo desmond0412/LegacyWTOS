@@ -1,0 +1,795 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b161a99f7cb3da14d966e3e66088df34, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  CurrentPluginConfig: Profile
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{E5722B59-825C-4F6F-BE56-4545390E53DF}'
+    m_lastTimePsrt1: -334535615
+    m_lastTimePart2: -1999398601
+    List:
+    - Name: A1P16
+      Path: Default Work Unit\Music\A1P16
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: A1P16
+        ObjectType: 3
+      ID: 1840818480
+      Guid: 24929b3e4a97bf4596bc5804a9f68cc5
+      maxAttenuation: 0
+    - Name: A1P16Stop
+      Path: Default Work Unit\Music\A1P16Stop
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: A1P16Stop
+        ObjectType: 3
+      ID: -1937444136
+      Guid: 23da6111ef70034886cafabbf9a14c70
+      maxAttenuation: 0
+    - Name: A1P2
+      Path: Default Work Unit\Music\A1P2
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: A1P2
+        ObjectType: 3
+      ID: -1185157471
+      Guid: 47aa7ac51b2f8c4bb9a880a74b3ffdf0
+      maxAttenuation: 0
+    - Name: A1P2Stop
+      Path: Default Work Unit\Music\A1P2Stop
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: A1P2Stop
+        ObjectType: 3
+      ID: -1862406663
+      Guid: 3f5cbec9ba76024b941791b83f19d5f2
+      maxAttenuation: 0
+    - Name: A1P5and7
+      Path: Default Work Unit\Music\A1P5and7
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: A1P5and7
+        ObjectType: 3
+      ID: -988209756
+      Guid: 8c47cb671542204ca12f508f7ece6142
+      maxAttenuation: 0
+    - Name: A1P5and7Stop
+      Path: Default Work Unit\Music\A1P5and7Stop
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: A1P5and7Stop
+        ObjectType: 3
+      ID: -953741940
+      Guid: 5eb87a6cb68b6f4a8987d3a8ce748b8e
+      maxAttenuation: 0
+    - Name: atatar_attack
+      Path: Default Work Unit\Atatar\atatar_attack
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Atatar
+        ObjectType: 4
+      - ElementName: atatar_attack
+        ObjectType: 3
+      ID: 1717020207
+      Guid: 5bd1ddd33c1e6c43883d7d20e001769b
+      maxAttenuation: 0
+    - Name: atatar_chew
+      Path: Default Work Unit\Atatar\atatar_chew
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Atatar
+        ObjectType: 4
+      - ElementName: atatar_chew
+        ObjectType: 3
+      ID: -1627170362
+      Guid: 5afe0fb42eec334198a6820c1d40c422
+      maxAttenuation: 0
+    - Name: atatar_fs
+      Path: Default Work Unit\Atatar\atatar_fs
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Atatar
+        ObjectType: 4
+      - ElementName: atatar_fs
+        ObjectType: 3
+      ID: 868780266
+      Guid: 3b10bfd2c717b94fab0c46496f79d663
+      maxAttenuation: 0
+    - Name: atatar_idle
+      Path: Default Work Unit\Atatar\atatar_idle
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Atatar
+        ObjectType: 4
+      - ElementName: atatar_idle
+        ObjectType: 3
+      ID: 525173505
+      Guid: 4c7eab450fb47c45898828090bbb446b
+      maxAttenuation: 0
+    - Name: Grows
+      Path: Default Work Unit\Lighteater\Grows
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lighteater
+        ObjectType: 4
+      - ElementName: Grows
+        ObjectType: 3
+      ID: -384140129
+      Guid: 2af3c208827d2d48ba619c92473f2612
+      maxAttenuation: 0
+    - Name: lev_aim
+      Path: Default Work Unit\Lev\lev_aim
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_aim
+        ObjectType: 3
+      ID: -526715400
+      Guid: 99bce8de98232b4696439ce6c6c9c513
+      maxAttenuation: 0
+    - Name: lev_crawl
+      Path: Default Work Unit\Lev\lev_crawl
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_crawl
+        ObjectType: 3
+      ID: 886808226
+      Guid: 2def83dcce62264aa162146a7cd47c5d
+      maxAttenuation: 0
+    - Name: lev_crouch
+      Path: Default Work Unit\Lev\lev_crouch
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_crouch
+        ObjectType: 3
+      ID: -701717413
+      Guid: 3adb74616132354e9e9e7ad27bd0bb3d
+      maxAttenuation: 0
+    - Name: lev_dropdead
+      Path: Default Work Unit\Lev\lev_dropdead
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_dropdead
+        ObjectType: 3
+      ID: 274896520
+      Guid: c9254632cb0cfc4b8e0d94b679870bad
+      maxAttenuation: 0
+    - Name: lev_drown
+      Path: Default Work Unit\Lev\lev_drown
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_drown
+        ObjectType: 3
+      ID: 1016227005
+      Guid: 9beca46fbfe04e4aa4ce1f67982c7a32
+      maxAttenuation: 0
+    - Name: lev_fall
+      Path: Default Work Unit\Lev\lev_fall
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_fall
+        ObjectType: 3
+      ID: -1225742714
+      Guid: 64e3f33c71d8c64b8fdc46b55960ddaf
+      maxAttenuation: 0
+    - Name: lev_fire_shoot
+      Path: Default Work Unit\Lev\lev_fire_shoot
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_fire_shoot
+        ObjectType: 3
+      ID: 323100301
+      Guid: 8081e84fec2fe24b90c8f76c79e1a77a
+      maxAttenuation: 0
+    - Name: lev_fire_small_impact
+      Path: Default Work Unit\Lev\lev_fire_small_impact
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_fire_small_impact
+        ObjectType: 3
+      ID: 2092161734
+      Guid: 06d7a48121f0894f95cd82ffaaf3482d
+      maxAttenuation: 0
+    - Name: lev_fs
+      Path: Default Work Unit\Lev\lev_fs
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_fs
+        ObjectType: 3
+      ID: -1445311900
+      Guid: 82022fdb61266949bba27d3fd33dbc75
+      maxAttenuation: 0
+    - Name: lev_landing
+      Path: Default Work Unit\Lev\lev_landing
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_landing
+        ObjectType: 3
+      ID: -226360754
+      Guid: 4dc865f481fe6645ba022e6a2ac64789
+      maxAttenuation: 0
+    - Name: lev_zroot_impact
+      Path: Default Work Unit\Lev\lev_zroot_impact
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_zroot_impact
+        ObjectType: 3
+      ID: 2037033222
+      Guid: e8ba80b402160847afe01424cc75ea0d
+      maxAttenuation: 0
+    - Name: lev_zroot_retract
+      Path: Default Work Unit\Lev\lev_zroot_retract
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_zroot_retract
+        ObjectType: 3
+      ID: 1601536415
+      Guid: 3890d8083f155f4fa1c214dc72f83927
+      maxAttenuation: 0
+    - Name: lev_zroot_shoot
+      Path: Default Work Unit\Lev\lev_zroot_shoot
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_zroot_shoot
+        ObjectType: 3
+      ID: 1612615765
+      Guid: 3e14863b25c2824ca13313ae56993d87
+      maxAttenuation: 0
+    - Name: lev_zroot_stop
+      Path: Default Work Unit\Lev\lev_zroot_stop
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 4
+      - ElementName: lev_zroot_stop
+        ObjectType: 3
+      ID: -634614584
+      Guid: 0e69f3f31ba55e4d95f8478cdbcc5d23
+      maxAttenuation: 0
+    - Name: Main_Menu
+      Path: Default Work Unit\Music\Main_Menu
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Main_Menu
+        ObjectType: 3
+      ID: 2005704188
+      Guid: 18928ba25a268e4090ea72ed64a1953d
+      maxAttenuation: 0
+    - Name: Main_MenuStop
+      Path: Default Work Unit\Music\Main_MenuStop
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Main_MenuStop
+        ObjectType: 3
+      ID: 1316323540
+      Guid: a58e69c83793804d88325ae09aa6de63
+      maxAttenuation: 0
+    - Name: moluvusha_close
+      Path: Default Work Unit\Moluvusha\moluvusha_close
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Moluvusha
+        ObjectType: 4
+      - ElementName: moluvusha_close
+        ObjectType: 3
+      ID: 872959958
+      Guid: af5d7707cf1a07419ed82aa14419bd58
+      maxAttenuation: 0
+    - Name: moluvusha_eat
+      Path: Default Work Unit\Moluvusha\moluvusha_eat
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Moluvusha
+        ObjectType: 4
+      - ElementName: moluvusha_eat
+        ObjectType: 3
+      ID: -1843268
+      Guid: 7ae5898e1830614d91003a1983e2775d
+      maxAttenuation: 0
+    - Name: moluvusha_lightgrab
+      Path: Default Work Unit\Moluvusha\moluvusha_lightgrab
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Moluvusha
+        ObjectType: 4
+      - ElementName: moluvusha_lightgrab
+        ObjectType: 3
+      ID: -590504840
+      Guid: b3687fd45e8e7a46a483247ab37933ca
+      maxAttenuation: 0
+    - Name: moluvusha_open
+      Path: Default Work Unit\Moluvusha\moluvusha_open
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Moluvusha
+        ObjectType: 4
+      - ElementName: moluvusha_open
+        ObjectType: 3
+      ID: -28559358
+      Guid: c62ef6cb0a74cf47a3cb1be0cd568616
+      maxAttenuation: 0
+    - Name: naivis_blooming
+      Path: Default Work Unit\Naivis\naivis_blooming
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Naivis
+        ObjectType: 4
+      - ElementName: naivis_blooming
+        ObjectType: 3
+      ID: -1502339471
+      Guid: 7d5b44b976c89a45b77c477768135c44
+      maxAttenuation: 0
+    - Name: naivis_closing
+      Path: Default Work Unit\Naivis\naivis_closing
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Naivis
+        ObjectType: 4
+      - ElementName: naivis_closing
+        ObjectType: 3
+      ID: -769385141
+      Guid: 5d6efac721f1f44982d3ec7dd8541e52
+      maxAttenuation: 0
+    - Name: naivis_idle_start
+      Path: Default Work Unit\Naivis\naivis_idle_start
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Naivis
+        ObjectType: 4
+      - ElementName: naivis_idle_start
+        ObjectType: 3
+      ID: -1005815351
+      Guid: b9579be7cb05fb4ba5bbb46ecbb2588a
+      maxAttenuation: 0
+    - Name: naivis_idle_stop
+      Path: Default Work Unit\Naivis\naivis_idle_stop
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Naivis
+        ObjectType: 4
+      - ElementName: naivis_idle_stop
+        ObjectType: 3
+      ID: 1175442275
+      Guid: 1bcc08ed862b084caac8c213423e1724
+      maxAttenuation: 0
+    - Name: naivis_pull
+      Path: Default Work Unit\Naivis\naivis_pull
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Naivis
+        ObjectType: 4
+      - ElementName: naivis_pull
+        ObjectType: 3
+      ID: -1128828213
+      Guid: 89ae561cdd4bcb40885b37c6ef9ae40c
+      maxAttenuation: 0
+    - Name: Parallax
+      Path: Default Work Unit\Music\Parallax
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Parallax
+        ObjectType: 3
+      ID: 1548585248
+      Guid: 9464380b58db3b43ba503ea398822f8d
+      maxAttenuation: 0
+    - Name: Parallax_Stop
+      Path: Default Work Unit\Music\Parallax_Stop
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Parallax_Stop
+        ObjectType: 3
+      ID: 174091791
+      Guid: fdca79ec4ef052488769e9a644b52ae4
+      maxAttenuation: 0
+    - Name: raina_fs
+      Path: Default Work Unit\Raina\raina_fs
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Raina
+        ObjectType: 4
+      - ElementName: raina_fs
+        ObjectType: 3
+      ID: 1764402966
+      Guid: 257753671e444548a0b52fad9433ae11
+      maxAttenuation: 0
+    - Name: raina_transform
+      Path: Default Work Unit\Raina\raina_transform
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Raina
+        ObjectType: 4
+      - ElementName: raina_transform
+        ObjectType: 3
+      ID: -678868771
+      Guid: 2bcb5830da4c63409785e89e5f8f2663
+      maxAttenuation: 0
+    - Name: Start_firetorch
+      Path: Default Work Unit\Torch\Start_firetorch
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Torch
+        ObjectType: 4
+      - ElementName: Start_firetorch
+        ObjectType: 3
+      ID: -458602820
+      Guid: 39184985754ae848a80cff07edb4f0f1
+      maxAttenuation: 0
+    - Name: start_forest
+      Path: Default Work Unit\Environment\start_forest
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment
+        ObjectType: 4
+      - ElementName: start_forest
+        ObjectType: 3
+      ID: 1919234829
+      Guid: 8f2e406ce5206644adb2956540b9098c
+      maxAttenuation: 0
+    - Name: Stop_firetorch
+      Path: Default Work Unit\Torch\Stop_firetorch
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Torch
+        ObjectType: 4
+      - ElementName: Stop_firetorch
+        ObjectType: 3
+      ID: 223889434
+      Guid: dadf5a0f22271c4dbdf8aae3f6a00216
+      maxAttenuation: 0
+    - Name: stop_forest
+      Path: Default Work Unit\Environment\stop_forest
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment
+        ObjectType: 4
+      - ElementName: stop_forest
+        ObjectType: 3
+      ID: 1085006091
+      Guid: 9a6ccbccd66be641abf88f7c6b52a525
+      maxAttenuation: 0
+    - Name: waterfall_end
+      Path: Default Work Unit\Copa\waterfall_end
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Copa
+        ObjectType: 4
+      - ElementName: waterfall_end
+        ObjectType: 3
+      ID: 349821051
+      Guid: 34654e87e207e848b3c96797c0644c19
+      maxAttenuation: 0
+    - Name: waterfall_loop
+      Path: Default Work Unit\Copa\waterfall_loop
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Copa
+        ObjectType: 4
+      - ElementName: waterfall_loop
+        ObjectType: 3
+      ID: 1873129830
+      Guid: 9ab42535254fc347b05e2af41fbe880a
+      maxAttenuation: 0
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{0A508E8A-254E-4AF1-92E3-9C8517998C9A}'
+    m_lastTimePsrt1: -303723854
+    m_lastTimePart2: -1999398601
+    List:
+    - Name: cave_verb
+      Path: Default Work Unit\Master Audio Bus\cave_verb
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: cave_verb
+        ObjectType: 1
+      ID: -483536246
+      Guid: 086c0f2b5588614189b076b89ff18838
+    - Name: forest_verb
+      Path: Default Work Unit\Master Audio Bus\forest_verb
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: forest_verb
+        ObjectType: 1
+      ID: 1561470890
+      Guid: e4768cb510ded04b9df34abaf105fa43
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{A1B9D442-097F-4169-BD48-A61994ECBF1D}'
+    m_lastTimePsrt1: -300841832
+    m_lastTimePart2: -1999398601
+    List:
+    - Name: environment
+      Path: Default Work Unit\environment
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: environment
+        ObjectType: 9
+      ID: 1229948536
+      Guid: 08474b3d028caa43a18bf24d3e1a2509
+      values:
+      - cave
+      - forest
+      - None
+      ValueIcons:
+      - ElementName: cave
+        ObjectType: 8
+      - ElementName: forest
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      valueIDs: 5ebcb6f53ebe521ddb3ba32c
+      ValueGuids:
+      - bytes: 81f1eca541738549a5027a7d5eda4e79
+      - bytes: b929c6801c9868488948c4d91bc3bc59
+      - bytes: f0ac5cf88021334094ea9073403173cd
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{AC5F4CCE-1189-43F0-A801-15A4DAE4B28E}'
+    m_lastTimePsrt1: -511396096
+    m_lastTimePart2: -1999402723
+    List:
+    - Name: surface
+      Path: Default Work Unit\surface
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: surface
+        ObjectType: 11
+      ID: 1834394558
+      Guid: 76f867c656775147b01d9141ee7d7227
+      values:
+      - bone
+      - grass
+      - snow
+      - stone
+      - water
+      - woodbridge
+      ValueIcons:
+      - ElementName: bone
+        ObjectType: 10
+      - ElementName: grass
+        ObjectType: 10
+      - ElementName: snow
+        ObjectType: 10
+      - ElementName: stone
+        ObjectType: 10
+      - ElementName: water
+        ObjectType: 10
+      - ElementName: woodbridge
+        ObjectType: 10
+      valueIDs: c75dfe67d92e3dfdd461f62e1c6d8948fa3d3c9e4d01f149
+      ValueGuids:
+      - bytes: fe58ecf6647e3348bbd9a480e548cef8
+      - bytes: 85565580fb42864b9bf09095cde62c5d
+      - bytes: 6d81b140689f3247bccc2a6bb413e52d
+      - bytes: e0af86b9059c754c89baf318718109a2
+      - bytes: 1e7f4613e240804ea6901d3ab6d8060f
+      - bytes: 751dcae5b7729b42a0604d1e338b6510
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{354C1763-37D1-40BA-8FA8-25877DD1B625}'
+    m_lastTimePsrt1: -300851837
+    m_lastTimePart2: -1999398601
+    List:
+    - Name: Atatar
+      Path: Default Work Unit\Atatar
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Atatar
+        ObjectType: 7
+      ID: 786886536
+      Guid: 6cf6d88e0810b746ac8af0e473e872f5
+    - Name: Copa
+      Path: Default Work Unit\Copa
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Copa
+        ObjectType: 7
+      ID: -540695486
+      Guid: 156ee4bf8bd3f84084399739664f5572
+    - Name: Environment
+      Path: Default Work Unit\Environment
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment
+        ObjectType: 7
+      ID: 1229948536
+      Guid: 2fa4cec59830674f951186b20e5a004a
+    - Name: Lev
+      Path: Default Work Unit\Lev
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lev
+        ObjectType: 7
+      ID: 646037106
+      Guid: 8f4d5ccbaee775458f4d7bffe0a89dd5
+    - Name: Lighteater
+      Path: Default Work Unit\Lighteater
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lighteater
+        ObjectType: 7
+      ID: -1495204546
+      Guid: a82cdc821dfc194685a25d4c88743547
+    - Name: Moluvusha
+      Path: Default Work Unit\Moluvusha
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Moluvusha
+        ObjectType: 7
+      ID: 1833492559
+      Guid: dc821711fdbba440909513a4d839e56b
+    - Name: Music
+      Path: Default Work Unit\Music
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 7
+      ID: -303024426
+      Guid: b24501ea0ec2064cb1f9469a63862c7b
+    - Name: Naivis
+      Path: Default Work Unit\Naivis
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Naivis
+        ObjectType: 7
+      ID: -1916818693
+      Guid: 0d3d8ab12446cd42bffb29ecfe4cb1cd
+    - Name: New_SoundBankLighteater
+      Path: Default Work Unit\New_SoundBankLighteater
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: New_SoundBankLighteater
+        ObjectType: 7
+      ID: 1704137952
+      Guid: 951a6b8559ed3c49883e0a4e41b69981
+    - Name: Raina
+      Path: Default Work Unit\Raina
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Raina
+        ObjectType: 7
+      ID: -1695557268
+      Guid: a24c5ff685e65d49ab61f8517055b6c4
+    - Name: Torch
+      Path: Default Work Unit\Torch
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Torch
+        ObjectType: 7
+      ID: 1904864137
+      Guid: 6b1fccd21a5e6d47860aaf4ab28ed778
+  ExpandedItems: []
+  m_lastPopulateTimePsrt1: 0
+  m_lastPopulateTimePart2: 0
+  autoPopulateEnabled: 1
+  basePath: Audio\GeneratedSoundBanks
+  language: English(US)
+  defaultPoolSize: 4096
+  lowerPoolSize: 2048
+  streamingPoolSize: 1024
+  preparePoolSize: 0
+  memoryCutoffThreshold: 0.95

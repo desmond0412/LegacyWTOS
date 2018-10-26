@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	349821051	waterfall_end			\Default Work Unit\Copa\waterfall_end	
+	1873129830	waterfall_loop			\Default Work Unit\Copa\waterfall_loop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	247560644	sx_copa_waterfall_loop	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_copa_waterfall_loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Copa\waterfall_loop\sx_copa_waterfall_loop		1706860
+	637380258	sx_copa_waterfall_start	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_copa_waterfall_start_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Copa\waterfall_start\sx_copa_waterfall_start		175520
+

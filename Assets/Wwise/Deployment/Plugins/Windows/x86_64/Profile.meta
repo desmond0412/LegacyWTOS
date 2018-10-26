@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 99fe5c0089edf0c4fa53cbe80d8bb1f8
+folderAsset: yes
+=======
+<<<<<<< HEAD
+guid: 99fe5c0089edf0c4fa53cbe80d8bb1f8
+folderAsset: yes
+timeCreated: 1461223425
+licenseType: Pro
+=======
+guid: 08bb5fc67ff8b714fabee82c66689625
+folderAsset: yes
+timeCreated: 1457624451
+licenseType: Free
+>>>>>>> 0e4ba808683b79dd13dda532a76544186bfb1d2b
+>>>>>>> release/DemoAlpha01_v.0.01
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

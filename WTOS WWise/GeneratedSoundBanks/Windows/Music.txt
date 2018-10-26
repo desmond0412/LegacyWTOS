@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	174091791	Parallax_Stop			\Default Work Unit\Music\Parallax_Stop	
+	1316323540	Main_MenuStop			\Default Work Unit\Music\Main_MenuStop	
+	1548585248	Parallax			\Default Work Unit\Music\Parallax	
+	1840818480	A1P16			\Default Work Unit\Music\A1P16	
+	2005704188	Main_Menu			\Default Work Unit\Music\Main_Menu	
+	2357523160	A1P16Stop			\Default Work Unit\Music\A1P16Stop	
+	2432560633	A1P2Stop			\Default Work Unit\Music\A1P2Stop	
+	3109809825	A1P2			\Default Work Unit\Music\A1P2	
+	3306757540	A1P5and7			\Default Work Unit\Music\A1P5and7	
+	3341225356	A1P5and7Stop			\Default Work Unit\Music\A1P5and7Stop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	75134982	A1P16	Y:\Desktop\WTOS\WTOS WWise\.cache\Windows\SFX\A1P16_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\A1P16\A1P16MX\A1P16		9237088
+	418276161	Parallax	Y:\Desktop\WTOS\WTOS WWise\.cache\Windows\SFX\Parallax_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Parallax\Parallax\Parallax		9237088
+	440118654	A1P2MX	Y:\Desktop\WTOS\WTOS WWise\.cache\Windows\SFX\A1P2MX_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\A1P2\A1P2MX\A1P2MX		9676944
+	747744975	A1P5&7 MX	Y:\Desktop\WTOS\WTOS WWise\.cache\Windows\SFX\A1P5&7 MX_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\A1P5&7\A1P5&7 MX\A1P5&7 MX		11289744
+	967459722	WTOS Main Menu MX	Y:\Desktop\WTOS\WTOS WWise\.cache\Windows\SFX\WTOS Main Menu MX_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Main_Menu\Main_Menu\WTOS Main Menu MX		4838544
+

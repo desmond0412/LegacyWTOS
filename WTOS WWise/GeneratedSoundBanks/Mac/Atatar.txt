@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	525173505	atatar_idle			\Default Work Unit\Atatar\atatar_idle	
+	868780266	atatar_fs			\Default Work Unit\Atatar\atatar_fs	
+	1717020207	atatar_attack			\Default Work Unit\Atatar\atatar_attack	
+	2667796934	atatar_chew			\Default Work Unit\Atatar\atatar_chew	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	137460917	sx_atatar_fs_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_atatar_fs_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Atatar\footsteps\sx_atatar_fs_02		143100
+	489782577	sx_atatar_fs_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_atatar_fs_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Atatar\footsteps\sx_atatar_fs_03		80184
+	519457995	sx_atatar_fs_04	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_atatar_fs_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Atatar\footsteps\sx_atatar_fs_04		75686
+	836388323	sx_atatar_idle(breathing)	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_atatar_idle(breathing)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Atatar\idle\sx_atatar_idle(breathing)		496582
+	954291833	sx_atatar_attack	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_atatar_attack_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Atatar\attack\sx_atatar_attack		142300
+	969976403	sx_atatar_fs_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_atatar_fs_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Atatar\footsteps\sx_atatar_fs_01		151608
+	1062806566	sx_atatar_kill_loop	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_atatar_kill_loop_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Atatar\start_nomnom\sx_atatar_kill_loop		150518
+

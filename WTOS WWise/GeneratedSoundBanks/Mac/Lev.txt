@@ -1,0 +1,74 @@
+Event	ID	Name			Wwise Object Path	Notes
+	274896520	lev_dropdead			\Default Work Unit\Lev\lev_dropdead	
+	323100301	lev_fire_shoot			\Default Work Unit\Lev\lev_fire_shoot	
+	886808226	lev_crawl			\Default Work Unit\Lev\lev_crawl	
+	1016227005	lev_drown			\Default Work Unit\Lev\lev_drown	
+	1601536415	lev_zroot_retract			\Default Work Unit\Lev\lev_zroot_retract	
+	1612615765	lev_zroot_shoot			\Default Work Unit\Lev\lev_zroot_shoot	
+	2037033222	lev_zroot_impact			\Default Work Unit\Lev\lev_zroot_impact	
+	2092161734	lev_fire_small_impact			\Default Work Unit\Lev\lev_fire_small_impact	
+	2849655396	lev_fs			\Default Work Unit\Lev\lev_fs	
+	3069224582	lev_fall			\Default Work Unit\Lev\lev_fall	
+	3593249883	lev_crouch			\Default Work Unit\Lev\lev_crouch	
+	3660352712	lev_zroot_stop			\Default Work Unit\Lev\lev_zroot_stop	
+	3768251896	lev_aim			\Default Work Unit\Lev\lev_aim	
+	4068606542	lev_landing			\Default Work Unit\Lev\lev_landing	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1834394558	surface			\Default Work Unit\surface	
+
+Switch	ID	Name	Switch Group			Notes
+	787898836	snow	surface			
+	1216965916	stone	surface			
+	1240531277	woodbridge	surface			
+	1744723399	bone	surface			
+	2654748154	water	surface			
+	4248645337	grass	surface			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	38506591	sx_lev_fs_woodbridge_04	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_woodbridge_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\wood bridge\sx_lev_fs_woodbridge_04		75496
+	69325006	sx_lev_fs_snow_04	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_snow_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\snow\sx_lev_fs_snow_04		28282
+	115655697	sx_lev_fs_water_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_water_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\water\sx_lev_fs_water_03		28774
+	119050867	sx_lev_fs_stone_06	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_stone_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\stone\sx_lev_fs_stone_06		22496
+	136490586	sx_lev_fs_stone_05	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_stone_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\stone\sx_lev_fs_stone_05		25538
+	143257819	sx_lev_weapon_zroot_shoot_loop_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_zroot_shoot_loop_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\zroot_loop\sx_lev_weapon_zroot_shoot_loop_01		205888
+	233496235	sx_lev_fs_grass_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_grass_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\grass\sx_lev_fs_grass_01		83580
+	277026909	sx_lev_landing	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_landing_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\landing\sx_lev_landing		100708
+	280519957	sx_lev_weapon_zroot_impact_plant_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_zroot_impact_plant_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\zroot_impact\sx_lev_weapon_zroot_impact_plant_01		32064
+	286731102	sx_lev_weapon_fire_small_impact_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_fire_small_impact_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\fire_small_impact\sx_lev_weapon_fire_small_impact_02		44064
+	320239097	sx_lev_crawl	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_crawl_5EAA55D2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\crawl\sx_lev_crawl		77792
+	401157272	sx_lev_fs_grass_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_grass_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\grass\sx_lev_fs_grass_02		68968
+	427178533	sx_lev_weapon_shoot_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_shoot_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\fire_shoot\sx_lev_weapon_shoot_01		32064
+	463659014	sx_lev_fs_stone_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_stone_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\stone\sx_lev_fs_stone_03		32064
+	477192113	sx_lev_weapon_fire_small_impact_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_fire_small_impact_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\fire_small_impact\sx_lev_weapon_fire_small_impact_01		40064
+	491269156	sx_lev_fs_woodbridge_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_woodbridge_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\wood bridge\sx_lev_fs_woodbridge_03		69888
+	503218289	sx_lev_fs_water_04	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_water_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\water\sx_lev_fs_water_04		27020
+	514819922	sx_lev_fs_snow_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_snow_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\snow\sx_lev_fs_snow_03		26570
+	525696440	sx_lev_weapon_shoot_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_shoot_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\fire_shoot\sx_lev_weapon_shoot_02		28064
+	544064577	sx_lev_fs_woodbridge_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_woodbridge_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\wood bridge\sx_lev_fs_woodbridge_01		77240
+	561170205	sx_lev_fs_bone_04	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_bone_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\bone\sx_lev_fs_bone_04		28136
+	566758797	sx_lev_aim	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_aim_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\aim\sx_lev_aim		198016
+	577932009	sx_lev_fs_woodbridge_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_woodbridge_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\wood bridge\sx_lev_fs_woodbridge_02		75308
+	579921552	sx_lev_fs_water_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_water_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\water\sx_lev_fs_water_02		23772
+	596717961	sx_lev_weapon_zroot_retract_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_zroot_retract_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\zroot_retract\sx_lev_weapon_zroot_retract_01		76064
+	631474057	sx_lev_drown	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_drown_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\drown\sx_lev_drown		771892
+	643822280	sx_lev_crouch	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_crouch_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\crouch\sx_lev_crouch		42212
+	657493591	sx_lev_weapon_fire_small_impact_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_fire_small_impact_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\fire_small_impact\sx_lev_weapon_fire_small_impact_03		44064
+	659367844	sx_lev_fs_bone_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_bone_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\bone\sx_lev_fs_bone_03		29088
+	665096649	sx_lev_fs_bone_06	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_bone_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\bone\sx_lev_fs_bone_06		29594
+	677834088	sx_lev_fs_stone_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_stone_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\stone\sx_lev_fs_stone_02		32080
+	687918531	sx_lev_fs_stone_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_stone_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\stone\sx_lev_fs_stone_01		32048
+	783671730	sx_lev_fs_bone_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_bone_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\bone\sx_lev_fs_bone_02		29184
+	783749413	sx_lev_fs_stone_04	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_stone_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\stone\sx_lev_fs_stone_04		36064
+	856404480	sx_lev_fs_snow_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_snow_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\snow\sx_lev_fs_snow_02		22540
+	878022352	sx_lev_fall_landing	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fall_landing_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\fall\sx_lev_fall_landing		404852
+	934999036	sx_lev_weapon_zroot_shoot_start_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_zroot_shoot_start_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\zroot_shoot\sx_lev_weapon_zroot_shoot_start_01		57344
+	935632086	sx_lev_fs_snow_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_snow_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\snow\sx_lev_fs_snow_01		26056
+	943675313	sx_lev_fs_water_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_water_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\water\sx_lev_fs_water_01		37590
+	945341857	sx_lev_dropdead	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_dropdead_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\dropdead\sx_lev_dropdead		365444
+	970688495	sx_lev_weapon_shoot_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_weapon_shoot_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\weapon\fire_shoot\sx_lev_weapon_shoot_03		27296
+	1031332866	sx_lev_fs_grass_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_grass_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\grass\sx_lev_fs_grass_03		103416
+	1039033585	sx_lev_fs_bone_05	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_bone_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\bone\sx_lev_fs_bone_05		27384
+	1045753842	sx_lev_fs_bone_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_bone_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\bone\sx_lev_fs_bone_01		25664
+	1059772125	sx_lev_fs_grass_04	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_grass_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lev\footsteps\grass\sx_lev_fs_grass_04		91932
+

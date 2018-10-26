@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3910827167	Grows			\Default Work Unit\Lighteater\Grows	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	862115230	sx_lighteater_grows	Y:\Desktop\WTOS\WTOS WWise\.cache\Windows\SFX\sx_lighteater_grows_A396414D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Lighteater\Grows\sx_lighteater_grows		1042648
+
