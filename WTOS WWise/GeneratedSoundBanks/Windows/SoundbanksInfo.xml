@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>/Users/burhandewantara/Library/Application Support/Wwise/Bottles/wwise/dosdevices/y:/Desktop/WTOS/WTOS WWise/</ProjectRoot>
+		<SourceFilesRoot>/Users/burhandewantara/Library/Application Support/Wwise/Bottles/wwise/dosdevices/y:/Desktop/WTOS/WTOS WWise/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/burhandewantara/Library/Application Support/Wwise/Bottles/wwise/dosdevices/y:/Desktop/WTOS/WTOS WWise/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/burhandewantara/Library/Application Support/Wwise/Bottles/wwise/dosdevices/y:/Desktop/WTOS/WTOS WWise/GeneratedSoundBanks/Windows/</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="646037106" Language="SFX">
+			<ShortName>Lev</ShortName>
+			<Path>Lev.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3768251896" Name="lev_aim"/>
+				<Event Id="886808226" Name="lev_crawl"/>
+				<Event Id="3593249883" Name="lev_crouch"/>
+				<Event Id="274896520" Name="lev_dropdead"/>
+				<Event Id="1016227005" Name="lev_drown"/>
+				<Event Id="3069224582" Name="lev_fall"/>
+				<Event Id="323100301" Name="lev_fire_shoot"/>
+				<Event Id="2092161734" Name="lev_fire_small_impact"/>
+				<Event Id="2849655396" Name="lev_fs"/>
+				<Event Id="4068606542" Name="lev_landing"/>
+				<Event Id="2037033222" Name="lev_zroot_impact"/>
+				<Event Id="1601536415" Name="lev_zroot_retract"/>
+				<Event Id="1612615765" Name="lev_zroot_shoot"/>
+				<Event Id="3660352712" Name="lev_zroot_stop"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="69325006" Language="SFX">
+					<ShortName>sx_lev_fs_snow_04.wav</ShortName>
+					<Path>SFX/sx_lev_fs_snow_04_9E69E797.wem</Path>
+				</File>
+				<File Id="80853943" Language="SFX">
+					<ShortName>sx_lev_fs_woodbridge_04.wav</ShortName>
+					<Path>SFX/sx_lev_fs_woodbridge_04_9E69E797.wem</Path>
+				</File>
+				<File Id="115655697" Language="SFX">
+					<ShortName>sx_lev_fs_water_03.wav</ShortName>
+					<Path>SFX/sx_lev_fs_water_03_9E69E797.wem</Path>
+				</File>
+				<File Id="119050867" Language="SFX">
+					<ShortName>sx_lev_fs_stone_06.wav</ShortName>
+					<Path>SFX/sx_lev_fs_stone_06_9E69E797.wem</Path>
+				</File>
+				<File Id="136490586" Language="SFX">
+					<ShortName>sx_lev_fs_stone_05.wav</ShortName>
+					<Path>SFX/sx_lev_fs_stone_05_9E69E797.wem</Path>
+				</File>
+				<File Id="143257819" Language="SFX">
+					<ShortName>sx_lev_weapon_zroot_shoot_loop_01.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_zroot_shoot_loop_01_9E69E797.wem</Path>
+				</File>
+				<File Id="233496235" Language="SFX">
+					<ShortName>sx_lev_fs_grass_01.wav</ShortName>
+					<Path>SFX/sx_lev_fs_grass_01_9E69E797.wem</Path>
+				</File>
+				<File Id="277026909" Language="SFX">
+					<ShortName>sx_lev_landing.wav</ShortName>
+					<Path>SFX/sx_lev_landing_9E69E797.wem</Path>
+				</File>
+				<File Id="280519957" Language="SFX">
+					<ShortName>sx_lev_weapon_zroot_impact_plant_01.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_zroot_impact_plant_01_9E69E797.wem</Path>
+				</File>
+				<File Id="286731102" Language="SFX">
+					<ShortName>sx_lev_weapon_fire_small_impact_02.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_fire_small_impact_02_9E69E797.wem</Path>
+				</File>
+				<File Id="320239097" Language="SFX">
+					<ShortName>sx_lev_crawl.wav</ShortName>
+					<Path>SFX/sx_lev_crawl_5EAA55D2.wem</Path>
+				</File>
+				<File Id="401157272" Language="SFX">
+					<ShortName>sx_lev_fs_grass_02.wav</ShortName>
+					<Path>SFX/sx_lev_fs_grass_02_9E69E797.wem</Path>
+				</File>
+				<File Id="427178533" Language="SFX">
+					<ShortName>sx_lev_weapon_shoot_01.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_shoot_01_9E69E797.wem</Path>
+				</File>
+				<File Id="463659014" Language="SFX">
+					<ShortName>sx_lev_fs_stone_03.wav</ShortName>
+					<Path>SFX/sx_lev_fs_stone_03_9E69E797.wem</Path>
+				</File>
+				<File Id="477192113" Language="SFX">
+					<ShortName>sx_lev_weapon_fire_small_impact_01.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_fire_small_impact_01_9E69E797.wem</Path>
+				</File>
+				<File Id="491269156" Language="SFX">
+					<ShortName>sx_lev_fs_woodbridge_03.wav</ShortName>
+					<Path>SFX/sx_lev_fs_woodbridge_03_9E69E797.wem</Path>
+				</File>
+				<File Id="503218289" Language="SFX">
+					<ShortName>sx_lev_fs_water_04.wav</ShortName>
+					<Path>SFX/sx_lev_fs_water_04_9E69E797.wem</Path>
+				</File>
+				<File Id="514819922" Language="SFX">
+					<ShortName>sx_lev_fs_snow_03.wav</ShortName>
+					<Path>SFX/sx_lev_fs_snow_03_9E69E797.wem</Path>
+				</File>
+				<File Id="525696440" Language="SFX">
+					<ShortName>sx_lev_weapon_shoot_02.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_shoot_02_9E69E797.wem</Path>
+				</File>
+				<File Id="544064577" Language="SFX">
+					<ShortName>sx_lev_fs_woodbridge_01.wav</ShortName>
+					<Path>SFX/sx_lev_fs_woodbridge_01_9E69E797.wem</Path>
+				</File>
+				<File Id="561170205" Language="SFX">
+					<ShortName>sx_lev_fs_bone_04.wav</ShortName>
+					<Path>SFX/sx_lev_fs_bone_04_9E69E797.wem</Path>
+				</File>
+				<File Id="566758797" Language="SFX">
+					<ShortName>sx_lev_aim.wav</ShortName>
+					<Path>SFX/sx_lev_aim_9E69E797.wem</Path>
+				</File>
+				<File Id="577932009" Language="SFX">
+					<ShortName>sx_lev_fs_woodbridge_02.wav</ShortName>
+					<Path>SFX/sx_lev_fs_woodbridge_02_9E69E797.wem</Path>
+				</File>
+				<File Id="579921552" Language="SFX">
+					<ShortName>sx_lev_fs_water_02.wav</ShortName>
+					<Path>SFX/sx_lev_fs_water_02_9E69E797.wem</Path>
+				</File>
+				<File Id="596717961" Language="SFX">
+					<ShortName>sx_lev_weapon_zroot_retract_01.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_zroot_retract_01_9E69E797.wem</Path>
+				</File>
+				<File Id="631474057" Language="SFX">
+					<ShortName>sx_lev_drown.wav</ShortName>
+					<Path>SFX/sx_lev_drown_9E69E797.wem</Path>
+				</File>
+				<File Id="643822280" Language="SFX">
+					<ShortName>sx_lev_crouch.wav</ShortName>
+					<Path>SFX/sx_lev_crouch_9E69E797.wem</Path>
+				</File>
+				<File Id="657493591" Language="SFX">
+					<ShortName>sx_lev_weapon_fire_small_impact_03.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_fire_small_impact_03_9E69E797.wem</Path>
+				</File>
+				<File Id="659367844" Language="SFX">
+					<ShortName>sx_lev_fs_bone_03.wav</ShortName>
+					<Path>SFX/sx_lev_fs_bone_03_9E69E797.wem</Path>
+				</File>
+				<File Id="665096649" Language="SFX">
+					<ShortName>sx_lev_fs_bone_06.wav</ShortName>
+					<Path>SFX/sx_lev_fs_bone_06_9E69E797.wem</Path>
+				</File>
+				<File Id="677834088" Language="SFX">
+					<ShortName>sx_lev_fs_stone_02.wav</ShortName>
+					<Path>SFX/sx_lev_fs_stone_02_9E69E797.wem</Path>
+				</File>
+				<File Id="687918531" Language="SFX">
+					<ShortName>sx_lev_fs_stone_01.wav</ShortName>
+					<Path>SFX/sx_lev_fs_stone_01_9E69E797.wem</Path>
+				</File>
+				<File Id="783671730" Language="SFX">
+					<ShortName>sx_lev_fs_bone_02.wav</ShortName>
+					<Path>SFX/sx_lev_fs_bone_02_9E69E797.wem</Path>
+				</File>
+				<File Id="783749413" Language="SFX">
+					<ShortName>sx_lev_fs_stone_04.wav</ShortName>
+					<Path>SFX/sx_lev_fs_stone_04_9E69E797.wem</Path>
+				</File>
+				<File Id="856404480" Language="SFX">
+					<ShortName>sx_lev_fs_snow_02.wav</ShortName>
+					<Path>SFX/sx_lev_fs_snow_02_9E69E797.wem</Path>
+				</File>
+				<File Id="878022352" Language="SFX">
+					<ShortName>sx_lev_fall_landing.wav</ShortName>
+					<Path>SFX/sx_lev_fall_landing_9E69E797.wem</Path>
+				</File>
+				<File Id="934999036" Language="SFX">
+					<ShortName>sx_lev_weapon_zroot_shoot_start_01.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_zroot_shoot_start_01_9E69E797.wem</Path>
+				</File>
+				<File Id="935632086" Language="SFX">
+					<ShortName>sx_lev_fs_snow_01.wav</ShortName>
+					<Path>SFX/sx_lev_fs_snow_01_9E69E797.wem</Path>
+				</File>
+				<File Id="943675313" Language="SFX">
+					<ShortName>sx_lev_fs_water_01.wav</ShortName>
+					<Path>SFX/sx_lev_fs_water_01_9E69E797.wem</Path>
+				</File>
+				<File Id="945341857" Language="SFX">
+					<ShortName>sx_lev_dropdead.wav</ShortName>
+					<Path>SFX/sx_lev_dropdead_9E69E797.wem</Path>
+				</File>
+				<File Id="970688495" Language="SFX">
+					<ShortName>sx_lev_weapon_shoot_03.wav</ShortName>
+					<Path>SFX/sx_lev_weapon_shoot_03_9E69E797.wem</Path>
+				</File>
+				<File Id="1031332866" Language="SFX">
+					<ShortName>sx_lev_fs_grass_03.wav</ShortName>
+					<Path>SFX/sx_lev_fs_grass_03_9E69E797.wem</Path>
+				</File>
+				<File Id="1039033585" Language="SFX">
+					<ShortName>sx_lev_fs_bone_05.wav</ShortName>
+					<Path>SFX/sx_lev_fs_bone_05_9E69E797.wem</Path>
+				</File>
+				<File Id="1045753842" Language="SFX">
+					<ShortName>sx_lev_fs_bone_01.wav</ShortName>
+					<Path>SFX/sx_lev_fs_bone_01_9E69E797.wem</Path>
+				</File>
+				<File Id="1059772125" Language="SFX">
+					<ShortName>sx_lev_fs_grass_04.wav</ShortName>
+					<Path>SFX/sx_lev_fs_grass_04_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="786886536" Language="SFX">
+			<ShortName>Atatar</ShortName>
+			<Path>Atatar.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1717020207" Name="atatar_attack"/>
+				<Event Id="2667796934" Name="atatar_chew"/>
+				<Event Id="868780266" Name="atatar_fs"/>
+				<Event Id="525173505" Name="atatar_idle"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="137460917" Language="SFX">
+					<ShortName>sx_atatar_fs_02.wav</ShortName>
+					<Path>SFX/sx_atatar_fs_02_9E69E797.wem</Path>
+				</File>
+				<File Id="489782577" Language="SFX">
+					<ShortName>sx_atatar_fs_03.wav</ShortName>
+					<Path>SFX/sx_atatar_fs_03_9E69E797.wem</Path>
+				</File>
+				<File Id="519457995" Language="SFX">
+					<ShortName>sx_atatar_fs_04.wav</ShortName>
+					<Path>SFX/sx_atatar_fs_04_9E69E797.wem</Path>
+				</File>
+				<File Id="836388323" Language="SFX">
+					<ShortName>sx_atatar_idle(breathing).wav</ShortName>
+					<Path>SFX/sx_atatar_idle(breathing)_9E69E797.wem</Path>
+				</File>
+				<File Id="954291833" Language="SFX">
+					<ShortName>sx_atatar_attack.wav</ShortName>
+					<Path>SFX/sx_atatar_attack_9E69E797.wem</Path>
+				</File>
+				<File Id="969976403" Language="SFX">
+					<ShortName>sx_atatar_fs_01.wav</ShortName>
+					<Path>SFX/sx_atatar_fs_01_9E69E797.wem</Path>
+				</File>
+				<File Id="1062806566" Language="SFX">
+					<ShortName>sx_atatar_kill_loop.wav</ShortName>
+					<Path>SFX/sx_atatar_kill_loop_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1229948536" Language="SFX">
+			<ShortName>Environment</ShortName>
+			<Path>Environment.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1919234829" Name="start_forest"/>
+				<Event Id="1085006091" Name="stop_forest"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="658909375" Language="SFX">
+					<ShortName>sx_amb_enchantedforest.wav</ShortName>
+					<Path>SFX/sx_amb_enchantedforest_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1704137952" Language="SFX">
+			<ShortName>New_SoundBankLighteater</ShortName>
+			<Path>New_SoundBankLighteater.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1833492559" Language="SFX">
+			<ShortName>Moluvusha</ShortName>
+			<Path>Moluvusha.bnk</Path>
+			<IncludedEvents>
+				<Event Id="872959958" Name="moluvusha_close"/>
+				<Event Id="4293124028" Name="moluvusha_eat"/>
+				<Event Id="3704462456" Name="moluvusha_lightgrab"/>
+				<Event Id="4266407938" Name="moluvusha_open"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="114008705" Language="SFX">
+					<ShortName>sx_moluvusha_eat.wav</ShortName>
+					<Path>SFX/sx_moluvusha_eat_9E69E797.wem</Path>
+				</File>
+				<File Id="303338631" Language="SFX">
+					<ShortName>sx_moluvusha_close.wav</ShortName>
+					<Path>SFX/sx_moluvusha_close_9E69E797.wem</Path>
+				</File>
+				<File Id="360604469" Language="SFX">
+					<ShortName>sx_moluvusha_light.wav</ShortName>
+					<Path>SFX/sx_moluvusha_light_9E69E797.wem</Path>
+				</File>
+				<File Id="623875628" Language="SFX">
+					<ShortName>sx_moluvusha_open.wav</ShortName>
+					<Path>SFX/sx_moluvusha_open_716EBDA3.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1904864137" Language="SFX">
+			<ShortName>Torch</ShortName>
+			<Path>Torch.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3836364476" Name="Start_firetorch"/>
+				<Event Id="223889434" Name="Stop_firetorch"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="496105908" Language="SFX">
+					<ShortName>sx_torch.wav</ShortName>
+					<Path>SFX/sx_torch_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2378148603" Language="SFX">
+			<ShortName>Naivis</ShortName>
+			<Path>Naivis.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2792627825" Name="naivis_blooming"/>
+				<Event Id="3525582155" Name="naivis_closing"/>
+				<Event Id="3289151945" Name="naivis_idle_start"/>
+				<Event Id="1175442275" Name="naivis_idle_stop"/>
+				<Event Id="3166139083" Name="naivis_pull"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="162463037" Language="SFX">
+					<ShortName>sx_naivis_closing_fulllength.wav</ShortName>
+					<Path>SFX/sx_naivis_closing_fulllength_F05F5D68.wem</Path>
+				</File>
+				<File Id="352446738" Language="SFX">
+					<ShortName>sx_naivis_blooming.wav</ShortName>
+					<Path>SFX/sx_naivis_blooming_9E69E797.wem</Path>
+				</File>
+				<File Id="380104246" Language="SFX">
+					<ShortName>sx_naivis_closing_fulllength.wav</ShortName>
+					<Path>SFX/sx_naivis_closing_fulllength_EB2E297D.wem</Path>
+				</File>
+				<File Id="758242502" Language="SFX">
+					<ShortName>sx_naivis_idle.wav</ShortName>
+					<Path>SFX/sx_naivis_idle_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2599410028" Language="SFX">
+			<ShortName>Raina</ShortName>
+			<Path>Raina.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1764402966" Name="raina_fs"/>
+				<Event Id="3616098525" Name="raina_transform"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="80853943" Language="SFX">
+					<ShortName>sx_lev_fs_woodbridge_04.wav</ShortName>
+					<Path>SFX/sx_lev_fs_woodbridge_04_9E69E797.wem</Path>
+				</File>
+				<File Id="384300491" Language="SFX">
+					<ShortName>sx_raina_transform.wav</ShortName>
+					<Path>SFX/sx_raina_transform_9E69E797.wem</Path>
+				</File>
+				<File Id="491269156" Language="SFX">
+					<ShortName>sx_lev_fs_woodbridge_03.wav</ShortName>
+					<Path>SFX/sx_lev_fs_woodbridge_03_9E69E797.wem</Path>
+				</File>
+				<File Id="544064577" Language="SFX">
+					<ShortName>sx_lev_fs_woodbridge_01.wav</ShortName>
+					<Path>SFX/sx_lev_fs_woodbridge_01_9E69E797.wem</Path>
+				</File>
+				<File Id="577932009" Language="SFX">
+					<ShortName>sx_lev_fs_woodbridge_02.wav</ShortName>
+					<Path>SFX/sx_lev_fs_woodbridge_02_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2799762750" Language="SFX">
+			<ShortName>Lighteater</ShortName>
+			<Path>Lighteater.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3910827167" Name="Grows"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="862115230" Language="SFX">
+					<ShortName>sx_lighteater_grows.wav</ShortName>
+					<Path>SFX/sx_lighteater_grows_A396414D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3754271810" Language="SFX">
+			<ShortName>Copa</ShortName>
+			<Path>Copa.bnk</Path>
+			<IncludedEvents>
+				<Event Id="349821051" Name="waterfall_end"/>
+				<Event Id="1873129830" Name="waterfall_loop"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="247560644" Language="SFX">
+					<ShortName>sx_copa_waterfall_loop.wav</ShortName>
+					<Path>SFX/sx_copa_waterfall_loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="637380258" Language="SFX">
+					<ShortName>sx_copa_waterfall_start.wav</ShortName>
+					<Path>SFX/sx_copa_waterfall_start_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1840818480" Name="A1P16"/>
+				<Event Id="2357523160" Name="A1P16Stop"/>
+				<Event Id="3109809825" Name="A1P2"/>
+				<Event Id="2432560633" Name="A1P2Stop"/>
+				<Event Id="3306757540" Name="A1P5and7"/>
+				<Event Id="3341225356" Name="A1P5and7Stop"/>
+				<Event Id="2005704188" Name="Main_Menu"/>
+				<Event Id="1316323540" Name="Main_MenuStop"/>
+				<Event Id="1548585248" Name="Parallax"/>
+				<Event Id="174091791" Name="Parallax_Stop"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="75134982" Language="SFX">
+					<ShortName>A1P16.wav</ShortName>
+					<Path>SFX/A1P16_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="418276161" Language="SFX">
+					<ShortName>Parallax.wav</ShortName>
+					<Path>SFX/Parallax_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="440118654" Language="SFX">
+					<ShortName>A1P2MX.wav</ShortName>
+					<Path>SFX/A1P2MX_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="747744975" Language="SFX">
+					<ShortName>A1P5&amp;7 MX.wav</ShortName>
+					<Path>SFX/A1P5&amp;7 MX_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="967459722" Language="SFX">
+					<ShortName>WTOS Main Menu MX.wav</ShortName>
+					<Path>SFX/WTOS Main Menu MX_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

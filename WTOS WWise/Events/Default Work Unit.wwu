@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Lev" ID="{DE943370-3E0C-46C1-B202-E395C51D69FE}" ShortID="4556358">
+					<ChildrenList>
+						<Event Name="lev_fs" ID="{DB2F0282-2661-4969-BBA2-7D3FD33DBC75}">
+							<ChildrenList>
+								<Action Name="Play" ID="{9646FD86-2659-459C-A268-0E70F68BD128}" ShortID="439670271" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{75E160E9-A399-4514-B456-FA24C2CE3BC2}" Global="false">
+											<ObjectRef Name="footsteps" ID="{16501440-BF56-48B0-82BC-2531CA3ABF7C}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_zroot_shoot" ID="{3B86143E-C225-4C82-A133-13AE56993D87}">
+							<ChildrenList>
+								<Action Name="Play" ID="{BD2B9730-CF81-406E-B51D-FA6FF622C9DA}" ShortID="926265759" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{BA791F39-76A7-446E-9541-4F612A4D469B}" Global="false">
+											<ObjectRef Name="zroot_shoot" ID="{6D4041E8-CFC3-47B3-B923-F1704B4CE597}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+								<Action Name="Play" ID="{6A8580B3-48C2-474A-92EC-973BDA75987E}" ShortID="849254111" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{187390FD-7E83-4F4F-8C65-9A9AFFF90B74}" Global="false">
+											<ObjectRef Name="zroot_loop" ID="{C6CCB63A-669C-48E1-B38B-5A57523CCCF7}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_aim" ID="{DEE8BC99-2398-462B-9643-9CE6C6C9C513}">
+							<ChildrenList>
+								<Action Name="Play" ID="{40B8CF64-4EA0-4CAF-B3B3-BAE202498F36}" ShortID="803549555" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{5F77D656-88D7-4384-8352-2CD9DF406D2F}" Global="false">
+											<ObjectRef Name="sx_lev_aim" ID="{EDB11CD2-2132-4572-B2FD-E7899C6F678E}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_crawl" ID="{DC83EF2D-62CE-4A26-A162-146A7CD47C5D}">
+							<ChildrenList>
+								<Action Name="Play" ID="{DED70407-156D-4705-B033-9C04A52141BC}" ShortID="740638326" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{ABF0F16C-1D5E-49E0-B740-3FBA24E7C627}" Global="false">
+											<ObjectRef Name="sx_lev_crawl" ID="{0C9B8B72-400F-4D51-BECC-13FC29A562D3}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_crouch" ID="{6174DB3A-3261-4E35-9E9E-7AD27BD0BB3D}">
+							<ChildrenList>
+								<Action Name="Play" ID="{FCE56AB9-555E-4BC5-9000-DD14072DF63B}" ShortID="668936375" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{31ED982A-67BB-48B0-904E-E4F298250DBE}" Global="false">
+											<ObjectRef Name="sx_lev_crouch" ID="{18393BA9-DFB6-4751-8F7E-FCD5F5AB5726}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_dropdead" ID="{324625C9-0CCB-4BFC-8E0D-94B679870BAD}">
+							<ChildrenList>
+								<Action Name="Play" ID="{09C3CBF9-8377-4826-8698-E45796AE1B6E}" ShortID="448883878" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{4758DF8A-6ED4-4087-AB38-A7E83F5E138A}" Global="false">
+											<ObjectRef Name="sx_lev_dropdead" ID="{5583D752-92A1-4F83-AB77-F89B9AC3F32A}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_drown" ID="{6FA4EC9B-E0BF-4A4E-A4CE-1F67982C7A32}">
+							<ChildrenList>
+								<Action Name="Play" ID="{EC60B230-8146-4D6B-9415-175A8EE22DE1}" ShortID="216051438" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{6E34B628-F417-4B32-BC02-6D360A1E4FEC}"/>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{DB54B365-D351-44F9-9953-09C82EFD70C6}" Global="false">
+											<ObjectRef Name="sx_lev_drown" ID="{616AAB50-2EFD-46EA-827E-E004335364DD}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_fall" ID="{3CF3E364-D871-4BC6-8FDC-46B55960DDAF}">
+							<ChildrenList>
+								<Action Name="Play" ID="{5F027354-DC61-470D-AE8A-57C8CBFACC01}" ShortID="308962846" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{32439644-8FD8-4B87-B44C-3B37E97DA62E}" Global="false">
+											<ObjectRef Name="sx_lev_fall_landing" ID="{AA16C7B1-7E24-4C76-8F6D-BED7031E48B3}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_landing" ID="{F465C84D-FE81-4566-BA02-2E6A2AC64789}">
+							<ChildrenList>
+								<Action Name="Play" ID="{5621DA16-1882-43F8-BB7B-E2CB47DD97B3}" ShortID="1017034491" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{99DCDEB4-CAB5-458E-87BC-2AAC2D044EA2}" Global="false">
+											<ObjectRef Name="sx_lev_landing" ID="{955695BB-BB83-44D6-8C97-E1F5B8D53EE2}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_zroot_impact" ID="{B480BAE8-1602-4708-AFE0-1424CC75EA0D}">
+							<ChildrenList>
+								<Action Name="Play" ID="{B1BDA011-7AEB-4B8D-AE8F-FE4730AB27AE}" ShortID="729747025" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{D6650CA9-E265-4906-81D9-A692D9F6AD8C}" Global="false">
+											<ObjectRef Name="zroot_impact" ID="{D3C62397-D305-461B-A321-86C68BDDA10B}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_zroot_retract" ID="{08D89038-153F-4F5F-A1C2-14DC72F83927}">
+							<ChildrenList>
+								<Action Name="Play" ID="{67AA58E5-4075-4078-B0DA-EA7796B670A7}" ShortID="209161086" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{F31FC93C-55B7-429C-9F7F-D4DEE78DFC81}" Global="false">
+											<ObjectRef Name="zroot_retract" ID="{CB4DD2E0-3E33-4C39-AF13-89701CA1462A}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_zroot_stop" ID="{F3F3690E-A51B-4D5E-95F8-478CDBCC5D23}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{BFE98656-2242-4EF0-98C8-1DE7D75E2431}" ShortID="38303034" Type="Stop" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{396E273A-7198-4DBA-A75F-606A6957E2FD}" Global="false">
+											<ObjectRef Name="zroot_loop" ID="{C6CCB63A-669C-48E1-B38B-5A57523CCCF7}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_fire_shoot" ID="{4FE88180-2FEC-4BE2-90C8-F76C79E1A77A}">
+							<ChildrenList>
+								<Action Name="Play" ID="{B8C885AF-6352-4344-B821-93D02881530F}" ShortID="807344151" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{45208C74-1ADB-4245-9C36-FFB5733A1BB8}" Global="false">
+											<ObjectRef Name="fire_shoot" ID="{3009FADF-C379-494D-B47C-110FAB818933}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lev_fire_small_impact" ID="{81A4D706-F021-4F89-95CD-82FFAAF3482D}">
+							<ChildrenList>
+								<Action Name="Play" ID="{47920B95-A378-4587-9DB5-D531836F4B83}" ShortID="348956870" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{E8B46791-00C5-44A2-AE30-9A1B83CAAE85}" Global="false">
+											<ObjectRef Name="fire_small_impact" ID="{76BA29F5-8D49-4C06-A892-587577197D7C}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Atatar" ID="{29558208-7D50-468B-B6F6-3053570F4BF4}" ShortID="93608177">
+					<ChildrenList>
+						<Event Name="atatar_attack" ID="{D3DDD15B-1E3C-436C-883D-7D20E001769B}">
+							<ChildrenList>
+								<Action Name="Play" ID="{9086EC4F-F4AA-4721-8B34-F7FE83914113}" ShortID="110173647" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{B22F517D-00DD-4189-A55D-6BC1BCC30815}" Global="false">
+											<ObjectRef Name="sx_atatar_attack" ID="{B0B440A9-AA33-4FAF-925E-7C1C5CB2F23D}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="atatar_idle" ID="{45AB7E4C-B40F-457C-8988-28090BBB446B}">
+							<ChildrenList>
+								<Action Name="Play" ID="{54C376CD-FB3C-426B-BAC2-84BB59D71470}" ShortID="644860309" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{247EC2C9-82E8-482A-A0EE-A4330D641D7A}" Global="false">
+											<ObjectRef Name="sx_atatar_idle(breathing)" ID="{06698163-9F5F-40BA-83F6-7983D28EC03C}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="atatar_fs" ID="{D2BF103B-17C7-4FB9-AB0C-46496F79D663}">
+							<ChildrenList>
+								<Action Name="Play" ID="{8A24C0C1-9B39-4757-93B5-73460EEE2C13}" ShortID="227457314" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{F46DD604-6BF3-4B65-BF85-7D8D5934EE28}" Global="false">
+											<ObjectRef Name="footsteps" ID="{8C54CE6B-60F1-4651-9558-46408BB3F300}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="atatar_chew" ID="{B40FFE5A-EC2E-4133-98A6-820C1D40C422}">
+							<ChildrenList>
+								<Action Name="Play" ID="{A6759270-7F87-403A-895B-ADF51A477298}" ShortID="501853637" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{89C03962-9765-4E31-B4F4-9E996A1FB248}" Global="false">
+											<ObjectRef Name="sx_atatar_kill_loop" ID="{59BDC08B-EC07-4B89-AAA7-7BF8C8231D04}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Naivis" ID="{C1F448BF-512D-44D2-B9D7-2B217E7D8060}" ShortID="763013864">
+					<ChildrenList>
+						<Event Name="naivis_blooming" ID="{B9445B7D-C876-459A-B77C-477768135C44}">
+							<ChildrenList>
+								<Action Name="Play" ID="{B3CEFE3C-3993-42C9-B089-92B4F15B5FF8}" ShortID="762382933" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{B544AA44-EC1A-4931-B901-EEA1FAD9B2A8}" Global="false">
+											<ObjectRef Name="sx_naivis_blooming" ID="{D4ACEB81-F7DB-4537-955D-DD5F90AE1794}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="naivis_closing" ID="{C7FA6E5D-F121-49F4-82D3-EC7DD8541E52}">
+							<ChildrenList>
+								<Action Name="Play" ID="{8438CF72-B4C1-46E8-9C20-EA879F7D2EB5}" ShortID="325156083" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{928B5221-E08A-4267-9707-4A933313F590}" Global="false">
+											<ObjectRef Name="sx_naivis_closing_fulllength" ID="{D76BE6DB-8D7C-4EED-928D-4D62D55E4D73}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="naivis_idle_start" ID="{E79B57B9-05CB-4BFB-A5BB-B46ECBB2588A}">
+							<ChildrenList>
+								<Action Name="Play" ID="{3E7769CE-DF35-4F44-9C81-ADADC53F13E3}" ShortID="875731843" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{5BA0B879-0C4C-42D8-8051-FEEDCA2E3342}" Global="false">
+											<ObjectRef Name="sx_naivis_idle" ID="{6A91DFE0-5D49-4368-9B95-F355FC23D0C7}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="naivis_pull" ID="{1C56AE89-4BDD-40CB-885B-37C6EF9AE40C}">
+							<ChildrenList>
+								<Action Name="Play" ID="{C284CBF4-2BF9-4552-89A4-7017DE77A191}" ShortID="981321947" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{34DF2FDB-40DF-4D7E-A035-8FFE093A0950}" Global="false">
+											<ObjectRef Name="sx_naivis_closing_fulllength" ID="{4A1A82D0-8322-4337-A183-EEACA5CA672B}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="naivis_idle_stop" ID="{ED08CC1B-2B86-4C08-AAC8-C213423E1724}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{293A0895-9E57-4017-8340-4B996F0729C3}" ShortID="827212142" Type="Stop" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{9BC36259-5CDF-4FD7-AA25-D56378CCBBB3}" Global="false">
+											<ObjectRef Name="sx_naivis_idle" ID="{6A91DFE0-5D49-4368-9B95-F355FC23D0C7}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Moluvusha" ID="{E2539722-BF68-4425-B0CF-AA05E6312605}" ShortID="66064354">
+					<ChildrenList>
+						<Event Name="moluvusha_eat" ID="{8E89E57A-3018-4D61-9100-3A1983E2775D}">
+							<ChildrenList>
+								<Action Name="Play" ID="{199F20D5-4EF6-4344-B95B-CA00A34CCACD}" ShortID="1025915451" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{6EF7109F-CFCE-48B3-9C17-BE6A96852B15}" Global="false">
+											<ObjectRef Name="sx_moluvusha_eat" ID="{5E0D00F7-CC21-49E7-B294-7EFCEE628197}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="moluvusha_close" ID="{07775DAF-1ACF-4107-9ED8-2AA14419BD58}">
+							<ChildrenList>
+								<Action Name="Play" ID="{BF57DA30-96FE-41CD-A07D-6E3E9699C82D}" ShortID="457023023" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{60BE8473-4A34-4B40-A153-ED43A1029847}" Global="false">
+											<ObjectRef Name="sx_moluvusha_close" ID="{97D3140E-C16F-4824-A213-7ED408C42CD0}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="moluvusha_open" ID="{CBF62EC6-740A-47CF-A3CB-1BE0CD568616}">
+							<ChildrenList>
+								<Action Name="Play" ID="{8349E856-1C86-4455-9346-85680F41DB65}" ShortID="581219020" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{AEB5F04D-6669-46A6-9943-382DEDC889A4}" Global="false">
+											<ObjectRef Name="sx_moluvusha_open" ID="{07E2829B-6523-4A9C-9D62-FDAB205379F8}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="moluvusha_lightgrab" ID="{D47F68B3-8E5E-467A-A483-247AB37933CA}">
+							<ChildrenList>
+								<Action Name="Play" ID="{418F06D3-82BE-4928-A4A4-238D74C3B58F}" ShortID="655461573" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{718B6AC2-1030-45FD-A5E1-0AE8483F1CF9}" Global="false">
+											<ObjectRef Name="sx_moluvusha_light" ID="{B0E7B2FE-C477-46CD-B7FB-C94F36D0DEAC}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Copa" ID="{6A0DA49E-F8C6-40EE-9179-1B1DF0847CF5}" ShortID="57804278">
+					<ChildrenList>
+						<Event Name="waterfall_end" ID="{874E6534-07E2-48E8-B3C9-6797C0644C19}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{1B33B82A-0E80-4F95-9160-0EFAA6AC869B}" ShortID="65127673" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="7"/>
+										<Property Name="FadeTime" Type="Real64" Value="2"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{71F3D660-053A-4B51-BF7A-FA65191A0983}" Global="false">
+											<ObjectRef Name="sx_copa_waterfall_loop" ID="{8B30C91D-89AD-4609-9EA5-8C58CDE3BCB9}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="waterfall_loop" ID="{3525B49A-4F25-47C3-B05E-2AF41FBE880A}">
+							<ChildrenList>
+								<Action Name="Play" ID="{B68EC36B-A0F2-41A8-B564-8D07ACF3D688}" ShortID="608089913" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="12"/>
+										<Property Name="FadeCurve" Type="int16" Value="7"/>
+										<Property Name="FadeTime" Type="Real64" Value="2"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{00500374-DC08-4CC4-B54E-631B6548A997}" Global="false">
+											<ObjectRef Name="sx_copa_waterfall_start" ID="{A2B60E22-6120-4FAC-B7C3-C8446A500E1C}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+								<Action Name="Play" ID="{886CE828-CDE9-4A2D-B16D-5857EEFC712F}" ShortID="812643939" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{7A6F9BFC-C9EE-4539-8C34-7C109B4049C5}" Global="false">
+											<ObjectRef Name="sx_copa_waterfall_loop" ID="{8B30C91D-89AD-4609-9EA5-8C58CDE3BCB9}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Music" ID="{41EF78EB-CF9D-4C32-AB0F-3685F94650BC}" ShortID="153616509">
+					<ChildrenList>
+						<Event Name="A1P2" ID="{C57AAA47-2F1B-4B8C-B9A8-80A74B3FFDF0}">
+							<ChildrenList>
+								<Action Name="Play" ID="{6144E4AB-479E-4095-9429-C2C961409298}" ShortID="177391585" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="6"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{B66072A5-CF17-435A-A366-A9B4839C832B}" Global="false">
+											<ObjectRef Name="A1P2" ID="{81779864-38ED-45FF-9B8F-2F531AB65C27}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Main_Menu" ID="{A28B9218-265A-408E-90EA-72ED64A1953D}">
+							<ChildrenList>
+								<Action Name="Play" ID="{386EA334-870F-493C-809B-A2EA01E952BB}" ShortID="907176983" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="6"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{1D423D28-17F3-4A79-AF0D-BF34AD644F2C}" Global="false">
+											<ObjectRef Name="Main_Menu" ID="{8C0E32F5-EA7E-4436-B9F9-89EDE9BA0CE9}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="A1P5and7" ID="{67CB478C-4215-4C20-A12F-508F7ECE6142}">
+							<ChildrenList>
+								<Action Name="Play" ID="{1639EF42-0935-47C7-B264-D4A0CAC7FD7F}" ShortID="9391115" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="6"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{7ECE4C17-FE1F-41AD-ADF7-BA91D19E4CB4}" Global="false">
+											<ObjectRef Name="A1P5&amp;7" ID="{67726453-D007-4CBE-93F1-C2787760367B}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="A1P16" ID="{3E9B9224-974A-45BF-96BC-5804A9F68CC5}">
+							<ChildrenList>
+								<Action Name="Play" ID="{8BF9FF96-7A11-4CE8-9305-5A6A68C22EF6}" ShortID="364119335" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="6"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{7656ED9F-BBB8-4CD8-8D4C-FC28F99AC43F}" Global="false">
+											<ObjectRef Name="A1P16" ID="{CBE33CD8-11BD-4BE1-AB2D-39EF10035DF9}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="A1P2Stop" ID="{C9BE5C3F-76BA-4B02-9417-91B83F19D5F2}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{B1BF7094-A36B-4430-B6DF-677768A5A6BB}" ShortID="49655551" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="7"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{EEEE9BDC-2030-4B17-B2CA-A59C55D72CF0}" Global="false">
+											<ObjectRef Name="A1P2" ID="{81779864-38ED-45FF-9B8F-2F531AB65C27}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="A1P5and7Stop" ID="{6C7AB85E-8BB6-4A6F-8987-D3A8CE748B8E}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{CC7B18F9-DC54-48F4-A0D6-6D24997C72DD}" ShortID="824538514" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{3A8CBBC5-68F7-4419-B23E-6B4DF7E34305}" Global="false">
+											<ObjectRef Name="A1P5&amp;7" ID="{67726453-D007-4CBE-93F1-C2787760367B}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="A1P16Stop" ID="{1161DA23-70EF-4803-86CA-FABBF9A14C70}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{E5596B31-3FE7-420F-91B7-F54E06B0C3A6}" ShortID="233105655" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{9160775E-3605-40D5-B6D7-6C4D7B89C470}" Global="false">
+											<ObjectRef Name="A1P16" ID="{CBE33CD8-11BD-4BE1-AB2D-39EF10035DF9}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Main_MenuStop" ID="{C8698EA5-9337-4D80-8832-5AE09AA6DE63}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{D87B08DF-3018-44AC-9E8C-038EB6D48CC9}" ShortID="543137795" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{A97BA602-1FD2-4037-B922-A33E5FBC4133}" Global="false">
+											<ObjectRef Name="Main_Menu" ID="{8C0E32F5-EA7E-4436-B9F9-89EDE9BA0CE9}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Parallax" ID="{0B386494-DB58-433B-BA50-3EA398822F8D}">
+							<ChildrenList>
+								<Action Name="Play" ID="{2C0E9901-955E-49F5-A4F2-578A8CA47A6A}" ShortID="440076957" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{4D7B954E-BC6C-43EB-BCFB-8ABC3953F310}" Global="false">
+											<ObjectRef Name="Parallax" ID="{EFD36393-DAB7-4C78-B14F-6D0795616F54}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Parallax_Stop" ID="{EC79CAFD-F04E-4852-8769-E9A644B52AE4}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{6FB9B52B-67D7-4C67-AC93-0F323E10398B}" ShortID="933042254" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{CA8F793C-A82B-44B4-BD82-14C96387D977}" Global="false">
+											<ObjectRef Name="Parallax" ID="{A9A86DD2-AF45-4F4C-AAA8-19EE35EB6F7C}" WorkUnitID="{661F3209-E08F-4B59-BAFC-2182A7FB64EA}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Environment" ID="{D2975E4B-B5FB-4A76-A274-EDAE915E737F}" ShortID="86864549">
+					<ChildrenList>
+						<Event Name="start_forest" ID="{6C402E8F-20E5-4466-ADB2-956540B9098C}">
+							<ChildrenList>
+								<Action Name="Play" ID="{405153D1-A477-4974-B007-71C1625E5472}" ShortID="369529846" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="7"/>
+										<Property Name="FadeTime" Type="Real64" Value="1">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{459E2F3B-40B2-471F-A2A0-F4BC63AE1F2A}"/>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{D5C5714A-CD3E-4F0F-958F-D16E1C62881E}" Global="false">
+											<ObjectRef Name="sx_amb_enchantedforest" ID="{930DC5B7-49F0-4120-96CF-78899C09024E}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="stop_forest" ID="{CCCB6C9A-6BD6-41E6-ABF8-8F7C6B52A525}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{8041F6FE-0439-4CAF-8BD9-4C629FDD2B9F}" ShortID="763371744" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="7"/>
+										<Property Name="FadeTime" Type="Real64" Value="2"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{CF79B9BA-0BE6-4E73-A935-5C3E16560898}" Global="false">
+											<ObjectRef Name="sx_amb_enchantedforest" ID="{930DC5B7-49F0-4120-96CF-78899C09024E}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Lighteater" ID="{4FF04F11-AE7D-44B3-83A3-2AA7B8FF9F46}" ShortID="829326922">
+					<ChildrenList>
+						<Event Name="Grows" ID="{08C2F32A-7D82-482D-BA61-9C92473F2612}">
+							<ChildrenList>
+								<Action Name="Play" ID="{A2AD9533-C804-4CFB-BD12-CF3A182F8185}" ShortID="719291175" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{241AA0D2-8EDC-4002-9D1B-AF06C1862F14}" Global="false">
+											<ObjectRef Name="sx_lighteater_grows" ID="{18A70B52-3F72-44CB-86CE-08C05719C36B}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Raina" ID="{5B2F12A1-3BCA-4766-9865-D0266DCA8471}" ShortID="544999183">
+					<ChildrenList>
+						<Event Name="raina_fs" ID="{67537725-441E-4845-A0B5-2FAD9433AE11}">
+							<ChildrenList>
+								<Action Name="Play" ID="{8F3B85DD-0D36-4A36-B178-7ADA35908F73}" ShortID="300776439" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{D537BA55-EADB-4963-926C-82CD54A31C88}" Global="false">
+											<ObjectRef Name="raina_fs" ID="{D882557B-E42F-4466-BA73-6A92FDEEFCFD}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="raina_transform" ID="{3058CB2B-4CDA-4063-9785-E89E5F8F2663}">
+							<ChildrenList>
+								<Action Name="Play" ID="{C01E22AE-D268-4DFC-B343-87E9459D37A3}" ShortID="899078565" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{C6EE579F-E04D-4331-9EA7-EE67FB80D67B}" Global="false">
+											<ObjectRef Name="sx_raina_transform" ID="{626A09D8-E90C-4C58-96E2-52D7FC3ECB8C}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Torch" ID="{D041F63B-F8EB-4100-B9E6-2BEA1D6EC145}" ShortID="26928253">
+					<ChildrenList>
+						<Event Name="Start_firetorch" ID="{85491839-4A75-48E8-A80C-FF07EDB4F0F1}">
+							<ChildrenList>
+								<Action Name="Play" ID="{E788A52B-BF9E-48FD-AF04-E0FAD0C1D762}" ShortID="247342589" Type="Play" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="7"/>
+										<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{034FC202-FC95-47CA-9CC8-2A05C2A84FAA}" Global="false">
+											<ObjectRef Name="sx_torch" ID="{E73C7647-EEA2-40D8-BE67-5DF3CE45C6A0}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_firetorch" ID="{0F5ADFDA-2722-4D1C-BDF8-AAE3F6A00216}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{BCBBCFD6-009B-45C7-849D-0AE89307E69A}" ShortID="448136013" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeCurve" Type="int16" Value="7"/>
+										<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+									</PropertyList>
+									<ElementList>
+										<Element ID="{DB000CDF-E698-4CBC-A8C7-0588BAD9E71F}" Global="false">
+											<ObjectRef Name="sx_torch" ID="{E73C7647-EEA2-40D8-BE67-5DF3CE45C6A0}" WorkUnitID="{F9793D11-F372-4F3B-9AD5-0C5813D2F447}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

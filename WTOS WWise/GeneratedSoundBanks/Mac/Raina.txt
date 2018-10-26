@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1764402966	raina_fs			\Default Work Unit\Raina\raina_fs	
+	3616098525	raina_transform			\Default Work Unit\Raina\raina_transform	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	38506591	sx_lev_fs_woodbridge_04	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_woodbridge_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Raina\raina_fs\sx_lev_fs_woodbridge_04		75496
+	384300491	sx_raina_transform	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_raina_transform_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Raina\raina_transform\sx_raina_transform		160064
+	491269156	sx_lev_fs_woodbridge_03	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_woodbridge_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Raina\raina_fs\sx_lev_fs_woodbridge_03		69888
+	544064577	sx_lev_fs_woodbridge_01	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_woodbridge_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Raina\raina_fs\sx_lev_fs_woodbridge_01		77240
+	577932009	sx_lev_fs_woodbridge_02	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_lev_fs_woodbridge_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Raina\raina_fs\sx_lev_fs_woodbridge_02		75308
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A1B9D442-097F-4169-BD48-A61994ECBF1D}" SchemaVersion="70">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{A1B9D442-097F-4169-BD48-A61994ECBF1D}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="environment" ID="{3D4B4708-8C02-43AA-A18B-F24D3E1A2509}">
+					<ChildrenList>
+						<State Name="None" ID="{F85CACF0-2180-4033-94EA-9073403173CD}"/>
+						<State Name="cave" ID="{A5ECF181-7341-4985-A502-7A7D5EDA4E79}"/>
+						<State Name="forest" ID="{80C629B9-981C-4868-8948-C4D91BC3BC59}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

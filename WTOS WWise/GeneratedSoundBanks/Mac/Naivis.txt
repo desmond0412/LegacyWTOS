@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1175442275	naivis_idle_stop			\Default Work Unit\Naivis\naivis_idle_stop	
+	2792627825	naivis_blooming			\Default Work Unit\Naivis\naivis_blooming	
+	3166139083	naivis_pull			\Default Work Unit\Naivis\naivis_pull	
+	3289151945	naivis_idle_start			\Default Work Unit\Naivis\naivis_idle_start	
+	3525582155	naivis_closing			\Default Work Unit\Naivis\naivis_closing	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	162463037	sx_naivis_closing_fulllength	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_naivis_closing_fulllength_F05F5D68.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Naivis\close\sx_naivis_closing_fulllength		672812
+	352446738	sx_naivis_blooming	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_naivis_blooming_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Naivis\blooming\sx_naivis_blooming		486836
+	380104246	sx_naivis_closing_fulllength	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_naivis_closing_fulllength_EB2E297D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Naivis\pull\sx_naivis_closing_fulllength		152984
+	758242502	sx_naivis_idle	Y:\Desktop\WTOS\WTOS WWise\.cache\Mac\SFX\sx_naivis_idle_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Naivis\idle_start\sx_naivis_idle		647936
+

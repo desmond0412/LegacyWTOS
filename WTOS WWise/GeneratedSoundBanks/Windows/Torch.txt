@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	223889434	Stop_firetorch			\Default Work Unit\Torch\Stop_firetorch	
+	3836364476	Start_firetorch			\Default Work Unit\Torch\Start_firetorch	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	496105908	sx_torch	Y:\Desktop\WTOS\WTOS WWise\.cache\Windows\SFX\sx_torch_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Torch\Fire_torch\sx_torch		485636
+

@@ -1,0 +1,294 @@
+Change List:
+
+3.5.5:
+    - Library updates.
+3.5.4:
+    - Library updates.
+3.5.3:
+    - Fixed inapplicable controls and warning messages on FixedJoint editor.
+    - Fixed harmless console error messages in Unity 5.4.0 beta.
+    - Library updates.
+3.5.2:
+    - Library updates.
+3.5.1:
+    - Library updates.
+3.5.0:
+    - Unity 4.7 is new minimum version.
+    - Library updates.
+3.4.4:
+    - Fixed bug that could cause scene view handles to render over the top of
+      scene GUI overlay when selecting an object with multiple ISceneGUIContext
+      editors.
+    - Library updates.
+3.4.3:
+    - Library updates.
+3.4.2:
+    - Fixed compiler errors in Unity 4.7.0.
+    - Added SceneGUI.RegisterChange() to manually register non-LMB changes
+      while in a handle context.
+    - LinearHandles.Line() now allows specification of a cap function.
+    - Fix axis handles in JointEditor using wrong matrix when joint is
+      connected to another body but is not a child of the connected body.
+    - Added console message upon compilation if a conflicting joint editor is
+      found in the project while that included in this package is enabled.
+    - FalloffHandles now allow specification of limits on domain and range of
+      curve as applicable.
+    - FalloffHandles now only display labels for selected keyframes.
+    - FalloffHandles.SphereGraph() can now optionally have its values
+      normalized to the domain of the curve.
+    - FalloffHandles.SphereGraph() and FalloffHandles.DiscGraph() have the
+      following new features:
+          - Controls for time and value of keyframes are now unified into
+            single handles that can be dragged on either axis; separate rings
+            for time handles no longer appear.
+          - Keyframes can now be deleted with the backspace or delete key when
+            selected.
+          - Keyframes can now be inserted using the right-click context menu in
+            the scene view.
+          - Added tangent handles when a keyframe value handle is selected
+                - Hold Alt to break tangents, Ctrl/Cmd to reunite them.
+                - Hold Shift to snap tangents at 45-degree intervals.
+          - Smarter handling of colors for uniform curves and curves with
+            specified range limits.
+          - Respect SceneGUI.CurrentAlphaScalar.
+          - Fixed bug where falloff fill colors wouldn't render on the first
+            frame after recompiling.
+    - Removed some obsolete methods.
+    - Properly register availability of product features when using tvOS build
+      target in Unity 5.3.1.
+    - Library updates.
+3.4.1:
+    - Fixed HingeJoint angular limit handle not staying with object.
+    - Added preference menu item to disable custom editors for built-in types
+      (e.g., joints).
+    - Fixed bug causing controls for shape handles to be offset too far when
+      Handles.matrix has non-identity scale.
+    - Library updates.
+3.4.0:
+    - Simplified product folder organization for Unity 5.3.0 and higher.
+    - Library updates.
+3.3.7:
+    - Moved some scripts from Library folders into product folders to make
+      examples easier to find.
+    - Removed CustomHandleDefineSymbols.cs; please delete it.
+    - Library updates.
+3.3.6:
+    - Library updates.
+3.3.5:
+    - Fixed compiler warnings in example editor scripts in Unity 5.3.0.
+    - Library updates.
+3.3.4:
+    - Fixed harmless error message when opening color pickers in editor
+      preference menu.
+    - Fixed bug preventing changes to handles with gradient-based colors from
+      saving to editor preferences.
+3.3.3:
+    - Library updates.
+3.3.2:
+    - Library updates.
+3.3.1:
+    - Fixed compiler error in Unity 5.2.
+    - Updated example assets to use PBR for Unity 5.x.
+3.3.0:
+    - Removed unnecessary AxisTripod struct.
+    - Changed color of joint angular limit handles.
+    - The following files were renamed or removed and should be deleted:
+          - BaseJointEditor.cs
+          - HingeJointEditor.cs
+          - CharacterJointEditor.cs
+          - ConfigurableJointEditor.cs
+          - SpringJointEditor.cs
+    - Added Candlelight.Physics.JointEditor
+    - Moved the following types into Candlelight.Physics namespace:
+		  - JointAngularLimits
+		  - JointX
+		  - JointHandles
+    - Completely redid shape editing handles!
+          - All handles now simultaneously edit the center and size, making it
+            easier to keep one end of the shape pinned in place.
+          - Hold Alt to get old behavior (shape center stays pinned in place).
+          - Hold Shift to scale a shape handle proportionally.
+          - Handles slightly overshoot shape so they do not conflict with
+            Unity's built-in collider gizmos, making them more reliably
+            selectable.
+    - All handles now require specification of a base identifier to prevent
+      input collisions; this value is the first argument in all methods.
+    - Removed LinearHandles.noLabel.
+    - Removed SceneGUI.nullControlId.
+    - Removed TransformHandles.XHandleHash, YHandleHash, and ZHandleHash; use
+      EditAxis enum to get unique hashes for each axis now.
+    - Fixed bug preventing spring joint handle from working as expected.
+    - Fixed bug causing joint angular limit cone to disappear if z-axis was
+      locked or free.
+    - Removed obsolete methods.
+    - Library updates.
+3.2.4:
+    - Added TransformHandles class.
+    - LinearHandles.Translation() is now TransformHandles.Translation().
+    - TransformHandles.Translation() now displays correctly when rotated.
+    - Added TransformHandles.Rotation() to fix bug with Unity's rotation handle
+      displaying incorrectly when Handle matrix is not identity.
+    - Added anchor handle for joint editors.
+    - CylinderProperties is now an immutable struct.
+    - FalloffHandles.defaultColorGradient is now
+      FalloffHandles.DefaultColorGradient.
+    - ArcHandles.requiredMinAngleChange and ArcHandles.radiusHandleScale are
+      now private.
+    - Fixed bug causing handles in included examples to display even if global
+      scene GUI setting is toggled off.
+    - Fixed bug causing scene view overlay to persist when deselecting multiple
+      objects of the same type.
+    - Fixed bug causing falloff handles to manipulate wrong properties.
+    - Library updates.
+3.2.3:
+    - Library updates.
+3.2.2:
+    - Most handle types now allow specification of a control ID.
+    - Added LinearHandles.Translation(), which allows more flexibility than
+      built-in Handles.PositionHandle().
+    - Plug-in now supports WinRT and Windows Phone platforms.
+    - Library updates.
+3.2.1:
+    - ISceneGUIContext now defines a property for getting the first target.
+    - Added scene GUI overlay to joint editors.
+    - Fixed console spam when using joint editors and handle scale is 0.
+    - Added handles for editing axes on HingeJoints, CharacterJoints, and
+      ConfigurableJoints.
+    - Other minor improvements to custom editors for all joint types.
+    - Capsule handles can no longer collapse on themselves (like Unity
+      CapsuleCollider).
+    - Removed obsolete methods.
+    - Library updates.
+3.2.0:
+    - Overhauled SceneGUI methods for drawing GUI overlay in the scene to
+      account for multiple components with scene GUI and complex selections.
+      Custom editors using SceneGUI.Display() should implement ISceneGUIContext
+      and make appropriate calls to SceneGUI.RegisterObjectGUICallback() and
+      SceneGUI.DeregisterObjectGUICallback() in OnEnable()/OnDisable().
+    - Library updates.
+3.1.2:
+    - Library updates.
+3.1.1:
+    - All inspector buttons now support keyboard navigation.
+    - Library updates.
+3.1.0:
+    - Moved all files into Plugins directory to reduce compile times and allow
+      compatibility with languages other than C#.
+    - Library updates.
+3.0.12:
+    - Unity 4.6 is new minimum version.
+    - Library updates.
+    - Changed version numbering scheme.
+3.11:
+    - Fixed missing references and scripts in example scene.
+3.10:
+    - Unify project layout and asset IDs across asset store products.
+3.09:
+    - Library updates for 5.0b17 compatibility.
+3.08:
+    - HandleContextException now logs in the editor console rather than being
+      thrown, which makes them friendlier in cases of user error.
+    - Library updates.
+3.07:
+    - Fixed bug with joint handles that could cause HandleContextException.
+3.06:
+    - Library updates.
+3.05:
+    - Library updates for Unity 5.x.
+3.03:
+    - Library updates.
+3.02:
+    - Library updates.
+3.01:
+    - Library updates.
+3.0:
+    - Moved all code into Candlelight namespace; project now uses Unity 4.5 as
+      minimum version.
+    - Renamed properties to better reflect .NET style; this change can cause
+      loss of serialized data if you were relying on any examples scripts in
+      your prefabs for existing projects.
+    - Fixed exception when configurable joint handle orientation cannot be
+      determined.
+    - Fixed rendering bug for configurable joint x-axis angular limit handle
+      when y-axis is set to free or locked.
+    - Added custom editors with scene GUI for CharacterJoint, HingeJoint, and
+      SpringJoint.
+    - Removed obsolete methods.
+2.08:
+    - Updated library code
+2.07:
+    - Updated directory structure for better compatibility with my other Asset
+      Store products; everything now resides in Assets/Mechtley
+2.06:
+    - Fixed bug introduced in 2.05 that could cause HandleContextException to
+      be errantly thrown when SceneGUI is disabled
+    - Shape handles now return only positive values on all dimensions
+2.05:
+    - Updated examples to show how to properly set prefab field values dirty in
+      older versions of Unity (i.e. before 4.3); problem still exists in 3.5
+    - Updated Readme file
+    - Updated library code
+2.04:
+    - Accommodate new Unity 4.3 Editor GUI
+    - Accommodate new Unity 4.3 undo system
+        - You must now test for changes and apply results if
+          SceneGUI.EndHandles() returns true (see example files)
+        - Fixes bug causing fields to remain dirty after changes were undone
+    - Updated many handle method signatures to return handle values rather than
+      modify a reference; please check all reference types in your code (e.g.,
+      Helix, AnimationCurve, ConfigurableJoint)
+    - Added linear limit handles to ConfigurableJoint
+    - Fixed bugs allowing configurable joint angular limit handles to produce
+      invalid description
+    - Fixed some bugs related to inaccurate rendering of configurable joint
+      angular limits and added warning message when orientation cannot be
+      properly inferred
+2.03:
+    - Fixed bug reporter email typo
+2.02:
+    - Catch error with bug report system if no email application is set up
+    - Updated library code
+2.01:
+    - Updated library code
+2.0:
+    - All handles cooperate properly with Handles.matrix now
+    - Helix handles now properly match non-uniform scale
+    - Substantially improved performance and responsiveness of joint handles
+    - Joint z-handle better reflects result
+    - JointHandles.JointLimit() is now JointHandles.AngularLimit()
+    - LinearHandles.ValueSlider() is now LinearHandles.Dot()
+    - ArcHandles.WireArc() is now ArcHandles.WireWedge()
+    - ArcHandles.SolidArc() is now ArcHandles.SolidWedge()
+    - DiscHandles.Arc() is now ArcHandles.WireAngle() and
+      ArcHandles.SolidAngle()
+    - Closed some less useful API points in handle classes
+    - Removed integrator functionality (using meshes now)
+    - Altered some handle method signatures for more consistency
+    - Added utility methods in SceneGUI class to more easily work with scene
+      views
+    - Editing handle properties from inspector now forces scene views to update
+    - Added preference menu item to configure handles
+    - Added support for Unity 4.x users to include dependencies via a
+      preprocessor directive IS_MECHTLEY_CUSTOM_HANDLES_AVAILABLE
+    - Updated library code
+1.05:
+    - Updated library code
+1.04:
+    - Updated library code
+    - Changed folder names to conform to Unity 3.5 requirements
+    - Helix and ColorGradient no longer compare by value; added static
+      equivalence methods
+1.03:
+    - Updated library code
+    
+1.02:
+    - Fixed jittering problem with arc handles
+    - Updated library code
+    
+1.01:
+    - Removed target argument from all custom handles to simplify function
+      calls, reduce calls to SetDirty(), and enable selective dirty setting
+    - Updated library code
+    
+1.0:
+    - Custom Handles were released to the world!

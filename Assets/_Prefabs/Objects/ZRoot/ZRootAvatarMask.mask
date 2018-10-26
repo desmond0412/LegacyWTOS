@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ZRootAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: GR_Zroot_mesh
+    m_Weight: 0
+  - m_Path: GR_Zroot_mesh/GR_Zroot_mesh_zrootClaw01
+    m_Weight: 0
+  - m_Path: GR_Zroot_mesh/GR_Zroot_mesh_zrootClaw02
+    m_Weight: 0
+  - m_Path: GR_Zroot_mesh/GR_Zroot_mesh_zrootClaw03
+    m_Weight: 0
+  - m_Path: GR_Zroot_mesh/GR_Zroot_mesh_zrootClaw04
+    m_Weight: 0
+  - m_Path: GR_Zroot_mesh/GR_Zroot_mesh_zrootVines
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01/GR_Zroot_clawA02
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01/GR_Zroot_clawA02/GR_Zroot_clawA03
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01/GR_Zroot_clawA02/GR_Zroot_clawA03/GR_Zroot_clawA04
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01/GR_Zroot_clawA02/GR_Zroot_clawA03/GR_Zroot_clawA04/GR_Zroot_clawA05
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01/GR_Zroot_clawA02/GR_Zroot_clawA03/GR_Zroot_clawA04/GR_Zroot_clawA05/GR_Zroot_clawA06
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01/GR_Zroot_clawA02/GR_Zroot_clawA03/GR_Zroot_clawA04/GR_Zroot_clawA05/GR_Zroot_clawA06/GR_Zroot_clawA07
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01/GR_Zroot_clawA02/GR_Zroot_clawA03/GR_Zroot_clawA04/GR_Zroot_clawA05/GR_Zroot_clawA06/GR_Zroot_clawA07/GR_Zroot_clawA08
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawA01/GR_Zroot_clawA02/GR_Zroot_clawA03/GR_Zroot_clawA04/GR_Zroot_clawA05/GR_Zroot_clawA06/GR_Zroot_clawA07/GR_Zroot_clawA08/GR_Zroot_clawA09
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01/GR_Zroot_clawB02
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01/GR_Zroot_clawB02/GR_Zroot_clawB03
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01/GR_Zroot_clawB02/GR_Zroot_clawB03/GR_Zroot_clawB04
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01/GR_Zroot_clawB02/GR_Zroot_clawB03/GR_Zroot_clawB04/GR_Zroot_clawB05
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01/GR_Zroot_clawB02/GR_Zroot_clawB03/GR_Zroot_clawB04/GR_Zroot_clawB05/GR_Zroot_clawB06
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01/GR_Zroot_clawB02/GR_Zroot_clawB03/GR_Zroot_clawB04/GR_Zroot_clawB05/GR_Zroot_clawB06/GR_Zroot_clawB07
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01/GR_Zroot_clawB02/GR_Zroot_clawB03/GR_Zroot_clawB04/GR_Zroot_clawB05/GR_Zroot_clawB06/GR_Zroot_clawB07/GR_Zroot_clawB08
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawB01/GR_Zroot_clawB02/GR_Zroot_clawB03/GR_Zroot_clawB04/GR_Zroot_clawB05/GR_Zroot_clawB06/GR_Zroot_clawB07/GR_Zroot_clawB08/GR_Zroot_clawB09
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01/GR_Zroot_clawC02
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01/GR_Zroot_clawC02/GR_Zroot_clawC03
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01/GR_Zroot_clawC02/GR_Zroot_clawC03/GR_Zroot_clawC04
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01/GR_Zroot_clawC02/GR_Zroot_clawC03/GR_Zroot_clawC04/GR_Zroot_clawC05
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01/GR_Zroot_clawC02/GR_Zroot_clawC03/GR_Zroot_clawC04/GR_Zroot_clawC05/GR_Zroot_clawC06
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01/GR_Zroot_clawC02/GR_Zroot_clawC03/GR_Zroot_clawC04/GR_Zroot_clawC05/GR_Zroot_clawC06/GR_Zroot_clawC07
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01/GR_Zroot_clawC02/GR_Zroot_clawC03/GR_Zroot_clawC04/GR_Zroot_clawC05/GR_Zroot_clawC06/GR_Zroot_clawC07/GR_Zroot_clawC08
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawC01/GR_Zroot_clawC02/GR_Zroot_clawC03/GR_Zroot_clawC04/GR_Zroot_clawC05/GR_Zroot_clawC06/GR_Zroot_clawC07/GR_Zroot_clawC08/GR_Zroot_clawC09
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01/GR_Zroot_clawD02
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01/GR_Zroot_clawD02/GR_Zroot_clawD03
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01/GR_Zroot_clawD02/GR_Zroot_clawD03/GR_Zroot_clawD04
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01/GR_Zroot_clawD02/GR_Zroot_clawD03/GR_Zroot_clawD04/GR_Zroot_clawD05
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01/GR_Zroot_clawD02/GR_Zroot_clawD03/GR_Zroot_clawD04/GR_Zroot_clawD05/GR_Zroot_clawD06
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01/GR_Zroot_clawD02/GR_Zroot_clawD03/GR_Zroot_clawD04/GR_Zroot_clawD05/GR_Zroot_clawD06/GR_Zroot_clawD07
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01/GR_Zroot_clawD02/GR_Zroot_clawD03/GR_Zroot_clawD04/GR_Zroot_clawD05/GR_Zroot_clawD06/GR_Zroot_clawD07/GR_Zroot_clawD08
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_claw/GR_Zroot_rootClaw/GR_Zroot_clawD01/GR_Zroot_clawD02/GR_Zroot_clawD03/GR_Zroot_clawD04/GR_Zroot_clawD05/GR_Zroot_clawD06/GR_Zroot_clawD07/GR_Zroot_clawD08/GR_Zroot_clawD09
+    m_Weight: 1
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk01
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk02
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk03
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk04
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk05
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk06
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk07
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk08
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk09
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk10
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk11
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk12
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk13
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk14
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk15
+    m_Weight: 0
+  - m_Path: GR_Zroot_skeleton/GR_Zroot_trunk/GR_Zroot_trunk16
+    m_Weight: 0

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{354C1763-37D1-40BA-8FA8-25877DD1B625}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{354C1763-37D1-40BA-8FA8-25877DD1B625}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Atatar" ID="{8ED8F66C-1008-46B7-AC8A-F0E473E872F5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="atatar_fs" ID="{D2BF103B-17C7-4FB9-AB0C-46496F79D663}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="atatar_idle" ID="{45AB7E4C-B40F-457C-8988-28090BBB446B}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="atatar_chew" ID="{B40FFE5A-EC2E-4133-98A6-820C1D40C422}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="atatar_attack" ID="{D3DDD15B-1E3C-436C-883D-7D20E001769B}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Copa" ID="{BFE46E15-D38B-40F8-8439-9739664F5572}">
+					<ObjectInclusionList>
+						<ObjectRef Name="waterfall_end" ID="{874E6534-07E2-48E8-B3C9-6797C0644C19}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="waterfall_loop" ID="{3525B49A-4F25-47C3-B05E-2AF41FBE880A}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Environment" ID="{C5CEA42F-3098-4F67-9511-86B20E5A004A}">
+					<ObjectInclusionList>
+						<ObjectRef Name="start_forest" ID="{6C402E8F-20E5-4466-ADB2-956540B9098C}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="stop_forest" ID="{CCCB6C9A-6BD6-41E6-ABF8-8F7C6B52A525}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Lev" ID="{CB5C4D8F-E7AE-4575-8F4D-7BFFE0A89DD5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lev_fire_small_impact" ID="{81A4D706-F021-4F89-95CD-82FFAAF3482D}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_zroot_stop" ID="{F3F3690E-A51B-4D5E-95F8-478CDBCC5D23}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_crawl" ID="{DC83EF2D-62CE-4A26-A162-146A7CD47C5D}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_zroot_retract" ID="{08D89038-153F-4F5F-A1C2-14DC72F83927}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_crouch" ID="{6174DB3A-3261-4E35-9E9E-7AD27BD0BB3D}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_zroot_shoot" ID="{3B86143E-C225-4C82-A133-13AE56993D87}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_landing" ID="{F465C84D-FE81-4566-BA02-2E6A2AC64789}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_fall" ID="{3CF3E364-D871-4BC6-8FDC-46B55960DDAF}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_fire_shoot" ID="{4FE88180-2FEC-4BE2-90C8-F76C79E1A77A}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_fs" ID="{DB2F0282-2661-4969-BBA2-7D3FD33DBC75}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_aim" ID="{DEE8BC99-2398-462B-9643-9CE6C6C9C513}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_drown" ID="{6FA4EC9B-E0BF-4A4E-A4CE-1F67982C7A32}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_dropdead" ID="{324625C9-0CCB-4BFC-8E0D-94B679870BAD}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lev_zroot_impact" ID="{B480BAE8-1602-4708-AFE0-1424CC75EA0D}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Moluvusha" ID="{111782DC-BBFD-40A4-9095-13A4D839E56B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="moluvusha_eat" ID="{8E89E57A-3018-4D61-9100-3A1983E2775D}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="moluvusha_close" ID="{07775DAF-1ACF-4107-9ED8-2AA14419BD58}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="moluvusha_lightgrab" ID="{D47F68B3-8E5E-467A-A483-247AB37933CA}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="moluvusha_open" ID="{CBF62EC6-740A-47CF-A3CB-1BE0CD568616}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Music" ID="{EA0145B2-C20E-4C06-B1F9-469A63862C7B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Main_Menu" ID="{A28B9218-265A-408E-90EA-72ED64A1953D}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="A1P16Stop" ID="{1161DA23-70EF-4803-86CA-FABBF9A14C70}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="A1P16" ID="{3E9B9224-974A-45BF-96BC-5804A9F68CC5}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="A1P2Stop" ID="{C9BE5C3F-76BA-4B02-9417-91B83F19D5F2}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="A1P2" ID="{C57AAA47-2F1B-4B8C-B9A8-80A74B3FFDF0}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="A1P5and7Stop" ID="{6C7AB85E-8BB6-4A6F-8987-D3A8CE748B8E}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="A1P5and7" ID="{67CB478C-4215-4C20-A12F-508F7ECE6142}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Parallax" ID="{0B386494-DB58-433B-BA50-3EA398822F8D}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Main_MenuStop" ID="{C8698EA5-9337-4D80-8832-5AE09AA6DE63}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Parallax_Stop" ID="{EC79CAFD-F04E-4852-8769-E9A644B52AE4}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Naivis" ID="{B18A3D0D-4624-42CD-BFFB-29ECFE4CB1CD}">
+					<ObjectInclusionList>
+						<ObjectRef Name="naivis_idle_stop" ID="{ED08CC1B-2B86-4C08-AAC8-C213423E1724}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="naivis_closing" ID="{C7FA6E5D-F121-49F4-82D3-EC7DD8541E52}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="naivis_blooming" ID="{B9445B7D-C876-459A-B77C-477768135C44}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="naivis_pull" ID="{1C56AE89-4BDD-40CB-885B-37C6EF9AE40C}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="naivis_idle_start" ID="{E79B57B9-05CB-4BFB-A5BB-B46ECBB2588A}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="New_SoundBankLighteater" ID="{856B1A95-ED59-493C-883E-0A4E41B69981}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Lighteater" ID="{82DC2CA8-FC1D-4619-85A2-5D4C88743547}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Grows" ID="{08C2F32A-7D82-482D-BA61-9C92473F2612}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Raina" ID="{F65F4CA2-E685-495D-AB61-F8517055B6C4}">
+					<ObjectInclusionList>
+						<ObjectRef Name="raina_fs" ID="{67537725-441E-4845-A0B5-2FAD9433AE11}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="raina_transform" ID="{3058CB2B-4CDA-4063-9785-E89E5F8F2663}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Torch" ID="{D2CC1F6B-5E1A-476D-860A-AF4AB28ED778}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Start_firetorch" ID="{85491839-4A75-48E8-A80C-FF07EDB4F0F1}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_firetorch" ID="{0F5ADFDA-2722-4D1C-BDF8-AAE3F6A00216}" WorkUnitID="{E5722B59-825C-4F6F-BE56-4545390E53DF}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

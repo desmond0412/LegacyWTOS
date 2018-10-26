@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="4" Flags="601859981">
+	<Platform GUID="{FEF4861C-10EF-4347-8C5F-665C933D0D93}">
+		<Language ID="0">
+			<Bank Name="Atatar" Hash="2918256510" StreamHash="157587662" Timestamp="131091464480000000"/>
+			<Bank Name="Copa" Hash="1931183966" StreamHash="157587662" Timestamp="131090769370000000"/>
+			<Bank Name="Environment" Hash="590743302" StreamHash="157587662" Timestamp="131090769380000000"/>
+			<Bank Name="Init" Hash="1599798512" StreamHash="157587662" Timestamp="131092427280000000"/>
+			<Bank Name="Lev" Hash="1640144798" StreamHash="157587662" Timestamp="131090823650000000"/>
+			<Bank Name="Lighteater" Hash="2838009112" StreamHash="157587662" Timestamp="131090769380000000"/>
+			<Bank Name="Moluvusha" Hash="110543950" StreamHash="157587662" Timestamp="131090769380000000"/>
+			<Bank Name="Music" Hash="3730156882" StreamHash="157587662" Timestamp="131091502150000000"/>
+			<Bank Name="Naivis" Hash="958750055" StreamHash="157587662" Timestamp="131091558850000000"/>
+			<Bank Name="New_SoundBankLighteater" Hash="3948128613" StreamHash="157587662" Timestamp="131087971700000000"/>
+			<Bank Name="Raina" Hash="1998295926" StreamHash="157587662" Timestamp="131091464480000000"/>
+			<Bank Name="Torch" Hash="2175577743" StreamHash="157587662" Timestamp="131091543790000000"/>
+			<Bank Name="WTOS" Hash="3164765931" StreamHash="157587662" Timestamp="131087108260000000"/>
+		</Language>
+	</Platform>
+	<Platform GUID="{ECFBDF8D-C39F-4B69-8C05-E5C0F4E121E4}">
+		<Language ID="0">
+			<Bank Name="Atatar" Hash="2918256510" StreamHash="157587662" Timestamp="131091502130000000"/>
+			<Bank Name="Copa" Hash="1931183966" StreamHash="157587662" Timestamp="131091502130000000"/>
+			<Bank Name="Environment" Hash="590743302" StreamHash="157587662" Timestamp="131091502130000000"/>
+			<Bank Name="Init" Hash="2663120339" StreamHash="157587662" Timestamp="131092427270000000"/>
+			<Bank Name="Lev" Hash="3862909318" StreamHash="157587662" Timestamp="131091502130000000"/>
+			<Bank Name="Lighteater" Hash="2838009112" StreamHash="157587662" Timestamp="131091502130000000"/>
+			<Bank Name="Moluvusha" Hash="110543950" StreamHash="157587662" Timestamp="131091502130000000"/>
+			<Bank Name="Music" Hash="3730156882" StreamHash="157587662" Timestamp="131091502140000000"/>
+			<Bank Name="Naivis" Hash="958750055" StreamHash="157587662" Timestamp="131091558840000000"/>
+			<Bank Name="New_SoundBankLighteater" Hash="3948128613" StreamHash="157587662" Timestamp="131091502140000000"/>
+			<Bank Name="Raina" Hash="1177142130" StreamHash="157587662" Timestamp="131091502140000000"/>
+			<Bank Name="Torch" Hash="2175577743" StreamHash="157587662" Timestamp="131091543780000000"/>
+		</Language>
+	</Platform>
+</IncrementalBankBuild>

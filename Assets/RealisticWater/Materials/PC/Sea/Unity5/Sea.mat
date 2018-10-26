@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sea
+  m_Shader: {fileID: 4800000, guid: e9170d50833194e40b4d18d98452c15f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Wave1
+        second:
+          m_Texture: {fileID: 2800000, guid: ed1c8fbf93f183f42a4843a1cc3b3695, type: 3}
+          m_Scale: {x: 0.3, y: 0.5}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Wave2
+        second:
+          m_Texture: {fileID: 2800000, guid: e8c53bbc0d75c8e46be5ddcc1210ec52, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Foam
+        second:
+          m_Texture: {fileID: 2800000, guid: a92b6664d2ca8d244a6aaa0aada2cc9b, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Scale
+        second: 12
+      data:
+        first:
+          name: _FPOW
+        second: 5
+      data:
+        first:
+          name: _R0
+        second: 0.9
+      data:
+        first:
+          name: _OffsetFresnel
+        second: 0.3
+      data:
+        first:
+          name: _Distortion
+        second: 350
+      data:
+        first:
+          name: _DistortionVert
+        second: 10
+      data:
+        first:
+          name: _Bias
+        second: -1
+      data:
+        first:
+          name: _Power
+        second: 1.5
+      data:
+        first:
+          name: _WaveScale
+        second: 1
+      data:
+        first:
+          name: _TexturesScale
+        second: 20
+      data:
+        first:
+          name: _ReflectionBrightness
+        second: 0.3392857
+      data:
+        first:
+          name: _FoamIntensity
+        second: 0
+      data:
+        first:
+          name: _FadeBlend
+        second: 10
+      data:
+        first:
+          name: _FadeBlend2
+        second: 0.76
+      data:
+        first:
+          name: _FadeDepth
+        second: 0.15
+      data:
+        first:
+          name: _DepthTransperent
+        second: 0.28571427
+      data:
+        first:
+          name: _EdgeDistortion
+        second: 0.2
+      data:
+        first:
+          name: _RipplesScale
+        second: 20
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 0.88235295, g: 0.98039216, b: 1, a: 1}
+      data:
+        first:
+          name: _ReflectionColor
+        second: {r: 0.3529412, g: 0.3529412, b: 0.3529412, a: 1}
+      data:
+        first:
+          name: _Direction
+        second: {r: 0.05, g: 0.3, b: 15, a: -3}
+      data:
+        first:
+          name: _GAmplitude
+        second: {r: 0.07, g: 0.08, b: 0.04, a: 0.06}
+      data:
+        first:
+          name: _GFrequency
+        second: {r: 5, g: -3, b: 1, a: 0.8}
+      data:
+        first:
+          name: _GSteepness
+        second: {r: 0.13, g: -1.05, b: 0.05, a: 0.97}
+      data:
+        first:
+          name: _GSpeed
+        second: {r: 2, g: 2, b: 2, a: -2}
+      data:
+        first:
+          name: _GDirectionAB
+        second: {r: 0.4, g: -0.2, b: 0.3, a: 0.25}
+      data:
+        first:
+          name: _GDirectionCD
+        second: {r: 0.1, g: 2, b: 0.3, a: 0.5}
+      data:
+        first:
+          name: _GlareColor
+        second: {r: 0.09803922, g: 0.105882354, b: 0.11764706, a: 1}
+      data:
+        first:
+          name: _FadeColor
+        second: {r: 0.49019608, g: 0.80784315, b: 0.9098039, a: 1}
+      data:
+        first:
+          name: _FoamDirection
+        second: {r: 0, g: 5, b: -1, a: -1}
