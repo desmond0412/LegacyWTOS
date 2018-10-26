@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: mat_LightEater
+  m_Shader: {fileID: 4800000, guid: 37fb154f389e59a43bb4142d81554f15, type: 3}
+  m_ShaderKeywords: _ALPHATEST_ON _ROTDIR_ON
+  m_LightmapFlags: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: TransparentCutout
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 07de5d3313a5aa644942aa4d97f0a596, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: 07de5d3313a5aa644942aa4d97f0a596, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Texture
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Emission
+        second:
+          m_Texture: {fileID: 2800000, guid: 59bd0b35c682c0645ba6611e5a97ce26, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Dissolve
+        second:
+          m_Texture: {fileID: 2800000, guid: 92002d8ac05f4ac4d8a3d238058fdf37, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_7118
+        second:
+          m_Texture: {fileID: 2800000, guid: 91ef4e475336b6048bb963969610d90b, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5
+      data:
+        first:
+          name: _Parallax
+        second: 0.02
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: 0
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 1
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _UnlitValue
+        second: 1
+      data:
+        first:
+          name: _GlowIntensity
+        second: 1
+      data:
+        first:
+          name: _BulgeShape
+        second: 3
+      data:
+        first:
+          name: _BulgeScale
+        second: 0
+      data:
+        first:
+          name: _GlowSpeed
+        second: 1
+      data:
+        first:
+          name: _RotateDirection
+        second: -1
+      data:
+        first:
+          name: _DirectionAngle
+        second: 225
+      data:
+        first:
+          name: _node_7158
+        second: 0
+      data:
+        first:
+          name: _node_917
+        second: 0
+      data:
+        first:
+          name: _node_917_copy
+        second: 0
+      data:
+        first:
+          name: _node_917_copy_copy
+        second: 0
+      data:
+        first:
+          name: _node_360
+        second: 0
+      data:
+        first:
+          name: _node_5616
+        second: -1
+      data:
+        first:
+          name: _node_1767
+        second: 100
+      data:
+        first:
+          name: _node_458
+        second: -1
+      data:
+        first:
+          name: _node_1494
+        second: 1
+      data:
+        first:
+          name: _RotDir
+        second: 1
+      data:
+        first:
+          name: _node_3739
+        second: 2
+      data:
+        first:
+          name: _node_807
+        second: 1
+      data:
+        first:
+          name: _DissolveIntensity
+        second: 1
+      data:
+        first:
+          name: _EdgeWidth
+        second: 0
+      data:
+        first:
+          name: _DisplacementValue
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _GlowColor
+        second: {r: 0.9882353, g: 0.78676474, b: 1, a: 1}
+      data:
+        first:
+          name: _EdgeColor
+        second: {r: 0.5735295, g: 0.8588235, b: 1, a: 1}

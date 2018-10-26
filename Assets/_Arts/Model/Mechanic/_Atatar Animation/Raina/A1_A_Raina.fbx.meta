@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: ac4b27ecada58954ea93890b491aac3d
+timeCreated: 1453711251
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: R_RAYNA:BAG
+    100004: R_RAYNA:be_collar02
+    100006: R_RAYNA:be_hair11
+    100008: R_RAYNA:be_L_collar02
+    100010: R_RAYNA:be_L_indexFinger03
+    100012: R_RAYNA:be_L_midFinger03
+    100014: R_RAYNA:be_L_pinkyFinger03
+    100016: R_RAYNA:be_L_ringFinger03
+    100018: R_RAYNA:be_L_thumb03
+    100020: R_RAYNA:be_r_collar02
+    100022: R_RAYNA:be_R_indexFinger03
+    100024: R_RAYNA:be_R_midFinger03
+    100026: R_RAYNA:be_R_pinkyFinger03
+    100028: R_RAYNA:be_R_ringFinger03
+    100030: R_RAYNA:be_R_thumb03
+    100032: R_RAYNA:bn_b_collar01
+    100034: R_RAYNA:bn_BAG
+    100036: R_RAYNA:bn_cane
+    100038: R_RAYNA:bn_chest01
+    100040: R_RAYNA:bn_chestEnd
+    100042: R_RAYNA:bn_hair01
+    100044: R_RAYNA:bn_hair02
+    100046: R_RAYNA:bn_hair03
+    100048: R_RAYNA:bn_hair04
+    100050: R_RAYNA:bn_hair05
+    100052: R_RAYNA:bn_hair06
+    100054: R_RAYNA:bn_hair07
+    100056: R_RAYNA:bn_hair08
+    100058: R_RAYNA:bn_hair09
+    100060: R_RAYNA:bn_hair10
+    100062: R_RAYNA:bn_head01
+    100064: R_RAYNA:bn_L_ankle01
+    100066: R_RAYNA:bn_L_ball01
+    100068: R_RAYNA:bn_L_clavicle01
+    100070: R_RAYNA:bn_L_collar01
+    100072: R_RAYNA:bn_L_elbow01
+    100074: R_RAYNA:bn_L_elbow02
+    100076: R_RAYNA:bn_L_elbow03
+    100078: R_RAYNA:bn_L_elbow04
+    100080: R_RAYNA:bn_L_elbow05
+    100082: R_RAYNA:bn_L_hip01
+    100084: R_RAYNA:bn_L_indexFinger01
+    100086: R_RAYNA:bn_L_indexFinger02
+    100088: R_RAYNA:bn_L_knee01
+    100090: R_RAYNA:bn_L_midFinger01
+    100092: R_RAYNA:bn_L_midFinger02
+    100094: R_RAYNA:bn_L_pinkyFinger01
+    100096: R_RAYNA:bn_L_pinkyFinger02
+    100098: R_RAYNA:bn_L_ringFinger01
+    100100: R_RAYNA:bn_L_ringFinger02
+    100102: R_RAYNA:bn_L_scroll
+    100104: R_RAYNA:bn_L_shoulder01
+    100106: R_RAYNA:bn_L_shoulder02
+    100108: R_RAYNA:bn_L_shoulder03
+    100110: R_RAYNA:bn_L_shoulder04
+    100112: R_RAYNA:bn_L_thumb01
+    100114: R_RAYNA:bn_L_thumb02
+    100116: R_RAYNA:bn_L_toe01
+    100118: R_RAYNA:bn_L_wrist
+    100120: R_RAYNA:bn_neck01
+    100122: R_RAYNA:bn_neck02
+    100124: R_RAYNA:bn_neck03
+    100126: R_RAYNA:bn_R_ankle01
+    100128: R_RAYNA:bn_R_ball01
+    100130: R_RAYNA:bn_R_clavicle01
+    100132: R_RAYNA:bn_r_collar01
+    100134: R_RAYNA:bn_R_elbow01
+    100136: R_RAYNA:bn_R_elbow02
+    100138: R_RAYNA:bn_R_elbow03
+    100140: R_RAYNA:bn_R_elbow04
+    100142: R_RAYNA:bn_R_elbow05
+    100144: R_RAYNA:bn_R_hip01
+    100146: R_RAYNA:bn_R_indexFinger01
+    100148: R_RAYNA:bn_R_indexFinger02
+    100150: R_RAYNA:bn_R_knee01
+    100152: R_RAYNA:bn_R_midFinger01
+    100154: R_RAYNA:bn_R_midFinger02
+    100156: R_RAYNA:bn_R_pinkyFinger01
+    100158: R_RAYNA:bn_R_pinkyFinger02
+    100160: R_RAYNA:bn_R_ringFinger01
+    100162: R_RAYNA:bn_R_ringFinger02
+    100164: R_RAYNA:bn_R_shoulder01
+    100166: R_RAYNA:bn_R_shoulder02
+    100168: R_RAYNA:bn_R_shoulder03
+    100170: R_RAYNA:bn_R_shoulder04
+    100172: R_RAYNA:bn_R_thumb01
+    100174: R_RAYNA:bn_R_thumb02
+    100176: R_RAYNA:bn_R_toe01
+    100178: R_RAYNA:bn_R_wrist
+    100180: R_RAYNA:bn_spine01
+    100182: R_RAYNA:bn_spine02
+    100184: R_RAYNA:bn_spine03
+    100186: R_RAYNA:BODY
+    100188: R_RAYNA:BOTTOM_TEETH
+    100190: R_RAYNA:CANE
+    100192: R_RAYNA:end_BAG
+    100194: R_RAYNA:end_head
+    100196: R_RAYNA:end_L_scroll
+    100198: R_RAYNA:fk_chest01
+    100200: R_RAYNA:fk_L_ankle01
+    100202: R_RAYNA:fk_L_ball01
+    100204: R_RAYNA:fk_L_elbow01
+    100206: R_RAYNA:fk_L_elbow02
+    100208: R_RAYNA:fk_L_elbow03
+    100210: R_RAYNA:fk_L_elbow04
+    100212: R_RAYNA:fk_L_elbow05
+    100214: R_RAYNA:fk_L_hip01
+    100216: R_RAYNA:fk_L_knee01
+    100218: R_RAYNA:fk_L_shoulder01
+    100220: R_RAYNA:fk_L_shoulder02
+    100222: R_RAYNA:fk_L_shoulder03
+    100224: R_RAYNA:fk_L_shoulder04
+    100226: R_RAYNA:fk_L_toe01
+    100228: R_RAYNA:fk_R_ankle01
+    100230: R_RAYNA:fk_R_ball01
+    100232: R_RAYNA:fk_R_elbow01
+    100234: R_RAYNA:fk_R_elbow02
+    100236: R_RAYNA:fk_R_elbow03
+    100238: R_RAYNA:fk_R_elbow04
+    100240: R_RAYNA:fk_R_elbow05
+    100242: R_RAYNA:fk_R_hip01
+    100244: R_RAYNA:fk_R_knee01
+    100246: R_RAYNA:fk_R_shoulder01
+    100248: R_RAYNA:fk_R_shoulder02
+    100250: R_RAYNA:fk_R_shoulder03
+    100252: R_RAYNA:fk_R_shoulder04
+    100254: R_RAYNA:fk_R_toe01
+    100256: R_RAYNA:fk_spine01
+    100258: R_RAYNA:fk_spine02
+    100260: R_RAYNA:fk_spine03
+    100262: R_RAYNA:GEM
+    100264: R_RAYNA:geometry
+    100266: R_RAYNA:GLOBAL_GRP
+    100268: R_RAYNA:HAIR
+    100270: R_RAYNA:HAIRPIN
+    100272: R_RAYNA:HEAD
+    100274: R_RAYNA:ik_L_ankle01
+    100276: R_RAYNA:ik_L_ball01
+    100278: R_RAYNA:ik_L_elbow01
+    100280: R_RAYNA:ik_L_elbow02
+    100282: R_RAYNA:ik_L_elbow03
+    100284: R_RAYNA:ik_L_elbow04
+    100286: R_RAYNA:ik_L_elbow05
+    100288: R_RAYNA:ik_L_hip01
+    100290: R_RAYNA:ik_L_knee01
+    100292: R_RAYNA:ik_L_shoulder01
+    100294: R_RAYNA:ik_L_shoulder02
+    100296: R_RAYNA:ik_L_shoulder03
+    100298: R_RAYNA:ik_L_shoulder04
+    100300: R_RAYNA:ik_L_toe01
+    100302: R_RAYNA:ik_R_ankle01
+    100304: R_RAYNA:ik_R_ball01
+    100306: R_RAYNA:ik_R_elbow01
+    100308: R_RAYNA:ik_R_elbow02
+    100310: R_RAYNA:ik_R_elbow03
+    100312: R_RAYNA:ik_R_elbow04
+    100314: R_RAYNA:ik_R_elbow05
+    100316: R_RAYNA:ik_R_hip01
+    100318: R_RAYNA:ik_R_knee01
+    100320: R_RAYNA:ik_R_shoulder01
+    100322: R_RAYNA:ik_R_shoulder02
+    100324: R_RAYNA:ik_R_shoulder03
+    100326: R_RAYNA:ik_R_shoulder04
+    100328: R_RAYNA:ik_R_toe01
+    100330: R_RAYNA:joint
+    100332: R_RAYNA:joint1
+    100334: R_RAYNA:KNIFE
+    100336: R_RAYNA:LEFT_EYE
+    100338: R_RAYNA:LEFT_EYELASH
+    100340: R_RAYNA:LEFT_KNEEPAD
+    100342: R_RAYNA:mainJoint
+    100344: R_RAYNA:RIGH_KNEEPAD
+    100346: R_RAYNA:RIGHT_EYE
+    100348: R_RAYNA:RIGHT_EYELASH
+    100350: R_RAYNA:SCROLL
+    100352: R_RAYNA:SMALL_POCKET
+    100354: R_RAYNA:toHide
+    100356: R_RAYNA:TONGUE
+    100358: R_RAYNA:TOP_TEETH
+    100360: R_RAYNA:b_collar01
+    100362: R_RAYNA:BAG 1
+    100364: R_RAYNA:BS_Rainatar
+    100366: R_RAYNA:cane
+    100368: R_RAYNA:chest01
+    100370: R_RAYNA:chestEnd
+    100372: R_RAYNA:end_collar02
+    100374: R_RAYNA:end_hair11
+    100376: R_RAYNA:end_jaw
+    100378: R_RAYNA:end_L_collar02
+    100380: R_RAYNA:end_L_eye
+    100382: R_RAYNA:end_L_indexFinger03
+    100384: R_RAYNA:end_L_midFinger03
+    100386: R_RAYNA:end_L_pinkyFinger03
+    100388: R_RAYNA:end_L_ringFinger03
+    100390: R_RAYNA:end_L_thumb03
+    100392: R_RAYNA:end_R_collar02
+    100394: R_RAYNA:end_R_eye
+    100396: R_RAYNA:end_R_indexFinger03
+    100398: R_RAYNA:end_R_midFinger03
+    100400: R_RAYNA:end_R_pinkyFinger03
+    100402: R_RAYNA:end_R_ringFinger03
+    100404: R_RAYNA:end_R_thumb03
+    100406: R_RAYNA:EYELASH
+    100408: R_RAYNA:FACE
+    100410: R_RAYNA:hair01
+    100412: R_RAYNA:hair02
+    100414: R_RAYNA:hair03
+    100416: R_RAYNA:hair04
+    100418: R_RAYNA:hair05
+    100420: R_RAYNA:hair06
+    100422: R_RAYNA:hair07
+    100424: R_RAYNA:hair08
+    100426: R_RAYNA:hair09
+    100428: R_RAYNA:hair10
+    100430: R_RAYNA:hairpin
+    100432: R_RAYNA:head01
+    100434: R_RAYNA:jaw
+    100436: R_RAYNA:L_ankle01
+    100438: R_RAYNA:L_ball01
+    100440: R_RAYNA:L_clavicle01
+    100442: R_RAYNA:L_collar01
+    100444: R_RAYNA:L_elbow01
+    100446: R_RAYNA:L_elbow02
+    100448: R_RAYNA:L_elbow03
+    100450: R_RAYNA:L_elbow04
+    100452: R_RAYNA:L_elbow05
+    100454: R_RAYNA:L_eye
+    100456: R_RAYNA:L_hip01
+    100458: R_RAYNA:L_indexFinger01
+    100460: R_RAYNA:L_indexFinger02
+    100462: R_RAYNA:L_knee01
+    100464: R_RAYNA:L_midFinger01
+    100466: R_RAYNA:L_midFinger02
+    100468: R_RAYNA:L_pinkyFinger01
+    100470: R_RAYNA:L_pinkyFinger02
+    100472: R_RAYNA:L_ringFinger01
+    100474: R_RAYNA:L_ringFinger02
+    100476: R_RAYNA:L_scroll
+    100478: R_RAYNA:L_shoulder01
+    100480: R_RAYNA:L_shoulder02
+    100482: R_RAYNA:L_shoulder03
+    100484: R_RAYNA:L_shoulder04
+    100486: R_RAYNA:L_thumb01
+    100488: R_RAYNA:L_thumb02
+    100490: R_RAYNA:L_toe01
+    100492: R_RAYNA:L_wrist
+    100494: R_RAYNA:neck01
+    100496: R_RAYNA:neck02
+    100498: R_RAYNA:neck03
+    100500: R_RAYNA:R_ankle01
+    100502: R_RAYNA:R_ball01
+    100504: R_RAYNA:R_clavicle01
+    100506: R_RAYNA:r_collar01
+    100508: R_RAYNA:R_elbow01
+    100510: R_RAYNA:R_elbow02
+    100512: R_RAYNA:R_elbow03
+    100514: R_RAYNA:R_elbow04
+    100516: R_RAYNA:R_elbow05
+    100518: R_RAYNA:R_eye
+    100520: R_RAYNA:R_hip01
+    100522: R_RAYNA:R_indexFinger01
+    100524: R_RAYNA:R_indexFinger02
+    100526: R_RAYNA:R_knee01
+    100528: R_RAYNA:R_midFinger01
+    100530: R_RAYNA:R_midFinger02
+    100532: R_RAYNA:R_pinkyFinger01
+    100534: R_RAYNA:R_pinkyFinger02
+    100536: R_RAYNA:R_ringFinger01
+    100538: R_RAYNA:R_ringFinger02
+    100540: R_RAYNA:R_shoulder01
+    100542: R_RAYNA:R_shoulder02
+    100544: R_RAYNA:R_shoulder03
+    100546: R_RAYNA:R_shoulder04
+    100548: R_RAYNA:R_thumb01
+    100550: R_RAYNA:R_thumb02
+    100552: R_RAYNA:R_toe01
+    100554: R_RAYNA:R_wrist
+    100556: R_RAYNA:RIGHT_KNEEPAD
+    100558: R_RAYNA:skeleton
+    100560: R_RAYNA:spine01
+    100562: R_RAYNA:spine02
+    100564: R_RAYNA:spine03
+    400000: //RootNode
+    400002: R_RAYNA:BAG
+    400004: R_RAYNA:be_collar02
+    400006: R_RAYNA:be_hair11
+    400008: R_RAYNA:be_L_collar02
+    400010: R_RAYNA:be_L_indexFinger03
+    400012: R_RAYNA:be_L_midFinger03
+    400014: R_RAYNA:be_L_pinkyFinger03
+    400016: R_RAYNA:be_L_ringFinger03
+    400018: R_RAYNA:be_L_thumb03
+    400020: R_RAYNA:be_r_collar02
+    400022: R_RAYNA:be_R_indexFinger03
+    400024: R_RAYNA:be_R_midFinger03
+    400026: R_RAYNA:be_R_pinkyFinger03
+    400028: R_RAYNA:be_R_ringFinger03
+    400030: R_RAYNA:be_R_thumb03
+    400032: R_RAYNA:bn_b_collar01
+    400034: R_RAYNA:bn_BAG
+    400036: R_RAYNA:bn_cane
+    400038: R_RAYNA:bn_chest01
+    400040: R_RAYNA:bn_chestEnd
+    400042: R_RAYNA:bn_hair01
+    400044: R_RAYNA:bn_hair02
+    400046: R_RAYNA:bn_hair03
+    400048: R_RAYNA:bn_hair04
+    400050: R_RAYNA:bn_hair05
+    400052: R_RAYNA:bn_hair06
+    400054: R_RAYNA:bn_hair07
+    400056: R_RAYNA:bn_hair08
+    400058: R_RAYNA:bn_hair09
+    400060: R_RAYNA:bn_hair10
+    400062: R_RAYNA:bn_head01
+    400064: R_RAYNA:bn_L_ankle01
+    400066: R_RAYNA:bn_L_ball01
+    400068: R_RAYNA:bn_L_clavicle01
+    400070: R_RAYNA:bn_L_collar01
+    400072: R_RAYNA:bn_L_elbow01
+    400074: R_RAYNA:bn_L_elbow02
+    400076: R_RAYNA:bn_L_elbow03
+    400078: R_RAYNA:bn_L_elbow04
+    400080: R_RAYNA:bn_L_elbow05
+    400082: R_RAYNA:bn_L_hip01
+    400084: R_RAYNA:bn_L_indexFinger01
+    400086: R_RAYNA:bn_L_indexFinger02
+    400088: R_RAYNA:bn_L_knee01
+    400090: R_RAYNA:bn_L_midFinger01
+    400092: R_RAYNA:bn_L_midFinger02
+    400094: R_RAYNA:bn_L_pinkyFinger01
+    400096: R_RAYNA:bn_L_pinkyFinger02
+    400098: R_RAYNA:bn_L_ringFinger01
+    400100: R_RAYNA:bn_L_ringFinger02
+    400102: R_RAYNA:bn_L_scroll
+    400104: R_RAYNA:bn_L_shoulder01
+    400106: R_RAYNA:bn_L_shoulder02
+    400108: R_RAYNA:bn_L_shoulder03
+    400110: R_RAYNA:bn_L_shoulder04
+    400112: R_RAYNA:bn_L_thumb01
+    400114: R_RAYNA:bn_L_thumb02
+    400116: R_RAYNA:bn_L_toe01
+    400118: R_RAYNA:bn_L_wrist
+    400120: R_RAYNA:bn_neck01
+    400122: R_RAYNA:bn_neck02
+    400124: R_RAYNA:bn_neck03
+    400126: R_RAYNA:bn_R_ankle01
+    400128: R_RAYNA:bn_R_ball01
+    400130: R_RAYNA:bn_R_clavicle01
+    400132: R_RAYNA:bn_r_collar01
+    400134: R_RAYNA:bn_R_elbow01
+    400136: R_RAYNA:bn_R_elbow02
+    400138: R_RAYNA:bn_R_elbow03
+    400140: R_RAYNA:bn_R_elbow04
+    400142: R_RAYNA:bn_R_elbow05
+    400144: R_RAYNA:bn_R_hip01
+    400146: R_RAYNA:bn_R_indexFinger01
+    400148: R_RAYNA:bn_R_indexFinger02
+    400150: R_RAYNA:bn_R_knee01
+    400152: R_RAYNA:bn_R_midFinger01
+    400154: R_RAYNA:bn_R_midFinger02
+    400156: R_RAYNA:bn_R_pinkyFinger01
+    400158: R_RAYNA:bn_R_pinkyFinger02
+    400160: R_RAYNA:bn_R_ringFinger01
+    400162: R_RAYNA:bn_R_ringFinger02
+    400164: R_RAYNA:bn_R_shoulder01
+    400166: R_RAYNA:bn_R_shoulder02
+    400168: R_RAYNA:bn_R_shoulder03
+    400170: R_RAYNA:bn_R_shoulder04
+    400172: R_RAYNA:bn_R_thumb01
+    400174: R_RAYNA:bn_R_thumb02
+    400176: R_RAYNA:bn_R_toe01
+    400178: R_RAYNA:bn_R_wrist
+    400180: R_RAYNA:bn_spine01
+    400182: R_RAYNA:bn_spine02
+    400184: R_RAYNA:bn_spine03
+    400186: R_RAYNA:BODY
+    400188: R_RAYNA:BOTTOM_TEETH
+    400190: R_RAYNA:CANE
+    400192: R_RAYNA:end_BAG
+    400194: R_RAYNA:end_head
+    400196: R_RAYNA:end_L_scroll
+    400198: R_RAYNA:fk_chest01
+    400200: R_RAYNA:fk_L_ankle01
+    400202: R_RAYNA:fk_L_ball01
+    400204: R_RAYNA:fk_L_elbow01
+    400206: R_RAYNA:fk_L_elbow02
+    400208: R_RAYNA:fk_L_elbow03
+    400210: R_RAYNA:fk_L_elbow04
+    400212: R_RAYNA:fk_L_elbow05
+    400214: R_RAYNA:fk_L_hip01
+    400216: R_RAYNA:fk_L_knee01
+    400218: R_RAYNA:fk_L_shoulder01
+    400220: R_RAYNA:fk_L_shoulder02
+    400222: R_RAYNA:fk_L_shoulder03
+    400224: R_RAYNA:fk_L_shoulder04
+    400226: R_RAYNA:fk_L_toe01
+    400228: R_RAYNA:fk_R_ankle01
+    400230: R_RAYNA:fk_R_ball01
+    400232: R_RAYNA:fk_R_elbow01
+    400234: R_RAYNA:fk_R_elbow02
+    400236: R_RAYNA:fk_R_elbow03
+    400238: R_RAYNA:fk_R_elbow04
+    400240: R_RAYNA:fk_R_elbow05
+    400242: R_RAYNA:fk_R_hip01
+    400244: R_RAYNA:fk_R_knee01
+    400246: R_RAYNA:fk_R_shoulder01
+    400248: R_RAYNA:fk_R_shoulder02
+    400250: R_RAYNA:fk_R_shoulder03
+    400252: R_RAYNA:fk_R_shoulder04
+    400254: R_RAYNA:fk_R_toe01
+    400256: R_RAYNA:fk_spine01
+    400258: R_RAYNA:fk_spine02
+    400260: R_RAYNA:fk_spine03
+    400262: R_RAYNA:GEM
+    400264: R_RAYNA:geometry
+    400266: R_RAYNA:GLOBAL_GRP
+    400268: R_RAYNA:HAIR
+    400270: R_RAYNA:HAIRPIN
+    400272: R_RAYNA:HEAD
+    400274: R_RAYNA:ik_L_ankle01
+    400276: R_RAYNA:ik_L_ball01
+    400278: R_RAYNA:ik_L_elbow01
+    400280: R_RAYNA:ik_L_elbow02
+    400282: R_RAYNA:ik_L_elbow03
+    400284: R_RAYNA:ik_L_elbow04
+    400286: R_RAYNA:ik_L_elbow05
+    400288: R_RAYNA:ik_L_hip01
+    400290: R_RAYNA:ik_L_knee01
+    400292: R_RAYNA:ik_L_shoulder01
+    400294: R_RAYNA:ik_L_shoulder02
+    400296: R_RAYNA:ik_L_shoulder03
+    400298: R_RAYNA:ik_L_shoulder04
+    400300: R_RAYNA:ik_L_toe01
+    400302: R_RAYNA:ik_R_ankle01
+    400304: R_RAYNA:ik_R_ball01
+    400306: R_RAYNA:ik_R_elbow01
+    400308: R_RAYNA:ik_R_elbow02
+    400310: R_RAYNA:ik_R_elbow03
+    400312: R_RAYNA:ik_R_elbow04
+    400314: R_RAYNA:ik_R_elbow05
+    400316: R_RAYNA:ik_R_hip01
+    400318: R_RAYNA:ik_R_knee01
+    400320: R_RAYNA:ik_R_shoulder01
+    400322: R_RAYNA:ik_R_shoulder02
+    400324: R_RAYNA:ik_R_shoulder03
+    400326: R_RAYNA:ik_R_shoulder04
+    400328: R_RAYNA:ik_R_toe01
+    400330: R_RAYNA:joint
+    400332: R_RAYNA:joint1
+    400334: R_RAYNA:KNIFE
+    400336: R_RAYNA:LEFT_EYE
+    400338: R_RAYNA:LEFT_EYELASH
+    400340: R_RAYNA:LEFT_KNEEPAD
+    400342: R_RAYNA:mainJoint
+    400344: R_RAYNA:RIGH_KNEEPAD
+    400346: R_RAYNA:RIGHT_EYE
+    400348: R_RAYNA:RIGHT_EYELASH
+    400350: R_RAYNA:SCROLL
+    400352: R_RAYNA:SMALL_POCKET
+    400354: R_RAYNA:toHide
+    400356: R_RAYNA:TONGUE
+    400358: R_RAYNA:TOP_TEETH
+    400360: R_RAYNA:b_collar01
+    400362: R_RAYNA:BAG 1
+    400364: R_RAYNA:BS_Rainatar
+    400366: R_RAYNA:cane
+    400368: R_RAYNA:chest01
+    400370: R_RAYNA:chestEnd
+    400372: R_RAYNA:end_collar02
+    400374: R_RAYNA:end_hair11
+    400376: R_RAYNA:end_jaw
+    400378: R_RAYNA:end_L_collar02
+    400380: R_RAYNA:end_L_eye
+    400382: R_RAYNA:end_L_indexFinger03
+    400384: R_RAYNA:end_L_midFinger03
+    400386: R_RAYNA:end_L_pinkyFinger03
+    400388: R_RAYNA:end_L_ringFinger03
+    400390: R_RAYNA:end_L_thumb03
+    400392: R_RAYNA:end_R_collar02
+    400394: R_RAYNA:end_R_eye
+    400396: R_RAYNA:end_R_indexFinger03
+    400398: R_RAYNA:end_R_midFinger03
+    400400: R_RAYNA:end_R_pinkyFinger03
+    400402: R_RAYNA:end_R_ringFinger03
+    400404: R_RAYNA:end_R_thumb03
+    400406: R_RAYNA:EYELASH
+    400408: R_RAYNA:FACE
+    400410: R_RAYNA:hair01
+    400412: R_RAYNA:hair02
+    400414: R_RAYNA:hair03
+    400416: R_RAYNA:hair04
+    400418: R_RAYNA:hair05
+    400420: R_RAYNA:hair06
+    400422: R_RAYNA:hair07
+    400424: R_RAYNA:hair08
+    400426: R_RAYNA:hair09
+    400428: R_RAYNA:hair10
+    400430: R_RAYNA:hairpin
+    400432: R_RAYNA:head01
+    400434: R_RAYNA:jaw
+    400436: R_RAYNA:L_ankle01
+    400438: R_RAYNA:L_ball01
+    400440: R_RAYNA:L_clavicle01
+    400442: R_RAYNA:L_collar01
+    400444: R_RAYNA:L_elbow01
+    400446: R_RAYNA:L_elbow02
+    400448: R_RAYNA:L_elbow03
+    400450: R_RAYNA:L_elbow04
+    400452: R_RAYNA:L_elbow05
+    400454: R_RAYNA:L_eye
+    400456: R_RAYNA:L_hip01
+    400458: R_RAYNA:L_indexFinger01
+    400460: R_RAYNA:L_indexFinger02
+    400462: R_RAYNA:L_knee01
+    400464: R_RAYNA:L_midFinger01
+    400466: R_RAYNA:L_midFinger02
+    400468: R_RAYNA:L_pinkyFinger01
+    400470: R_RAYNA:L_pinkyFinger02
+    400472: R_RAYNA:L_ringFinger01
+    400474: R_RAYNA:L_ringFinger02
+    400476: R_RAYNA:L_scroll
+    400478: R_RAYNA:L_shoulder01
+    400480: R_RAYNA:L_shoulder02
+    400482: R_RAYNA:L_shoulder03
+    400484: R_RAYNA:L_shoulder04
+    400486: R_RAYNA:L_thumb01
+    400488: R_RAYNA:L_thumb02
+    400490: R_RAYNA:L_toe01
+    400492: R_RAYNA:L_wrist
+    400494: R_RAYNA:neck01
+    400496: R_RAYNA:neck02
+    400498: R_RAYNA:neck03
+    400500: R_RAYNA:R_ankle01
+    400502: R_RAYNA:R_ball01
+    400504: R_RAYNA:R_clavicle01
+    400506: R_RAYNA:r_collar01
+    400508: R_RAYNA:R_elbow01
+    400510: R_RAYNA:R_elbow02
+    400512: R_RAYNA:R_elbow03
+    400514: R_RAYNA:R_elbow04
+    400516: R_RAYNA:R_elbow05
+    400518: R_RAYNA:R_eye
+    400520: R_RAYNA:R_hip01
+    400522: R_RAYNA:R_indexFinger01
+    400524: R_RAYNA:R_indexFinger02
+    400526: R_RAYNA:R_knee01
+    400528: R_RAYNA:R_midFinger01
+    400530: R_RAYNA:R_midFinger02
+    400532: R_RAYNA:R_pinkyFinger01
+    400534: R_RAYNA:R_pinkyFinger02
+    400536: R_RAYNA:R_ringFinger01
+    400538: R_RAYNA:R_ringFinger02
+    400540: R_RAYNA:R_shoulder01
+    400542: R_RAYNA:R_shoulder02
+    400544: R_RAYNA:R_shoulder03
+    400546: R_RAYNA:R_shoulder04
+    400548: R_RAYNA:R_thumb01
+    400550: R_RAYNA:R_thumb02
+    400552: R_RAYNA:R_toe01
+    400554: R_RAYNA:R_wrist
+    400556: R_RAYNA:RIGHT_KNEEPAD
+    400558: R_RAYNA:skeleton
+    400560: R_RAYNA:spine01
+    400562: R_RAYNA:spine02
+    400564: R_RAYNA:spine03
+    4300000: R_RAYNA:BODY
+    4300002: R_RAYNA:HAIRPIN
+    4300004: R_RAYNA:HAIR
+    4300006: R_RAYNA:RIGHT_EYE
+    4300008: R_RAYNA:LEFT_EYE
+    4300010: R_RAYNA:HEAD
+    4300012: R_RAYNA:CANE
+    4300014: R_RAYNA:BAG
+    4300016: R_RAYNA:SCROLL
+    4300018: R_RAYNA:KNIFE
+    4300020: R_RAYNA:SMALL_POCKET
+    4300022: R_RAYNA:GEM
+    4300024: R_RAYNA:TONGUE
+    4300026: R_RAYNA:TOP_TEETH
+    4300028: R_RAYNA:BOTTOM_TEETH
+    4300030: R_RAYNA:LEFT_KNEEPAD
+    4300032: R_RAYNA:RIGH_KNEEPAD
+    4300034: R_RAYNA:LEFT_EYELASH
+    4300036: R_RAYNA:RIGHT_EYELASH
+    4300038: R_RAYNA:RIGHT_KNEEPAD
+    4300040: R_RAYNA:FACE
+    4300042: R_RAYNA:EYELASH
+    7400000: TPose
+    7400002: Walk
+    9500000: //RootNode
+    13700000: R_RAYNA:BAG
+    13700002: R_RAYNA:BODY
+    13700004: R_RAYNA:BOTTOM_TEETH
+    13700006: R_RAYNA:CANE
+    13700008: R_RAYNA:GEM
+    13700010: R_RAYNA:HAIR
+    13700012: R_RAYNA:HAIRPIN
+    13700014: R_RAYNA:HEAD
+    13700016: R_RAYNA:KNIFE
+    13700018: R_RAYNA:LEFT_EYE
+    13700020: R_RAYNA:LEFT_EYELASH
+    13700022: R_RAYNA:LEFT_KNEEPAD
+    13700024: R_RAYNA:RIGH_KNEEPAD
+    13700026: R_RAYNA:RIGHT_EYE
+    13700028: R_RAYNA:RIGHT_EYELASH
+    13700030: R_RAYNA:SCROLL
+    13700032: R_RAYNA:SMALL_POCKET
+    13700034: R_RAYNA:TONGUE
+    13700036: R_RAYNA:TOP_TEETH
+    13700038: R_RAYNA:EYELASH
+    13700040: R_RAYNA:FACE
+    13700042: R_RAYNA:RIGHT_KNEEPAD
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TPose
+      takeName: TPose
+      firstFrame: 1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: R_RAYNA:geometry
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:BAG
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:BODY
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:BOTTOM_TEETH
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:CANE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:GEM
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:HAIR
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:HAIRPIN
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:HEAD
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:KNIFE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:LEFT_EYE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:LEFT_EYELASH
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:LEFT_KNEEPAD
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:RIGH_KNEEPAD
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:RIGHT_EYE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:RIGHT_EYELASH
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:SCROLL
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:SMALL_POCKET
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:TONGUE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:TOP_TEETH
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_cane
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01/R_RAYNA:bn_L_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01/R_RAYNA:bn_L_knee01/R_RAYNA:bn_L_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01/R_RAYNA:bn_L_knee01/R_RAYNA:bn_L_ankle01/R_RAYNA:bn_L_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01/R_RAYNA:bn_L_knee01/R_RAYNA:bn_L_ankle01/R_RAYNA:bn_L_ball01/R_RAYNA:bn_L_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_scroll
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_scroll/R_RAYNA:end_L_scroll
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01/R_RAYNA:bn_R_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01/R_RAYNA:bn_R_knee01/R_RAYNA:bn_R_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01/R_RAYNA:bn_R_knee01/R_RAYNA:bn_R_ankle01/R_RAYNA:bn_R_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01/R_RAYNA:bn_R_knee01/R_RAYNA:bn_R_ankle01/R_RAYNA:bn_R_ball01/R_RAYNA:bn_R_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_b_collar01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_b_collar01/R_RAYNA:be_collar02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_BAG
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_BAG/R_RAYNA:end_BAG
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07/R_RAYNA:bn_hair08
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07/R_RAYNA:bn_hair08/R_RAYNA:bn_hair09
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07/R_RAYNA:bn_hair08/R_RAYNA:bn_hair09/R_RAYNA:bn_hair10
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07/R_RAYNA:bn_hair08/R_RAYNA:bn_hair09/R_RAYNA:bn_hair10/R_RAYNA:be_hair11
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:joint1
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_indexFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_indexFinger01/R_RAYNA:bn_L_indexFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_indexFinger01/R_RAYNA:bn_L_indexFinger02/R_RAYNA:be_L_indexFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_midFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_midFinger01/R_RAYNA:bn_L_midFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_midFinger01/R_RAYNA:bn_L_midFinger02/R_RAYNA:be_L_midFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_pinkyFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_pinkyFinger01/R_RAYNA:bn_L_pinkyFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_pinkyFinger01/R_RAYNA:bn_L_pinkyFinger02/R_RAYNA:be_L_pinkyFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_ringFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_ringFinger01/R_RAYNA:bn_L_ringFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_ringFinger01/R_RAYNA:bn_L_ringFinger02/R_RAYNA:be_L_ringFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_thumb01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_thumb01/R_RAYNA:bn_L_thumb02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_thumb01/R_RAYNA:bn_L_thumb02/R_RAYNA:be_L_thumb03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01/R_RAYNA:fk_L_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01/R_RAYNA:fk_L_elbow02/R_RAYNA:fk_L_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01/R_RAYNA:fk_L_elbow02/R_RAYNA:fk_L_elbow03/R_RAYNA:fk_L_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01/R_RAYNA:fk_L_elbow02/R_RAYNA:fk_L_elbow03/R_RAYNA:fk_L_elbow04/R_RAYNA:fk_L_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01/R_RAYNA:ik_L_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01/R_RAYNA:ik_L_elbow02/R_RAYNA:ik_L_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01/R_RAYNA:ik_L_elbow02/R_RAYNA:ik_L_elbow03/R_RAYNA:ik_L_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01/R_RAYNA:ik_L_elbow02/R_RAYNA:ik_L_elbow03/R_RAYNA:ik_L_elbow04/R_RAYNA:ik_L_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_collar01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_collar01/R_RAYNA:be_L_collar02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_indexFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_indexFinger01/R_RAYNA:bn_R_indexFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_indexFinger01/R_RAYNA:bn_R_indexFinger02/R_RAYNA:be_R_indexFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_midFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_midFinger01/R_RAYNA:bn_R_midFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_midFinger01/R_RAYNA:bn_R_midFinger02/R_RAYNA:be_R_midFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_pinkyFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_pinkyFinger01/R_RAYNA:bn_R_pinkyFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_pinkyFinger01/R_RAYNA:bn_R_pinkyFinger02/R_RAYNA:be_R_pinkyFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_ringFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_ringFinger01/R_RAYNA:bn_R_ringFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_ringFinger01/R_RAYNA:bn_R_ringFinger02/R_RAYNA:be_R_ringFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_thumb01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_thumb01/R_RAYNA:bn_R_thumb02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_thumb01/R_RAYNA:bn_R_thumb02/R_RAYNA:be_R_thumb03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01/R_RAYNA:fk_R_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01/R_RAYNA:fk_R_elbow02/R_RAYNA:fk_R_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01/R_RAYNA:fk_R_elbow02/R_RAYNA:fk_R_elbow03/R_RAYNA:fk_R_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01/R_RAYNA:fk_R_elbow02/R_RAYNA:fk_R_elbow03/R_RAYNA:fk_R_elbow04/R_RAYNA:fk_R_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01/R_RAYNA:ik_R_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01/R_RAYNA:ik_R_elbow02/R_RAYNA:ik_R_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01/R_RAYNA:ik_R_elbow02/R_RAYNA:ik_R_elbow03/R_RAYNA:ik_R_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01/R_RAYNA:ik_R_elbow02/R_RAYNA:ik_R_elbow03/R_RAYNA:ik_R_elbow04/R_RAYNA:ik_R_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_r_collar01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_r_collar01/R_RAYNA:be_r_collar02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01/R_RAYNA:fk_L_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01/R_RAYNA:fk_L_knee01/R_RAYNA:fk_L_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01/R_RAYNA:fk_L_knee01/R_RAYNA:fk_L_ankle01/R_RAYNA:fk_L_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01/R_RAYNA:fk_L_knee01/R_RAYNA:fk_L_ankle01/R_RAYNA:fk_L_ball01/R_RAYNA:fk_L_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01/R_RAYNA:fk_R_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01/R_RAYNA:fk_R_knee01/R_RAYNA:fk_R_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01/R_RAYNA:fk_R_knee01/R_RAYNA:fk_R_ankle01/R_RAYNA:fk_R_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01/R_RAYNA:fk_R_knee01/R_RAYNA:fk_R_ankle01/R_RAYNA:fk_R_ball01/R_RAYNA:fk_R_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01/R_RAYNA:ik_L_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01/R_RAYNA:ik_L_knee01/R_RAYNA:ik_L_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01/R_RAYNA:ik_L_knee01/R_RAYNA:ik_L_ankle01/R_RAYNA:ik_L_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01/R_RAYNA:ik_L_knee01/R_RAYNA:ik_L_ankle01/R_RAYNA:ik_L_ball01/R_RAYNA:ik_L_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01/R_RAYNA:ik_R_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01/R_RAYNA:ik_R_knee01/R_RAYNA:ik_R_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01/R_RAYNA:ik_R_knee01/R_RAYNA:ik_R_ankle01/R_RAYNA:ik_R_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01/R_RAYNA:ik_R_knee01/R_RAYNA:ik_R_ankle01/R_RAYNA:ik_R_ball01/R_RAYNA:ik_R_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide/R_RAYNA:fk_spine01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide/R_RAYNA:fk_spine01/R_RAYNA:fk_spine02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide/R_RAYNA:fk_spine01/R_RAYNA:fk_spine02/R_RAYNA:fk_spine03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide/R_RAYNA:fk_spine01/R_RAYNA:fk_spine02/R_RAYNA:fk_spine03/R_RAYNA:fk_chest01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 11
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: R_RAYNA:geometry
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:BAG
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:BODY
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:BOTTOM_TEETH
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:CANE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:GEM
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:HAIR
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:HAIRPIN
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:HEAD
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:KNIFE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:LEFT_EYE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:LEFT_EYELASH
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:LEFT_KNEEPAD
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:RIGH_KNEEPAD
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:RIGHT_EYE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:RIGHT_EYELASH
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:SCROLL
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:SMALL_POCKET
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:TONGUE
+        weight: 1
+      - path: R_RAYNA:geometry/R_RAYNA:TOP_TEETH
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_cane
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01/R_RAYNA:bn_L_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01/R_RAYNA:bn_L_knee01/R_RAYNA:bn_L_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01/R_RAYNA:bn_L_knee01/R_RAYNA:bn_L_ankle01/R_RAYNA:bn_L_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_hip01/R_RAYNA:bn_L_knee01/R_RAYNA:bn_L_ankle01/R_RAYNA:bn_L_ball01/R_RAYNA:bn_L_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_scroll
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_L_scroll/R_RAYNA:end_L_scroll
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01/R_RAYNA:bn_R_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01/R_RAYNA:bn_R_knee01/R_RAYNA:bn_R_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01/R_RAYNA:bn_R_knee01/R_RAYNA:bn_R_ankle01/R_RAYNA:bn_R_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_R_hip01/R_RAYNA:bn_R_knee01/R_RAYNA:bn_R_ankle01/R_RAYNA:bn_R_ball01/R_RAYNA:bn_R_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_b_collar01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_b_collar01/R_RAYNA:be_collar02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_BAG
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_BAG/R_RAYNA:end_BAG
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07/R_RAYNA:bn_hair08
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07/R_RAYNA:bn_hair08/R_RAYNA:bn_hair09
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07/R_RAYNA:bn_hair08/R_RAYNA:bn_hair09/R_RAYNA:bn_hair10
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:bn_hair02/R_RAYNA:bn_hair03/R_RAYNA:bn_hair04/R_RAYNA:bn_hair05/R_RAYNA:bn_hair06/R_RAYNA:bn_hair07/R_RAYNA:bn_hair08/R_RAYNA:bn_hair09/R_RAYNA:bn_hair10/R_RAYNA:be_hair11
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_chestEnd/R_RAYNA:bn_neck01/R_RAYNA:bn_neck02/R_RAYNA:bn_neck03/R_RAYNA:bn_head01/R_RAYNA:end_head/R_RAYNA:bn_hair01/R_RAYNA:joint1
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_indexFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_indexFinger01/R_RAYNA:bn_L_indexFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_indexFinger01/R_RAYNA:bn_L_indexFinger02/R_RAYNA:be_L_indexFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_midFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_midFinger01/R_RAYNA:bn_L_midFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_midFinger01/R_RAYNA:bn_L_midFinger02/R_RAYNA:be_L_midFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_pinkyFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_pinkyFinger01/R_RAYNA:bn_L_pinkyFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_pinkyFinger01/R_RAYNA:bn_L_pinkyFinger02/R_RAYNA:be_L_pinkyFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_ringFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_ringFinger01/R_RAYNA:bn_L_ringFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_ringFinger01/R_RAYNA:bn_L_ringFinger02/R_RAYNA:be_L_ringFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_thumb01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_thumb01/R_RAYNA:bn_L_thumb02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:bn_L_shoulder01/R_RAYNA:bn_L_shoulder02/R_RAYNA:bn_L_shoulder03/R_RAYNA:bn_L_shoulder04/R_RAYNA:bn_L_elbow01/R_RAYNA:bn_L_elbow02/R_RAYNA:bn_L_elbow03/R_RAYNA:bn_L_elbow04/R_RAYNA:bn_L_elbow05/R_RAYNA:bn_L_wrist/R_RAYNA:bn_L_thumb01/R_RAYNA:bn_L_thumb02/R_RAYNA:be_L_thumb03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01/R_RAYNA:fk_L_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01/R_RAYNA:fk_L_elbow02/R_RAYNA:fk_L_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01/R_RAYNA:fk_L_elbow02/R_RAYNA:fk_L_elbow03/R_RAYNA:fk_L_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:fk_L_shoulder01/R_RAYNA:fk_L_shoulder02/R_RAYNA:fk_L_shoulder03/R_RAYNA:fk_L_shoulder04/R_RAYNA:fk_L_elbow01/R_RAYNA:fk_L_elbow02/R_RAYNA:fk_L_elbow03/R_RAYNA:fk_L_elbow04/R_RAYNA:fk_L_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01/R_RAYNA:ik_L_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01/R_RAYNA:ik_L_elbow02/R_RAYNA:ik_L_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01/R_RAYNA:ik_L_elbow02/R_RAYNA:ik_L_elbow03/R_RAYNA:ik_L_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_clavicle01/R_RAYNA:ik_L_shoulder01/R_RAYNA:ik_L_shoulder02/R_RAYNA:ik_L_shoulder03/R_RAYNA:ik_L_shoulder04/R_RAYNA:ik_L_elbow01/R_RAYNA:ik_L_elbow02/R_RAYNA:ik_L_elbow03/R_RAYNA:ik_L_elbow04/R_RAYNA:ik_L_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_collar01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_L_collar01/R_RAYNA:be_L_collar02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_indexFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_indexFinger01/R_RAYNA:bn_R_indexFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_indexFinger01/R_RAYNA:bn_R_indexFinger02/R_RAYNA:be_R_indexFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_midFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_midFinger01/R_RAYNA:bn_R_midFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_midFinger01/R_RAYNA:bn_R_midFinger02/R_RAYNA:be_R_midFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_pinkyFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_pinkyFinger01/R_RAYNA:bn_R_pinkyFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_pinkyFinger01/R_RAYNA:bn_R_pinkyFinger02/R_RAYNA:be_R_pinkyFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_ringFinger01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_ringFinger01/R_RAYNA:bn_R_ringFinger02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_ringFinger01/R_RAYNA:bn_R_ringFinger02/R_RAYNA:be_R_ringFinger03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_thumb01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_thumb01/R_RAYNA:bn_R_thumb02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:bn_R_shoulder01/R_RAYNA:bn_R_shoulder02/R_RAYNA:bn_R_shoulder03/R_RAYNA:bn_R_shoulder04/R_RAYNA:bn_R_elbow01/R_RAYNA:bn_R_elbow02/R_RAYNA:bn_R_elbow03/R_RAYNA:bn_R_elbow04/R_RAYNA:bn_R_elbow05/R_RAYNA:bn_R_wrist/R_RAYNA:bn_R_thumb01/R_RAYNA:bn_R_thumb02/R_RAYNA:be_R_thumb03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01/R_RAYNA:fk_R_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01/R_RAYNA:fk_R_elbow02/R_RAYNA:fk_R_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01/R_RAYNA:fk_R_elbow02/R_RAYNA:fk_R_elbow03/R_RAYNA:fk_R_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:fk_R_shoulder01/R_RAYNA:fk_R_shoulder02/R_RAYNA:fk_R_shoulder03/R_RAYNA:fk_R_shoulder04/R_RAYNA:fk_R_elbow01/R_RAYNA:fk_R_elbow02/R_RAYNA:fk_R_elbow03/R_RAYNA:fk_R_elbow04/R_RAYNA:fk_R_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01/R_RAYNA:ik_R_elbow02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01/R_RAYNA:ik_R_elbow02/R_RAYNA:ik_R_elbow03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01/R_RAYNA:ik_R_elbow02/R_RAYNA:ik_R_elbow03/R_RAYNA:ik_R_elbow04
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_R_clavicle01/R_RAYNA:ik_R_shoulder01/R_RAYNA:ik_R_shoulder02/R_RAYNA:ik_R_shoulder03/R_RAYNA:ik_R_shoulder04/R_RAYNA:ik_R_elbow01/R_RAYNA:ik_R_elbow02/R_RAYNA:ik_R_elbow03/R_RAYNA:ik_R_elbow04/R_RAYNA:ik_R_elbow05
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_r_collar01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:bn_spine02/R_RAYNA:bn_spine03/R_RAYNA:bn_chest01/R_RAYNA:bn_r_collar01/R_RAYNA:be_r_collar02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01/R_RAYNA:fk_L_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01/R_RAYNA:fk_L_knee01/R_RAYNA:fk_L_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01/R_RAYNA:fk_L_knee01/R_RAYNA:fk_L_ankle01/R_RAYNA:fk_L_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_L_hip01/R_RAYNA:fk_L_knee01/R_RAYNA:fk_L_ankle01/R_RAYNA:fk_L_ball01/R_RAYNA:fk_L_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01/R_RAYNA:fk_R_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01/R_RAYNA:fk_R_knee01/R_RAYNA:fk_R_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01/R_RAYNA:fk_R_knee01/R_RAYNA:fk_R_ankle01/R_RAYNA:fk_R_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:fk_R_hip01/R_RAYNA:fk_R_knee01/R_RAYNA:fk_R_ankle01/R_RAYNA:fk_R_ball01/R_RAYNA:fk_R_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01/R_RAYNA:ik_L_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01/R_RAYNA:ik_L_knee01/R_RAYNA:ik_L_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01/R_RAYNA:ik_L_knee01/R_RAYNA:ik_L_ankle01/R_RAYNA:ik_L_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_L_hip01/R_RAYNA:ik_L_knee01/R_RAYNA:ik_L_ankle01/R_RAYNA:ik_L_ball01/R_RAYNA:ik_L_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01/R_RAYNA:ik_R_knee01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01/R_RAYNA:ik_R_knee01/R_RAYNA:ik_R_ankle01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01/R_RAYNA:ik_R_knee01/R_RAYNA:ik_R_ankle01/R_RAYNA:ik_R_ball01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:mainJoint/R_RAYNA:bn_spine01/R_RAYNA:ik_R_hip01/R_RAYNA:ik_R_knee01/R_RAYNA:ik_R_ankle01/R_RAYNA:ik_R_ball01/R_RAYNA:ik_R_toe01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide/R_RAYNA:fk_spine01
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide/R_RAYNA:fk_spine01/R_RAYNA:fk_spine02
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide/R_RAYNA:fk_spine01/R_RAYNA:fk_spine02/R_RAYNA:fk_spine03
+        weight: 1
+      - path: R_RAYNA:GLOBAL_GRP/R_RAYNA:joint/R_RAYNA:toHide/R_RAYNA:fk_spine01/R_RAYNA:fk_spine02/R_RAYNA:fk_spine03/R_RAYNA:fk_chest01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

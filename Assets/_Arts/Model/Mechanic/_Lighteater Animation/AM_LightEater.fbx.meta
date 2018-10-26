@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 4e80f503f3e2bd54ca8265933cc87034
+timeCreated: 1462787942
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MR_LightEater_end_Lighteater
+    100004: MR_LightEater_ik_end_Lighteater
+    100006: MR_LightEater_ik_lighteater01
+    100008: MR_LightEater_ik_lighteater02
+    100010: MR_LightEater_ik_lighteater03
+    100012: MR_LightEater_ik_lighteater04
+    100014: MR_LightEater_ik_lighteater05
+    100016: MR_LightEater_ik_lighteater06
+    100018: MR_LightEater_ik_lighteater07
+    100020: MR_LightEater_ik_lighteater08
+    100022: MR_LightEater_ik_lighteater09
+    100024: MR_LightEater_ik_lighteater10
+    100026: MR_LightEater_ik_root_Lighteater
+    100028: MR_LightEater_L_tentacle_bot01
+    100030: MR_LightEater_L_tentacle_bot02
+    100032: MR_LightEater_L_tentacle_bot03
+    100034: MR_LightEater_L_tentacle_bot04
+    100036: MR_LightEater_L_tentacle_bot05
+    100038: MR_LightEater_L_tentacle_top01
+    100040: MR_LightEater_L_tentacle_top02
+    100042: MR_LightEater_L_tentacle_top03
+    100044: MR_LightEater_L_tentacle_top04
+    100046: MR_LightEater_L_tentacle_top05
+    100048: MR_LightEater_lighteater01
+    100050: MR_LightEater_lighteater02
+    100052: MR_LightEater_lighteater03
+    100054: MR_LightEater_lighteater04
+    100056: MR_LightEater_lighteater05
+    100058: MR_LightEater_lighteater06
+    100060: MR_LightEater_lighteater07
+    100062: MR_LightEater_lighteater08
+    100064: MR_LightEater_lighteater09
+    100066: MR_LightEater_lighteater10
+    100068: MR_LightEater_mesh
+    100070: MR_LightEater_mesh_LightEater
+    100072: MR_LightEater_R_tentacle_bot01
+    100074: MR_LightEater_R_tentacle_bot02
+    100076: MR_LightEater_R_tentacle_bot03
+    100078: MR_LightEater_R_tentacle_bot04
+    100080: MR_LightEater_R_tentacle_bot05
+    100082: MR_LightEater_R_tentacle_top01
+    100084: MR_LightEater_R_tentacle_top02
+    100086: MR_LightEater_R_tentacle_top03
+    100088: MR_LightEater_R_tentacle_top04
+    100090: MR_LightEater_R_tentacle_top05
+    100092: MR_LightEater_root_Lighteater
+    100094: MR_LightEater_root_Tentacle
+    100096: MR_LightEater_skeleton
+    100098: MR_LightEater_tentacle_bot01
+    100100: MR_LightEater_tentacle_bot02
+    100102: MR_LightEater_tentacle_bot03
+    100104: MR_LightEater_tentacle_bot04
+    100106: MR_LightEater_tentacle_bot05
+    100108: MR_LightEater_tentacle_top01
+    100110: MR_LightEater_tentacle_top02
+    100112: MR_LightEater_tentacle_top03
+    100114: MR_LightEater_tentacle_top04
+    100116: MR_LightEater_tentacle_top05
+    100118: MR_LightEater_AN_lighteater01
+    100120: MR_LightEater_AN_lighteater02
+    100122: MR_LightEater_AN_lighteater03
+    100124: MR_LightEater_AN_lighteater04
+    100126: MR_LightEater_AN_lighteater05
+    100128: MR_LightEater_AN_lighteater06
+    100130: MR_LightEater_AN_lighteater07
+    100132: MR_LightEater_AN_lighteater08
+    100134: MR_LightEater_AN_lighteater09
+    100136: MR_LightEater_AN_lighteater10
+    100138: MR_LightEater_AN_root_Lighteater
+    400000: //RootNode
+    400002: MR_LightEater_end_Lighteater
+    400004: MR_LightEater_ik_end_Lighteater
+    400006: MR_LightEater_ik_lighteater01
+    400008: MR_LightEater_ik_lighteater02
+    400010: MR_LightEater_ik_lighteater03
+    400012: MR_LightEater_ik_lighteater04
+    400014: MR_LightEater_ik_lighteater05
+    400016: MR_LightEater_ik_lighteater06
+    400018: MR_LightEater_ik_lighteater07
+    400020: MR_LightEater_ik_lighteater08
+    400022: MR_LightEater_ik_lighteater09
+    400024: MR_LightEater_ik_lighteater10
+    400026: MR_LightEater_ik_root_Lighteater
+    400028: MR_LightEater_L_tentacle_bot01
+    400030: MR_LightEater_L_tentacle_bot02
+    400032: MR_LightEater_L_tentacle_bot03
+    400034: MR_LightEater_L_tentacle_bot04
+    400036: MR_LightEater_L_tentacle_bot05
+    400038: MR_LightEater_L_tentacle_top01
+    400040: MR_LightEater_L_tentacle_top02
+    400042: MR_LightEater_L_tentacle_top03
+    400044: MR_LightEater_L_tentacle_top04
+    400046: MR_LightEater_L_tentacle_top05
+    400048: MR_LightEater_lighteater01
+    400050: MR_LightEater_lighteater02
+    400052: MR_LightEater_lighteater03
+    400054: MR_LightEater_lighteater04
+    400056: MR_LightEater_lighteater05
+    400058: MR_LightEater_lighteater06
+    400060: MR_LightEater_lighteater07
+    400062: MR_LightEater_lighteater08
+    400064: MR_LightEater_lighteater09
+    400066: MR_LightEater_lighteater10
+    400068: MR_LightEater_mesh
+    400070: MR_LightEater_mesh_LightEater
+    400072: MR_LightEater_R_tentacle_bot01
+    400074: MR_LightEater_R_tentacle_bot02
+    400076: MR_LightEater_R_tentacle_bot03
+    400078: MR_LightEater_R_tentacle_bot04
+    400080: MR_LightEater_R_tentacle_bot05
+    400082: MR_LightEater_R_tentacle_top01
+    400084: MR_LightEater_R_tentacle_top02
+    400086: MR_LightEater_R_tentacle_top03
+    400088: MR_LightEater_R_tentacle_top04
+    400090: MR_LightEater_R_tentacle_top05
+    400092: MR_LightEater_root_Lighteater
+    400094: MR_LightEater_root_Tentacle
+    400096: MR_LightEater_skeleton
+    400098: MR_LightEater_tentacle_bot01
+    400100: MR_LightEater_tentacle_bot02
+    400102: MR_LightEater_tentacle_bot03
+    400104: MR_LightEater_tentacle_bot04
+    400106: MR_LightEater_tentacle_bot05
+    400108: MR_LightEater_tentacle_top01
+    400110: MR_LightEater_tentacle_top02
+    400112: MR_LightEater_tentacle_top03
+    400114: MR_LightEater_tentacle_top04
+    400116: MR_LightEater_tentacle_top05
+    400118: MR_LightEater_AN_lighteater01
+    400120: MR_LightEater_AN_lighteater02
+    400122: MR_LightEater_AN_lighteater03
+    400124: MR_LightEater_AN_lighteater04
+    400126: MR_LightEater_AN_lighteater05
+    400128: MR_LightEater_AN_lighteater06
+    400130: MR_LightEater_AN_lighteater07
+    400132: MR_LightEater_AN_lighteater08
+    400134: MR_LightEater_AN_lighteater09
+    400136: MR_LightEater_AN_lighteater10
+    400138: MR_LightEater_AN_root_Lighteater
+    4300000: MR_LightEater_mesh_LightEater
+    7400000: AM_Lighteater_TPose
+    7400002: AM_Lighteater_Appear
+    7400004: AM_Lighteater_Moving
+    7400006: AM_Lighteater_Eat
+    7400008: AM_Lighteater_Retract
+    7400010: AM_Lighteater_Eat_small
+    9500000: //RootNode
+    13700000: MR_LightEater_mesh_LightEater
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AM_Lighteater_TPose
+      takeName: AM_Lighteater_TPose
+      firstFrame: 1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MR_LightEater_mesh
+        weight: 1
+      - path: MR_LightEater_mesh/MR_LightEater_mesh_LightEater
+        weight: 1
+      - path: MR_LightEater_skeleton
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04/MR_LightEater_L_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04/MR_LightEater_L_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04/MR_LightEater_R_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04/MR_LightEater_R_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04/MR_LightEater_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04/MR_LightEater_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01/MR_LightEater_AN_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02/MR_LightEater_AN_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03/MR_LightEater_AN_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04/MR_LightEater_AN_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05/MR_LightEater_AN_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06/MR_LightEater_AN_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07/MR_LightEater_AN_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08/MR_LightEater_AN_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09/MR_LightEater_AN_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10/MR_LightEater_AN_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater/MR_LightEater_AN_root_Lighteater
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AM_Lighteater_Appear
+      takeName: AM_Lighteater_Appear
+      firstFrame: 11
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MR_LightEater_mesh
+        weight: 1
+      - path: MR_LightEater_mesh/MR_LightEater_mesh_LightEater
+        weight: 1
+      - path: MR_LightEater_skeleton
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04/MR_LightEater_L_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04/MR_LightEater_L_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04/MR_LightEater_R_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04/MR_LightEater_R_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04/MR_LightEater_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04/MR_LightEater_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01/MR_LightEater_AN_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02/MR_LightEater_AN_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03/MR_LightEater_AN_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04/MR_LightEater_AN_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05/MR_LightEater_AN_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06/MR_LightEater_AN_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07/MR_LightEater_AN_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08/MR_LightEater_AN_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09/MR_LightEater_AN_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10/MR_LightEater_AN_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater/MR_LightEater_AN_root_Lighteater
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 11
+    - serializedVersion: 16
+      name: AM_Lighteater_Moving
+      takeName: AM_Lighteater_Moving
+      firstFrame: 201
+      lastFrame: 312
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MR_LightEater_mesh
+        weight: 1
+      - path: MR_LightEater_mesh/MR_LightEater_mesh_LightEater
+        weight: 1
+      - path: MR_LightEater_skeleton
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04/MR_LightEater_L_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04/MR_LightEater_L_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04/MR_LightEater_R_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04/MR_LightEater_R_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04/MR_LightEater_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04/MR_LightEater_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01/MR_LightEater_AN_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02/MR_LightEater_AN_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03/MR_LightEater_AN_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04/MR_LightEater_AN_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05/MR_LightEater_AN_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06/MR_LightEater_AN_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07/MR_LightEater_AN_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08/MR_LightEater_AN_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09/MR_LightEater_AN_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10/MR_LightEater_AN_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater/MR_LightEater_AN_root_Lighteater
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 201
+    - serializedVersion: 16
+      name: AM_Lighteater_Eat
+      takeName: AM_Lighteater_Eat
+      firstFrame: 501
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MR_LightEater_mesh
+        weight: 1
+      - path: MR_LightEater_mesh/MR_LightEater_mesh_LightEater
+        weight: 1
+      - path: MR_LightEater_skeleton
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04/MR_LightEater_L_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04/MR_LightEater_L_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04/MR_LightEater_R_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04/MR_LightEater_R_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04/MR_LightEater_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04/MR_LightEater_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01/MR_LightEater_AN_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02/MR_LightEater_AN_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03/MR_LightEater_AN_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04/MR_LightEater_AN_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05/MR_LightEater_AN_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06/MR_LightEater_AN_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07/MR_LightEater_AN_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08/MR_LightEater_AN_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09/MR_LightEater_AN_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10/MR_LightEater_AN_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater
+        weight: 0
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater/MR_LightEater_AN_root_Lighteater
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 501
+    - serializedVersion: 16
+      name: AM_Lighteater_Retract
+      takeName: AM_Lighteater_Retract
+      firstFrame: 601
+      lastFrame: 660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MR_LightEater_mesh
+        weight: 1
+      - path: MR_LightEater_mesh/MR_LightEater_mesh_LightEater
+        weight: 1
+      - path: MR_LightEater_skeleton
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04/MR_LightEater_L_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04/MR_LightEater_L_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04/MR_LightEater_R_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04/MR_LightEater_R_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04/MR_LightEater_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04/MR_LightEater_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01/MR_LightEater_AN_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02/MR_LightEater_AN_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03/MR_LightEater_AN_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04/MR_LightEater_AN_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05/MR_LightEater_AN_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06/MR_LightEater_AN_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07/MR_LightEater_AN_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08/MR_LightEater_AN_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09/MR_LightEater_AN_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10/MR_LightEater_AN_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater/MR_LightEater_AN_root_Lighteater
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 601
+    - serializedVersion: 16
+      name: AM_Lighteater_Eat_small
+      takeName: AM_Lighteater_Eat_small
+      firstFrame: 701
+      lastFrame: 751
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MR_LightEater_mesh
+        weight: 1
+      - path: MR_LightEater_mesh/MR_LightEater_mesh_LightEater
+        weight: 1
+      - path: MR_LightEater_skeleton
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_end_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_bot01/MR_LightEater_L_tentacle_bot02/MR_LightEater_L_tentacle_bot03/MR_LightEater_L_tentacle_bot04/MR_LightEater_L_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_L_tentacle_top01/MR_LightEater_L_tentacle_top02/MR_LightEater_L_tentacle_top03/MR_LightEater_L_tentacle_top04/MR_LightEater_L_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_bot01/MR_LightEater_R_tentacle_bot02/MR_LightEater_R_tentacle_bot03/MR_LightEater_R_tentacle_bot04/MR_LightEater_R_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_R_tentacle_top01/MR_LightEater_R_tentacle_top02/MR_LightEater_R_tentacle_top03/MR_LightEater_R_tentacle_top04/MR_LightEater_R_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_bot01/MR_LightEater_tentacle_bot02/MR_LightEater_tentacle_bot03/MR_LightEater_tentacle_bot04/MR_LightEater_tentacle_bot05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_end_Lighteater/MR_LightEater_root_Tentacle/MR_LightEater_tentacle_top01/MR_LightEater_tentacle_top02/MR_LightEater_tentacle_top03/MR_LightEater_tentacle_top04/MR_LightEater_tentacle_top05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater01/MR_LightEater_AN_lighteater01
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater02/MR_LightEater_AN_lighteater02
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater03/MR_LightEater_AN_lighteater03
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater04/MR_LightEater_AN_lighteater04
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater05/MR_LightEater_AN_lighteater05
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater06/MR_LightEater_AN_lighteater06
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater07/MR_LightEater_AN_lighteater07
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater08/MR_LightEater_AN_lighteater08
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater09/MR_LightEater_AN_lighteater09
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_lighteater10/MR_LightEater_AN_lighteater10
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater
+        weight: 1
+      - path: MR_LightEater_skeleton/MR_LightEater_ik_root_Lighteater/MR_LightEater_AN_root_Lighteater
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 701
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

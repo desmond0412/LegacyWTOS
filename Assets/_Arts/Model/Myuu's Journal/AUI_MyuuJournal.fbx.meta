@@ -1,0 +1,2241 @@
+fileFormatVersion: 2
+guid: 1cd103fd2a9e77646be81a31787d22f6
+timeCreated: 1463141535
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PR_MyuuJournalOpen_bodyBook
+    100004: PR_MyuuJournalOpen_end_L_BookPageA
+    100006: PR_MyuuJournalOpen_end_L_BookPageB
+    100008: PR_MyuuJournalOpen_end_L_bookPageC
+    100010: PR_MyuuJournalOpen_end_L_BookSideA
+    100012: PR_MyuuJournalOpen_end_R_BookPageA
+    100014: PR_MyuuJournalOpen_end_R_BookPageB
+    100016: PR_MyuuJournalOpen_end_R_bookPageC
+    100018: PR_MyuuJournalOpen_end_R_BookSideA
+    100020: PR_MyuuJournalOpen_L_bookPageA01
+    100022: PR_MyuuJournalOpen_L_bookPageA02
+    100024: PR_MyuuJournalOpen_L_bookPageA03
+    100026: PR_MyuuJournalOpen_L_bookPageA04
+    100028: PR_MyuuJournalOpen_L_bookPageA05
+    100030: PR_MyuuJournalOpen_L_bookPageA06
+    100032: PR_MyuuJournalOpen_L_bookPageB01
+    100034: PR_MyuuJournalOpen_L_bookPageB02
+    100036: PR_MyuuJournalOpen_L_bookPageB03
+    100038: PR_MyuuJournalOpen_L_bookPageB04
+    100040: PR_MyuuJournalOpen_L_bookPageB05
+    100042: PR_MyuuJournalOpen_L_bookPageB06
+    100044: PR_MyuuJournalOpen_L_bookPageC01
+    100046: PR_MyuuJournalOpen_L_bookPageC02
+    100048: PR_MyuuJournalOpen_L_bookPageC03
+    100050: PR_MyuuJournalOpen_L_bookPageC04
+    100052: PR_MyuuJournalOpen_L_bookPageC05
+    100054: PR_MyuuJournalOpen_L_bookPageC06
+    100056: PR_MyuuJournalOpen_L_bookSideA01
+    100058: PR_MyuuJournalOpen_L_bookSideA02
+    100060: PR_MyuuJournalOpen_L_bookSideA03
+    100062: PR_MyuuJournalOpen_L_bookSideA04
+    100064: PR_MyuuJournalOpen_L_bookSideA05
+    100066: PR_MyuuJournalOpen_L_bookSideA06
+    100068: PR_MyuuJournalOpen_mesh
+    100070: PR_MyuuJournalOpen_mesh_Body
+    100072: PR_MyuuJournalOpen_mesh_Page1
+    100074: PR_MyuuJournalOpen_mesh_Page2
+    100076: PR_MyuuJournalOpen_mesh_Page3
+    100078: PR_MyuuJournalOpen_mesh_Page4
+    100080: PR_MyuuJournalOpen_mesh_Page5
+    100082: PR_MyuuJournalOpen_mesh_Page6
+    100084: PR_MyuuJournalOpen_R_bookPageA01
+    100086: PR_MyuuJournalOpen_R_bookPageA02
+    100088: PR_MyuuJournalOpen_R_bookPageA03
+    100090: PR_MyuuJournalOpen_R_bookPageA04
+    100092: PR_MyuuJournalOpen_R_bookPageA05
+    100094: PR_MyuuJournalOpen_R_bookPageA06
+    100096: PR_MyuuJournalOpen_R_bookPageB01
+    100098: PR_MyuuJournalOpen_R_bookPageB02
+    100100: PR_MyuuJournalOpen_R_bookPageB03
+    100102: PR_MyuuJournalOpen_R_bookPageB04
+    100104: PR_MyuuJournalOpen_R_bookPageB05
+    100106: PR_MyuuJournalOpen_R_bookPageB06
+    100108: PR_MyuuJournalOpen_R_bookPageC01
+    100110: PR_MyuuJournalOpen_R_bookPageC02
+    100112: PR_MyuuJournalOpen_R_bookPageC03
+    100114: PR_MyuuJournalOpen_R_bookPageC04
+    100116: PR_MyuuJournalOpen_R_bookPageC05
+    100118: PR_MyuuJournalOpen_R_bookPageC06
+    100120: PR_MyuuJournalOpen_R_bookSideA01
+    100122: PR_MyuuJournalOpen_R_bookSideA02
+    100124: PR_MyuuJournalOpen_R_bookSideA03
+    100126: PR_MyuuJournalOpen_R_bookSideA04
+    100128: PR_MyuuJournalOpen_R_bookSideA05
+    100130: PR_MyuuJournalOpen_R_bookSideA06
+    100132: PR_MyuuJournalOpen_skeleton
+    100134: PR_MyuuJournalOpen_BookmarkBlue
+    100136: PR_MyuuJournalOpen_BookmarkGreen
+    100138: PR_MyuuJournalOpen_BookmarkOrange
+    100140: PR_MyuuJournalOpen_BookmarkPurple
+    100142: PR_MyuuJournalOpen_BookmarkYellow
+    100144: PR_MyuuJournalOpen_Padlock_Bottom
+    100146: PR_MyuuJournalOpen_Padlock_Top
+    100148: PR_MyuuJournalOpen_CTRL_Global
+    400000: //RootNode
+    400002: PR_MyuuJournalOpen_bodyBook
+    400004: PR_MyuuJournalOpen_end_L_BookPageA
+    400006: PR_MyuuJournalOpen_end_L_BookPageB
+    400008: PR_MyuuJournalOpen_end_L_bookPageC
+    400010: PR_MyuuJournalOpen_end_L_BookSideA
+    400012: PR_MyuuJournalOpen_end_R_BookPageA
+    400014: PR_MyuuJournalOpen_end_R_BookPageB
+    400016: PR_MyuuJournalOpen_end_R_bookPageC
+    400018: PR_MyuuJournalOpen_end_R_BookSideA
+    400020: PR_MyuuJournalOpen_L_bookPageA01
+    400022: PR_MyuuJournalOpen_L_bookPageA02
+    400024: PR_MyuuJournalOpen_L_bookPageA03
+    400026: PR_MyuuJournalOpen_L_bookPageA04
+    400028: PR_MyuuJournalOpen_L_bookPageA05
+    400030: PR_MyuuJournalOpen_L_bookPageA06
+    400032: PR_MyuuJournalOpen_L_bookPageB01
+    400034: PR_MyuuJournalOpen_L_bookPageB02
+    400036: PR_MyuuJournalOpen_L_bookPageB03
+    400038: PR_MyuuJournalOpen_L_bookPageB04
+    400040: PR_MyuuJournalOpen_L_bookPageB05
+    400042: PR_MyuuJournalOpen_L_bookPageB06
+    400044: PR_MyuuJournalOpen_L_bookPageC01
+    400046: PR_MyuuJournalOpen_L_bookPageC02
+    400048: PR_MyuuJournalOpen_L_bookPageC03
+    400050: PR_MyuuJournalOpen_L_bookPageC04
+    400052: PR_MyuuJournalOpen_L_bookPageC05
+    400054: PR_MyuuJournalOpen_L_bookPageC06
+    400056: PR_MyuuJournalOpen_L_bookSideA01
+    400058: PR_MyuuJournalOpen_L_bookSideA02
+    400060: PR_MyuuJournalOpen_L_bookSideA03
+    400062: PR_MyuuJournalOpen_L_bookSideA04
+    400064: PR_MyuuJournalOpen_L_bookSideA05
+    400066: PR_MyuuJournalOpen_L_bookSideA06
+    400068: PR_MyuuJournalOpen_mesh
+    400070: PR_MyuuJournalOpen_mesh_Body
+    400072: PR_MyuuJournalOpen_mesh_Page1
+    400074: PR_MyuuJournalOpen_mesh_Page2
+    400076: PR_MyuuJournalOpen_mesh_Page3
+    400078: PR_MyuuJournalOpen_mesh_Page4
+    400080: PR_MyuuJournalOpen_mesh_Page5
+    400082: PR_MyuuJournalOpen_mesh_Page6
+    400084: PR_MyuuJournalOpen_R_bookPageA01
+    400086: PR_MyuuJournalOpen_R_bookPageA02
+    400088: PR_MyuuJournalOpen_R_bookPageA03
+    400090: PR_MyuuJournalOpen_R_bookPageA04
+    400092: PR_MyuuJournalOpen_R_bookPageA05
+    400094: PR_MyuuJournalOpen_R_bookPageA06
+    400096: PR_MyuuJournalOpen_R_bookPageB01
+    400098: PR_MyuuJournalOpen_R_bookPageB02
+    400100: PR_MyuuJournalOpen_R_bookPageB03
+    400102: PR_MyuuJournalOpen_R_bookPageB04
+    400104: PR_MyuuJournalOpen_R_bookPageB05
+    400106: PR_MyuuJournalOpen_R_bookPageB06
+    400108: PR_MyuuJournalOpen_R_bookPageC01
+    400110: PR_MyuuJournalOpen_R_bookPageC02
+    400112: PR_MyuuJournalOpen_R_bookPageC03
+    400114: PR_MyuuJournalOpen_R_bookPageC04
+    400116: PR_MyuuJournalOpen_R_bookPageC05
+    400118: PR_MyuuJournalOpen_R_bookPageC06
+    400120: PR_MyuuJournalOpen_R_bookSideA01
+    400122: PR_MyuuJournalOpen_R_bookSideA02
+    400124: PR_MyuuJournalOpen_R_bookSideA03
+    400126: PR_MyuuJournalOpen_R_bookSideA04
+    400128: PR_MyuuJournalOpen_R_bookSideA05
+    400130: PR_MyuuJournalOpen_R_bookSideA06
+    400132: PR_MyuuJournalOpen_skeleton
+    400134: PR_MyuuJournalOpen_BookmarkBlue
+    400136: PR_MyuuJournalOpen_BookmarkGreen
+    400138: PR_MyuuJournalOpen_BookmarkOrange
+    400140: PR_MyuuJournalOpen_BookmarkPurple
+    400142: PR_MyuuJournalOpen_BookmarkYellow
+    400144: PR_MyuuJournalOpen_Padlock_Bottom
+    400146: PR_MyuuJournalOpen_Padlock_Top
+    400148: PR_MyuuJournalOpen_CTRL_Global
+    4300000: PR_MyuuJournalOpen_mesh_Page1
+    4300002: PR_MyuuJournalOpen_mesh_Page2
+    4300004: PR_MyuuJournalOpen_mesh_Page3
+    4300006: PR_MyuuJournalOpen_mesh_Body
+    4300008: PR_MyuuJournalOpen_mesh_Page4
+    4300010: PR_MyuuJournalOpen_mesh_Page5
+    4300012: PR_MyuuJournalOpen_mesh_Page6
+    4300014: PR_MyuuJournalOpen_Padlock_Bottom
+    4300016: PR_MyuuJournalOpen_BookmarkGreen
+    4300018: PR_MyuuJournalOpen_BookmarkYellow
+    4300020: PR_MyuuJournalOpen_BookmarkOrange
+    4300022: PR_MyuuJournalOpen_BookmarkPurple
+    4300024: PR_MyuuJournalOpen_BookmarkBlue
+    4300026: PR_MyuuJournalOpen_Padlock_Top
+    7400000: AUI_MyuuJournal_TPose
+    7400002: AUI_MyuuJournal_Unlock
+    7400004: AUI_MyuuJournal_Idle
+    7400006: AUI_MyuuJournal_Highlight
+    7400008: AUI_MyuuJournal_Highlight_loop
+    7400010: AUI_MyuuJournal_Select1
+    7400012: AUI_MyuuJournal_Select2
+    7400014: AUI_MyuuJournal_Exit
+    7400016: AUI_MyuuJournal_Entrance
+    7400018: AUI_MyuuJournal_Idle_Content
+    7400020: AUI_MyuuJournal_Remove
+    9500000: //RootNode
+    13700000: PR_MyuuJournalOpen_mesh_Body
+    13700002: PR_MyuuJournalOpen_mesh_Page1
+    13700004: PR_MyuuJournalOpen_mesh_Page2
+    13700006: PR_MyuuJournalOpen_mesh_Page3
+    13700008: PR_MyuuJournalOpen_mesh_Page4
+    13700010: PR_MyuuJournalOpen_mesh_Page5
+    13700012: PR_MyuuJournalOpen_mesh_Page6
+    13700014: PR_MyuuJournalOpen_BookmarkBlue
+    13700016: PR_MyuuJournalOpen_BookmarkGreen
+    13700018: PR_MyuuJournalOpen_BookmarkOrange
+    13700020: PR_MyuuJournalOpen_BookmarkPurple
+    13700022: PR_MyuuJournalOpen_BookmarkYellow
+    13700024: PR_MyuuJournalOpen_Padlock_Bottom
+    13700026: PR_MyuuJournalOpen_Padlock_Top
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_TPose
+      takeName: AUI_MyuuJournal_TPose
+      firstFrame: 1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Unlock
+      takeName: AUI_MyuuJournal_Unlock
+      firstFrame: 101
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: EventAnimFinishIntro
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1001
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Idle
+      takeName: AUI_MyuuJournal_Idle
+      firstFrame: 301
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 11
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Highlight
+      takeName: AUI_MyuuJournal_Highlight
+      firstFrame: 401
+      lastFrame: 434
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Highlight_loop
+      takeName: AUI_MyuuJournal_Highlight_loop
+      firstFrame: 435
+      lastFrame: 475
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 135
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Select1
+      takeName: AUI_MyuuJournal_Select1
+      firstFrame: 501
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9971828
+        functionName: EventAnimFinishExit
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 401
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Select2
+      takeName: AUI_MyuuJournal_Select2
+      firstFrame: 601
+      lastFrame: 635
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: EventAnimFinishIntro
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 601
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Exit
+      takeName: AUI_MyuuJournal_Exit
+      firstFrame: 1101
+      lastFrame: 1134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: EventAnimFinishExit
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 501
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Entrance
+      takeName: AUI_MyuuJournal_Entrance
+      firstFrame: 1201
+      lastFrame: 1241
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9943663
+        functionName: EventAnimFinishIntro
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 560
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Idle_Content
+      takeName: AUI_MyuuJournal_Idle_Content
+      firstFrame: 701
+      lastFrame: 1001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1301
+    - serializedVersion: 16
+      name: AUI_MyuuJournal_Remove
+      takeName: AUI_MyuuJournal_Remove
+      firstFrame: 1301
+      lastFrame: 1314
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9967041
+        functionName: EventAnimFinishExit
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PR_MyuuJournalOpen_CTRL_Global
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkBlue
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkGreen
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkOrange
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkPurple
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_BookmarkYellow
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Body
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page1
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page2
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page3
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page4
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page5
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_mesh_Page6
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Bottom
+        weight: 1
+      - path: PR_MyuuJournalOpen_mesh/PR_MyuuJournalOpen_Padlock_Top
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageA01/PR_MyuuJournalOpen_L_bookPageA02/PR_MyuuJournalOpen_L_bookPageA03/PR_MyuuJournalOpen_L_bookPageA04/PR_MyuuJournalOpen_L_bookPageA05/PR_MyuuJournalOpen_L_bookPageA06/PR_MyuuJournalOpen_end_L_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageB01/PR_MyuuJournalOpen_L_bookPageB02/PR_MyuuJournalOpen_L_bookPageB03/PR_MyuuJournalOpen_L_bookPageB04/PR_MyuuJournalOpen_L_bookPageB05/PR_MyuuJournalOpen_L_bookPageB06/PR_MyuuJournalOpen_end_L_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookPageC01/PR_MyuuJournalOpen_L_bookPageC02/PR_MyuuJournalOpen_L_bookPageC03/PR_MyuuJournalOpen_L_bookPageC04/PR_MyuuJournalOpen_L_bookPageC05/PR_MyuuJournalOpen_L_bookPageC06/PR_MyuuJournalOpen_end_L_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_L_bookSideA01/PR_MyuuJournalOpen_L_bookSideA02/PR_MyuuJournalOpen_L_bookSideA03/PR_MyuuJournalOpen_L_bookSideA04/PR_MyuuJournalOpen_L_bookSideA05/PR_MyuuJournalOpen_L_bookSideA06/PR_MyuuJournalOpen_end_L_BookSideA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageA01/PR_MyuuJournalOpen_R_bookPageA02/PR_MyuuJournalOpen_R_bookPageA03/PR_MyuuJournalOpen_R_bookPageA04/PR_MyuuJournalOpen_R_bookPageA05/PR_MyuuJournalOpen_R_bookPageA06/PR_MyuuJournalOpen_end_R_BookPageA
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageB01/PR_MyuuJournalOpen_R_bookPageB02/PR_MyuuJournalOpen_R_bookPageB03/PR_MyuuJournalOpen_R_bookPageB04/PR_MyuuJournalOpen_R_bookPageB05/PR_MyuuJournalOpen_R_bookPageB06/PR_MyuuJournalOpen_end_R_BookPageB
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookPageC01/PR_MyuuJournalOpen_R_bookPageC02/PR_MyuuJournalOpen_R_bookPageC03/PR_MyuuJournalOpen_R_bookPageC04/PR_MyuuJournalOpen_R_bookPageC05/PR_MyuuJournalOpen_R_bookPageC06/PR_MyuuJournalOpen_end_R_bookPageC
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06
+        weight: 1
+      - path: PR_MyuuJournalOpen_skeleton/PR_MyuuJournalOpen_bodyBook/PR_MyuuJournalOpen_R_bookSideA01/PR_MyuuJournalOpen_R_bookSideA02/PR_MyuuJournalOpen_R_bookSideA03/PR_MyuuJournalOpen_R_bookSideA04/PR_MyuuJournalOpen_R_bookSideA05/PR_MyuuJournalOpen_R_bookSideA06/PR_MyuuJournalOpen_end_R_BookSideA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1701
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: e1bdbd9b86842a74f96c8e922befcab5
+timeCreated: 1462767479
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MR_Gurib_grp_Gurib_01
+    100004: MR_Gurib_grp_Gurib_02
+    100006: MR_Gurib_grp_Gurib_03
+    100008: MR_Gurib_grp_Gurib_04
+    100010: MR_Gurib_GuribA_caps01
+    100012: MR_Gurib_GuribA_caps02
+    100014: MR_Gurib_GuribA_caps03
+    100016: MR_Gurib_GuribA_gills01
+    100018: MR_Gurib_GuribA_gills02
+    100020: MR_Gurib_GuribA_gills03
+    100022: MR_Gurib_GuribA_gills04
+    100024: MR_Gurib_GuribA_gills05
+    100026: MR_Gurib_GuribA_gills06
+    100028: MR_Gurib_GuribA_gills07
+    100030: MR_Gurib_GuribA_gills08
+    100032: MR_Gurib_GuribA_stem01
+    100034: MR_Gurib_GuribA_stem02
+    100036: MR_Gurib_GuribA_stem03
+    100038: MR_Gurib_GuribA_stem04
+    100040: MR_Gurib_GuribB_caps01
+    100042: MR_Gurib_GuribB_caps02
+    100044: MR_Gurib_GuribB_gills01
+    100046: MR_Gurib_GuribB_gills02
+    100048: MR_Gurib_GuribB_gills03
+    100050: MR_Gurib_GuribB_gills04
+    100052: MR_Gurib_GuribB_gills05
+    100054: MR_Gurib_GuribB_gills06
+    100056: MR_Gurib_GuribB_gills07
+    100058: MR_Gurib_GuribB_gills08
+    100060: MR_Gurib_GuribB_stem01
+    100062: MR_Gurib_GuribB_stem02
+    100064: MR_Gurib_GuribB_stem03
+    100066: MR_Gurib_GuribB_stem04
+    100068: MR_Gurib_GuribB_stem05
+    100070: MR_Gurib_GuribB_stem06
+    100072: MR_Gurib_GuribC_stem01
+    100074: MR_Gurib_GuribC_stem02
+    100076: MR_Gurib_GuribC_stem03
+    100078: MR_Gurib_GuribC_stem04
+    100080: MR_Gurib_GuribC_stem05
+    100082: MR_Gurib_GuribC_stem06
+    100084: MR_Gurib_GuribC_stem07
+    100086: MR_Gurib_GuribD_stem01
+    100088: MR_Gurib_GuribD_stem02
+    100090: MR_Gurib_GuribD_stem03
+    100092: MR_Gurib_GuribD_stem04
+    100094: MR_Gurib_GuribD_stem05
+    100096: MR_Gurib_mesh_Cap_01
+    100098: MR_Gurib_mesh_Cap_02
+    100100: MR_Gurib_mesh_Cap_03
+    100102: MR_Gurib_mesh_Cap_04
+    100104: MR_Gurib_mesh_Gills_01
+    100106: MR_Gurib_mesh_Gills_02
+    100108: MR_Gurib_mesh_Gurib
+    100110: MR_Gurib_mesh_Stem_01
+    100112: MR_Gurib_mesh_Stem_02
+    100114: MR_Gurib_mesh_Stem_03
+    100116: MR_Gurib_mesh_Stem_04
+    100118: MR_Gurib_skeleton
+    400000: //RootNode
+    400002: MR_Gurib_grp_Gurib_01
+    400004: MR_Gurib_grp_Gurib_02
+    400006: MR_Gurib_grp_Gurib_03
+    400008: MR_Gurib_grp_Gurib_04
+    400010: MR_Gurib_GuribA_caps01
+    400012: MR_Gurib_GuribA_caps02
+    400014: MR_Gurib_GuribA_caps03
+    400016: MR_Gurib_GuribA_gills01
+    400018: MR_Gurib_GuribA_gills02
+    400020: MR_Gurib_GuribA_gills03
+    400022: MR_Gurib_GuribA_gills04
+    400024: MR_Gurib_GuribA_gills05
+    400026: MR_Gurib_GuribA_gills06
+    400028: MR_Gurib_GuribA_gills07
+    400030: MR_Gurib_GuribA_gills08
+    400032: MR_Gurib_GuribA_stem01
+    400034: MR_Gurib_GuribA_stem02
+    400036: MR_Gurib_GuribA_stem03
+    400038: MR_Gurib_GuribA_stem04
+    400040: MR_Gurib_GuribB_caps01
+    400042: MR_Gurib_GuribB_caps02
+    400044: MR_Gurib_GuribB_gills01
+    400046: MR_Gurib_GuribB_gills02
+    400048: MR_Gurib_GuribB_gills03
+    400050: MR_Gurib_GuribB_gills04
+    400052: MR_Gurib_GuribB_gills05
+    400054: MR_Gurib_GuribB_gills06
+    400056: MR_Gurib_GuribB_gills07
+    400058: MR_Gurib_GuribB_gills08
+    400060: MR_Gurib_GuribB_stem01
+    400062: MR_Gurib_GuribB_stem02
+    400064: MR_Gurib_GuribB_stem03
+    400066: MR_Gurib_GuribB_stem04
+    400068: MR_Gurib_GuribB_stem05
+    400070: MR_Gurib_GuribB_stem06
+    400072: MR_Gurib_GuribC_stem01
+    400074: MR_Gurib_GuribC_stem02
+    400076: MR_Gurib_GuribC_stem03
+    400078: MR_Gurib_GuribC_stem04
+    400080: MR_Gurib_GuribC_stem05
+    400082: MR_Gurib_GuribC_stem06
+    400084: MR_Gurib_GuribC_stem07
+    400086: MR_Gurib_GuribD_stem01
+    400088: MR_Gurib_GuribD_stem02
+    400090: MR_Gurib_GuribD_stem03
+    400092: MR_Gurib_GuribD_stem04
+    400094: MR_Gurib_GuribD_stem05
+    400096: MR_Gurib_mesh_Cap_01
+    400098: MR_Gurib_mesh_Cap_02
+    400100: MR_Gurib_mesh_Cap_03
+    400102: MR_Gurib_mesh_Cap_04
+    400104: MR_Gurib_mesh_Gills_01
+    400106: MR_Gurib_mesh_Gills_02
+    400108: MR_Gurib_mesh_Gurib
+    400110: MR_Gurib_mesh_Stem_01
+    400112: MR_Gurib_mesh_Stem_02
+    400114: MR_Gurib_mesh_Stem_03
+    400116: MR_Gurib_mesh_Stem_04
+    400118: MR_Gurib_skeleton
+    4300000: MR_Gurib_mesh_Stem_04
+    4300002: MR_Gurib_mesh_Cap_04
+    4300004: MR_Gurib_mesh_Cap_03
+    4300006: MR_Gurib_mesh_Stem_03
+    4300008: MR_Gurib_mesh_Stem_02
+    4300010: MR_Gurib_mesh_Gills_02
+    4300012: MR_Gurib_mesh_Cap_02
+    4300014: MR_Gurib_mesh_Cap_01
+    4300016: MR_Gurib_mesh_Stem_01
+    4300018: MR_Gurib_mesh_Gills_01
+    7400000: AP_Gurib_TPose
+    7400002: AP_Gurib_P03_CS1
+    9500000: //RootNode
+    13700000: MR_Gurib_mesh_Cap_01
+    13700002: MR_Gurib_mesh_Cap_02
+    13700004: MR_Gurib_mesh_Cap_03
+    13700006: MR_Gurib_mesh_Cap_04
+    13700008: MR_Gurib_mesh_Gills_01
+    13700010: MR_Gurib_mesh_Gills_02
+    13700012: MR_Gurib_mesh_Stem_01
+    13700014: MR_Gurib_mesh_Stem_02
+    13700016: MR_Gurib_mesh_Stem_03
+    13700018: MR_Gurib_mesh_Stem_04
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2349 @@
+fileFormatVersion: 2
+guid: 0f57d65a632110b44a135758501a9e68
+labels:
+- A1P16
+- A1P07A
+timeCreated: 1461075326
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: M_Naivis:A1_M_Naivis1
+    100002: M_Naivis:A1_M_NaivisFlower_A
+    100004: M_Naivis:A1_M_NaivisFlower_B
+    100006: M_Naivis:A1_M_NaivisTail
+    100008: M_Naivis:A1_M_NaivisWing_A
+    100010: M_Naivis:A1_M_NaivisWing_B
+    100012: M_Naivis:A1_M_NaivisWing_C
+    100014: M_Naivis:A_wingPetalA01
+    100016: M_Naivis:A_wingPetalA02
+    100018: M_Naivis:A_wingPetalA03
+    100020: M_Naivis:A_wingPetalA04
+    100022: M_Naivis:A_wingPetalA05
+    100024: M_Naivis:A_wingPetalB01
+    100026: M_Naivis:A_wingPetalB02
+    100028: M_Naivis:A_wingPetalB03
+    100030: M_Naivis:A_wingPetalB04
+    100032: M_Naivis:A_wingPetalB05
+    100034: M_Naivis:A_wingPetalC01
+    100036: M_Naivis:A_wingPetalC02
+    100038: M_Naivis:A_wingPetalC03
+    100040: M_Naivis:A_wingPetalC04
+    100042: M_Naivis:A_wingPetalC05
+    100044: M_Naivis:A_wingPetalD01
+    100046: M_Naivis:A_wingPetalD02
+    100048: M_Naivis:A_wingPetalD03
+    100050: M_Naivis:A_wingPetalD04
+    100052: M_Naivis:A_wingPetalD05
+    100054: M_Naivis:A_wingPetalE01
+    100056: M_Naivis:A_wingPetalE02
+    100058: M_Naivis:A_wingPetalE03
+    100060: M_Naivis:A_wingPetalE04
+    100062: M_Naivis:A_wingPetalE05
+    100064: M_Naivis:A_wingPetalF01
+    100066: M_Naivis:A_wingPetalF02
+    100068: M_Naivis:A_wingPetalF03
+    100070: M_Naivis:A_wingPetalF04
+    100072: M_Naivis:A_wingPetalF05
+    100074: M_Naivis:B_wingPetalA01
+    100076: M_Naivis:B_wingPetalA02
+    100078: M_Naivis:B_wingPetalA03
+    100080: M_Naivis:B_wingPetalA04
+    100082: M_Naivis:B_wingPetalA05
+    100084: M_Naivis:B_wingPetalA06
+    100086: M_Naivis:B_wingPetalB01
+    100088: M_Naivis:B_wingPetalB02
+    100090: M_Naivis:B_wingPetalB03
+    100092: M_Naivis:B_wingPetalB04
+    100094: M_Naivis:B_wingPetalB05
+    100096: M_Naivis:B_wingPetalB06
+    100098: M_Naivis:B_wingPetalC01
+    100100: M_Naivis:B_wingPetalC02
+    100102: M_Naivis:B_wingPetalC03
+    100104: M_Naivis:B_wingPetalC04
+    100106: M_Naivis:B_wingPetalC05
+    100108: M_Naivis:B_wingPetalC06
+    100110: M_Naivis:B_wingPetalD01
+    100112: M_Naivis:B_wingPetalD02
+    100114: M_Naivis:B_wingPetalD03
+    100116: M_Naivis:B_wingPetalD04
+    100118: M_Naivis:B_wingPetalD05
+    100120: M_Naivis:B_wingPetalD06
+    100122: M_Naivis:B_wingPetalE01
+    100124: M_Naivis:B_wingPetalE02
+    100126: M_Naivis:B_wingPetalE03
+    100128: M_Naivis:B_wingPetalE04
+    100130: M_Naivis:B_wingPetalE05
+    100132: M_Naivis:B_wingPetalE06
+    100134: M_Naivis:B_wingPetalF01
+    100136: M_Naivis:B_wingPetalF02
+    100138: M_Naivis:B_wingPetalF03
+    100140: M_Naivis:B_wingPetalF04
+    100142: M_Naivis:B_wingPetalF05
+    100144: M_Naivis:B_wingPetalF06
+    100146: M_Naivis:be_head02
+    100148: M_Naivis:C_wingPetalA01
+    100150: M_Naivis:C_wingPetalA02
+    100152: M_Naivis:C_wingPetalA03
+    100154: M_Naivis:C_wingPetalA04
+    100156: M_Naivis:C_wingPetalA05
+    100158: M_Naivis:C_wingPetalA06
+    100160: M_Naivis:C_wingPetalB01
+    100162: M_Naivis:C_wingPetalB02
+    100164: M_Naivis:C_wingPetalB03
+    100166: M_Naivis:C_wingPetalB04
+    100168: M_Naivis:C_wingPetalB05
+    100170: M_Naivis:C_wingPetalB06
+    100172: M_Naivis:C_wingPetalC01
+    100174: M_Naivis:C_wingPetalC02
+    100176: M_Naivis:C_wingPetalC03
+    100178: M_Naivis:C_wingPetalC04
+    100180: M_Naivis:C_wingPetalC05
+    100182: M_Naivis:C_wingPetalC06
+    100184: M_Naivis:C_wingPetalD01
+    100186: M_Naivis:C_wingPetalD02
+    100188: M_Naivis:C_wingPetalD03
+    100190: M_Naivis:C_wingPetalD04
+    100192: M_Naivis:C_wingPetalD05
+    100194: M_Naivis:C_wingPetalD06
+    100196: M_Naivis:C_wingPetalE01
+    100198: M_Naivis:C_wingPetalE02
+    100200: M_Naivis:C_wingPetalE03
+    100202: M_Naivis:C_wingPetalE04
+    100204: M_Naivis:C_wingPetalE05
+    100206: M_Naivis:C_wingPetalE06
+    100208: M_Naivis:C_wingPetalF01
+    100210: M_Naivis:C_wingPetalF02
+    100212: M_Naivis:C_wingPetalF03
+    100214: M_Naivis:C_wingPetalF04
+    100216: M_Naivis:C_wingPetalF05
+    100218: M_Naivis:C_wingPetalF06
+    100220: M_Naivis:endSpine
+    100222: M_Naivis:feather01
+    100224: M_Naivis:feather02
+    100226: M_Naivis:feather03
+    100228: M_Naivis:feather04
+    100230: M_Naivis:feather05
+    100232: M_Naivis:feather06
+    100234: M_Naivis:featherA01
+    100236: M_Naivis:featherA02
+    100238: M_Naivis:featherA03
+    100240: M_Naivis:featherB01
+    100242: M_Naivis:featherB02
+    100244: M_Naivis:featherB03
+    100246: M_Naivis:featherC01
+    100248: M_Naivis:featherC02
+    100250: M_Naivis:featherC03
+    100252: M_Naivis:head01
+    100254: M_Naivis:L_bLegA01
+    100256: M_Naivis:L_bLegB01
+    100258: M_Naivis:L_bLegB02
+    100260: M_Naivis:L_bLegC01
+    100262: M_Naivis:L_bLegC02
+    100264: M_Naivis:L_bLegC03
+    100266: M_Naivis:L_fLegA01
+    100268: M_Naivis:L_fLegB01
+    100270: M_Naivis:L_fLegB02
+    100272: M_Naivis:L_fLegB03
+    100274: M_Naivis:L_fLegC02
+    100276: M_Naivis:L_fLegC03
+    100278: M_Naivis:L_mLegA01
+    100280: M_Naivis:L_mLegB01
+    100282: M_Naivis:L_mLegB02
+    100284: M_Naivis:L_mLegC01
+    100286: M_Naivis:L_mLegC02
+    100288: M_Naivis:L_mLegC03
+    100290: M_Naivis:mesh
+    100292: M_Naivis:NaivisBody
+    100294: M_Naivis:NaivisFlower
+    100296: M_Naivis:plantA01
+    100298: M_Naivis:plantA02
+    100300: M_Naivis:plantA03
+    100302: M_Naivis:plantA04
+    100304: M_Naivis:plantA05
+    100306: M_Naivis:plantA06
+    100308: M_Naivis:plantA07
+    100310: M_Naivis:plantB01
+    100312: M_Naivis:plantB02
+    100314: M_Naivis:plantB03
+    100316: M_Naivis:plantB04
+    100318: M_Naivis:plantB05
+    100320: M_Naivis:plantB06
+    100322: M_Naivis:plantB07
+    100324: M_Naivis:plantsA08
+    100326: M_Naivis:R_bLegA01
+    100328: M_Naivis:R_bLegB01
+    100330: M_Naivis:R_bLegB02
+    100332: M_Naivis:R_bLegC01
+    100334: M_Naivis:R_bLegC02
+    100336: M_Naivis:R_bLegC03
+    100338: M_Naivis:R_fLegA01
+    100340: M_Naivis:R_fLegB01
+    100342: M_Naivis:R_fLegB02
+    100344: M_Naivis:R_fLegB03
+    100346: M_Naivis:R_fLegC02
+    100348: M_Naivis:R_fLegC03
+    100350: M_Naivis:R_mLegA01
+    100352: M_Naivis:R_mLegB01
+    100354: M_Naivis:R_mLegB02
+    100356: M_Naivis:R_mLegC01
+    100358: M_Naivis:R_mLegC02
+    100360: M_Naivis:R_mLegC03
+    100362: M_Naivis:skel_naivis
+    100364: M_Naivis:skel_plants
+    100366: M_Naivis:skeleton
+    100368: M_Naivis:spine01
+    100370: M_Naivis:spine02
+    100372: M_Naivis:spine03
+    100374: M_Naivis:tailA01
+    100376: M_Naivis:tailA02
+    100378: M_Naivis:tailA03
+    100380: M_Naivis:tailA04
+    100382: M_Naivis:tailA05
+    100384: M_Naivis:tailA06
+    100386: M_Naivis:tailA07
+    100388: M_Naivis:tailA08
+    100390: M_Naivis:tailA09
+    100392: M_Naivis:tailA10
+    100394: M_Naivis:tailB00
+    100396: M_Naivis:tailB01
+    100398: M_Naivis:tailB02
+    100400: M_Naivis:tailB03
+    100402: M_Naivis:tailB04
+    100404: M_Naivis:tailB05
+    100406: M_Naivis:tailB06
+    100408: M_Naivis:tailB07
+    100410: M_Naivis:tailB08
+    100412: M_Naivis:tailB09
+    100414: M_Naivis:tailB10
+    100416: M_Naivis:tailB11
+    100418: M_Naivis:tailB12
+    100420: M_Naivis:tailB13
+    100422: M_Naivis:tailB14
+    100424: //RootNode
+    400000: M_Naivis:A1_M_Naivis1
+    400002: M_Naivis:A1_M_NaivisFlower_A
+    400004: M_Naivis:A1_M_NaivisFlower_B
+    400006: M_Naivis:A1_M_NaivisTail
+    400008: M_Naivis:A1_M_NaivisWing_A
+    400010: M_Naivis:A1_M_NaivisWing_B
+    400012: M_Naivis:A1_M_NaivisWing_C
+    400014: M_Naivis:A_wingPetalA01
+    400016: M_Naivis:A_wingPetalA02
+    400018: M_Naivis:A_wingPetalA03
+    400020: M_Naivis:A_wingPetalA04
+    400022: M_Naivis:A_wingPetalA05
+    400024: M_Naivis:A_wingPetalB01
+    400026: M_Naivis:A_wingPetalB02
+    400028: M_Naivis:A_wingPetalB03
+    400030: M_Naivis:A_wingPetalB04
+    400032: M_Naivis:A_wingPetalB05
+    400034: M_Naivis:A_wingPetalC01
+    400036: M_Naivis:A_wingPetalC02
+    400038: M_Naivis:A_wingPetalC03
+    400040: M_Naivis:A_wingPetalC04
+    400042: M_Naivis:A_wingPetalC05
+    400044: M_Naivis:A_wingPetalD01
+    400046: M_Naivis:A_wingPetalD02
+    400048: M_Naivis:A_wingPetalD03
+    400050: M_Naivis:A_wingPetalD04
+    400052: M_Naivis:A_wingPetalD05
+    400054: M_Naivis:A_wingPetalE01
+    400056: M_Naivis:A_wingPetalE02
+    400058: M_Naivis:A_wingPetalE03
+    400060: M_Naivis:A_wingPetalE04
+    400062: M_Naivis:A_wingPetalE05
+    400064: M_Naivis:A_wingPetalF01
+    400066: M_Naivis:A_wingPetalF02
+    400068: M_Naivis:A_wingPetalF03
+    400070: M_Naivis:A_wingPetalF04
+    400072: M_Naivis:A_wingPetalF05
+    400074: M_Naivis:B_wingPetalA01
+    400076: M_Naivis:B_wingPetalA02
+    400078: M_Naivis:B_wingPetalA03
+    400080: M_Naivis:B_wingPetalA04
+    400082: M_Naivis:B_wingPetalA05
+    400084: M_Naivis:B_wingPetalA06
+    400086: M_Naivis:B_wingPetalB01
+    400088: M_Naivis:B_wingPetalB02
+    400090: M_Naivis:B_wingPetalB03
+    400092: M_Naivis:B_wingPetalB04
+    400094: M_Naivis:B_wingPetalB05
+    400096: M_Naivis:B_wingPetalB06
+    400098: M_Naivis:B_wingPetalC01
+    400100: M_Naivis:B_wingPetalC02
+    400102: M_Naivis:B_wingPetalC03
+    400104: M_Naivis:B_wingPetalC04
+    400106: M_Naivis:B_wingPetalC05
+    400108: M_Naivis:B_wingPetalC06
+    400110: M_Naivis:B_wingPetalD01
+    400112: M_Naivis:B_wingPetalD02
+    400114: M_Naivis:B_wingPetalD03
+    400116: M_Naivis:B_wingPetalD04
+    400118: M_Naivis:B_wingPetalD05
+    400120: M_Naivis:B_wingPetalD06
+    400122: M_Naivis:B_wingPetalE01
+    400124: M_Naivis:B_wingPetalE02
+    400126: M_Naivis:B_wingPetalE03
+    400128: M_Naivis:B_wingPetalE04
+    400130: M_Naivis:B_wingPetalE05
+    400132: M_Naivis:B_wingPetalE06
+    400134: M_Naivis:B_wingPetalF01
+    400136: M_Naivis:B_wingPetalF02
+    400138: M_Naivis:B_wingPetalF03
+    400140: M_Naivis:B_wingPetalF04
+    400142: M_Naivis:B_wingPetalF05
+    400144: M_Naivis:B_wingPetalF06
+    400146: M_Naivis:be_head02
+    400148: M_Naivis:C_wingPetalA01
+    400150: M_Naivis:C_wingPetalA02
+    400152: M_Naivis:C_wingPetalA03
+    400154: M_Naivis:C_wingPetalA04
+    400156: M_Naivis:C_wingPetalA05
+    400158: M_Naivis:C_wingPetalA06
+    400160: M_Naivis:C_wingPetalB01
+    400162: M_Naivis:C_wingPetalB02
+    400164: M_Naivis:C_wingPetalB03
+    400166: M_Naivis:C_wingPetalB04
+    400168: M_Naivis:C_wingPetalB05
+    400170: M_Naivis:C_wingPetalB06
+    400172: M_Naivis:C_wingPetalC01
+    400174: M_Naivis:C_wingPetalC02
+    400176: M_Naivis:C_wingPetalC03
+    400178: M_Naivis:C_wingPetalC04
+    400180: M_Naivis:C_wingPetalC05
+    400182: M_Naivis:C_wingPetalC06
+    400184: M_Naivis:C_wingPetalD01
+    400186: M_Naivis:C_wingPetalD02
+    400188: M_Naivis:C_wingPetalD03
+    400190: M_Naivis:C_wingPetalD04
+    400192: M_Naivis:C_wingPetalD05
+    400194: M_Naivis:C_wingPetalD06
+    400196: M_Naivis:C_wingPetalE01
+    400198: M_Naivis:C_wingPetalE02
+    400200: M_Naivis:C_wingPetalE03
+    400202: M_Naivis:C_wingPetalE04
+    400204: M_Naivis:C_wingPetalE05
+    400206: M_Naivis:C_wingPetalE06
+    400208: M_Naivis:C_wingPetalF01
+    400210: M_Naivis:C_wingPetalF02
+    400212: M_Naivis:C_wingPetalF03
+    400214: M_Naivis:C_wingPetalF04
+    400216: M_Naivis:C_wingPetalF05
+    400218: M_Naivis:C_wingPetalF06
+    400220: M_Naivis:endSpine
+    400222: M_Naivis:feather01
+    400224: M_Naivis:feather02
+    400226: M_Naivis:feather03
+    400228: M_Naivis:feather04
+    400230: M_Naivis:feather05
+    400232: M_Naivis:feather06
+    400234: M_Naivis:featherA01
+    400236: M_Naivis:featherA02
+    400238: M_Naivis:featherA03
+    400240: M_Naivis:featherB01
+    400242: M_Naivis:featherB02
+    400244: M_Naivis:featherB03
+    400246: M_Naivis:featherC01
+    400248: M_Naivis:featherC02
+    400250: M_Naivis:featherC03
+    400252: M_Naivis:head01
+    400254: M_Naivis:L_bLegA01
+    400256: M_Naivis:L_bLegB01
+    400258: M_Naivis:L_bLegB02
+    400260: M_Naivis:L_bLegC01
+    400262: M_Naivis:L_bLegC02
+    400264: M_Naivis:L_bLegC03
+    400266: M_Naivis:L_fLegA01
+    400268: M_Naivis:L_fLegB01
+    400270: M_Naivis:L_fLegB02
+    400272: M_Naivis:L_fLegB03
+    400274: M_Naivis:L_fLegC02
+    400276: M_Naivis:L_fLegC03
+    400278: M_Naivis:L_mLegA01
+    400280: M_Naivis:L_mLegB01
+    400282: M_Naivis:L_mLegB02
+    400284: M_Naivis:L_mLegC01
+    400286: M_Naivis:L_mLegC02
+    400288: M_Naivis:L_mLegC03
+    400290: M_Naivis:mesh
+    400292: M_Naivis:NaivisBody
+    400294: M_Naivis:NaivisFlower
+    400296: M_Naivis:plantA01
+    400298: M_Naivis:plantA02
+    400300: M_Naivis:plantA03
+    400302: M_Naivis:plantA04
+    400304: M_Naivis:plantA05
+    400306: M_Naivis:plantA06
+    400308: M_Naivis:plantA07
+    400310: M_Naivis:plantB01
+    400312: M_Naivis:plantB02
+    400314: M_Naivis:plantB03
+    400316: M_Naivis:plantB04
+    400318: M_Naivis:plantB05
+    400320: M_Naivis:plantB06
+    400322: M_Naivis:plantB07
+    400324: M_Naivis:plantsA08
+    400326: M_Naivis:R_bLegA01
+    400328: M_Naivis:R_bLegB01
+    400330: M_Naivis:R_bLegB02
+    400332: M_Naivis:R_bLegC01
+    400334: M_Naivis:R_bLegC02
+    400336: M_Naivis:R_bLegC03
+    400338: M_Naivis:R_fLegA01
+    400340: M_Naivis:R_fLegB01
+    400342: M_Naivis:R_fLegB02
+    400344: M_Naivis:R_fLegB03
+    400346: M_Naivis:R_fLegC02
+    400348: M_Naivis:R_fLegC03
+    400350: M_Naivis:R_mLegA01
+    400352: M_Naivis:R_mLegB01
+    400354: M_Naivis:R_mLegB02
+    400356: M_Naivis:R_mLegC01
+    400358: M_Naivis:R_mLegC02
+    400360: M_Naivis:R_mLegC03
+    400362: M_Naivis:skel_naivis
+    400364: M_Naivis:skel_plants
+    400366: M_Naivis:skeleton
+    400368: M_Naivis:spine01
+    400370: M_Naivis:spine02
+    400372: M_Naivis:spine03
+    400374: M_Naivis:tailA01
+    400376: M_Naivis:tailA02
+    400378: M_Naivis:tailA03
+    400380: M_Naivis:tailA04
+    400382: M_Naivis:tailA05
+    400384: M_Naivis:tailA06
+    400386: M_Naivis:tailA07
+    400388: M_Naivis:tailA08
+    400390: M_Naivis:tailA09
+    400392: M_Naivis:tailA10
+    400394: M_Naivis:tailB00
+    400396: M_Naivis:tailB01
+    400398: M_Naivis:tailB02
+    400400: M_Naivis:tailB03
+    400402: M_Naivis:tailB04
+    400404: M_Naivis:tailB05
+    400406: M_Naivis:tailB06
+    400408: M_Naivis:tailB07
+    400410: M_Naivis:tailB08
+    400412: M_Naivis:tailB09
+    400414: M_Naivis:tailB10
+    400416: M_Naivis:tailB11
+    400418: M_Naivis:tailB12
+    400420: M_Naivis:tailB13
+    400422: M_Naivis:tailB14
+    400424: //RootNode
+    4300000: M_Naivis:A1_M_NaivisWing_C
+    4300002: M_Naivis:A1_M_NaivisWing_B
+    4300004: M_Naivis:A1_M_NaivisWing_A
+    4300006: M_Naivis:A1_M_Naivis1
+    4300008: M_Naivis:A1_M_NaivisTail
+    4300010: M_Naivis:A1_M_NaivisFlower_A
+    4300012: M_Naivis:A1_M_NaivisFlower_B
+    7400000: AM_Naivis_Tpose
+    7400002: AM_Naivis_Idle
+    7400004: AM_Naivis_Pulled
+    7400006: AM_Naivis_Open
+    9500000: //RootNode
+    13700000: M_Naivis:A1_M_Naivis1
+    13700002: M_Naivis:A1_M_NaivisFlower_A
+    13700004: M_Naivis:A1_M_NaivisFlower_B
+    13700006: M_Naivis:A1_M_NaivisTail
+    13700008: M_Naivis:A1_M_NaivisWing_A
+    13700010: M_Naivis:A1_M_NaivisWing_B
+    13700012: M_Naivis:A1_M_NaivisWing_C
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AM_Naivis_Tpose
+      takeName: AM_Naivis_Tpose
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: M_Naivis:mesh
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_Naivis1
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisTail
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_A
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_B
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_C
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower/M_Naivis:A1_M_NaivisFlower_A
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower/M_Naivis:A1_M_NaivisFlower_B
+        weight: 1
+      - path: M_Naivis:skeleton
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01/M_Naivis:L_bLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01/M_Naivis:L_bLegC02/M_Naivis:L_bLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01/M_Naivis:R_bLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01/M_Naivis:R_bLegC02/M_Naivis:R_bLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01/M_Naivis:L_mLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01/M_Naivis:L_mLegC02/M_Naivis:L_mLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01/M_Naivis:R_mLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01/M_Naivis:R_mLegC02/M_Naivis:R_mLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03/M_Naivis:A_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03/M_Naivis:A_wingPetalA04/M_Naivis:A_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03/M_Naivis:A_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03/M_Naivis:A_wingPetalB04/M_Naivis:A_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03/M_Naivis:A_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03/M_Naivis:A_wingPetalC04/M_Naivis:A_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03/M_Naivis:A_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03/M_Naivis:A_wingPetalD04/M_Naivis:A_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03/M_Naivis:A_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03/M_Naivis:A_wingPetalE04/M_Naivis:A_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03/M_Naivis:A_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03/M_Naivis:A_wingPetalF04/M_Naivis:A_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04/M_Naivis:B_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04/M_Naivis:B_wingPetalA05/M_Naivis:B_wingPetalA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04/M_Naivis:B_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04/M_Naivis:B_wingPetalB05/M_Naivis:B_wingPetalB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04/M_Naivis:B_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04/M_Naivis:B_wingPetalC05/M_Naivis:B_wingPetalC06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04/M_Naivis:B_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04/M_Naivis:B_wingPetalD05/M_Naivis:B_wingPetalD06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04/M_Naivis:B_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04/M_Naivis:B_wingPetalE05/M_Naivis:B_wingPetalE06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04/M_Naivis:B_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04/M_Naivis:B_wingPetalF05/M_Naivis:B_wingPetalF06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04/M_Naivis:C_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04/M_Naivis:C_wingPetalA05/M_Naivis:C_wingPetalA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04/M_Naivis:C_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04/M_Naivis:C_wingPetalB05/M_Naivis:C_wingPetalB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04/M_Naivis:C_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04/M_Naivis:C_wingPetalC05/M_Naivis:C_wingPetalC06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04/M_Naivis:C_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04/M_Naivis:C_wingPetalD05/M_Naivis:C_wingPetalD06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04/M_Naivis:C_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04/M_Naivis:C_wingPetalE05/M_Naivis:C_wingPetalE06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04/M_Naivis:C_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04/M_Naivis:C_wingPetalF05/M_Naivis:C_wingPetalF06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:be_head02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04/M_Naivis:feather05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04/M_Naivis:feather05/M_Naivis:feather06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03/M_Naivis:L_fLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03/M_Naivis:L_fLegC02/M_Naivis:L_fLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03/M_Naivis:R_fLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03/M_Naivis:R_fLegC02/M_Naivis:R_fLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08/M_Naivis:tailA09
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08/M_Naivis:tailA09/M_Naivis:tailA10
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01/M_Naivis:featherA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01/M_Naivis:featherA02/M_Naivis:featherA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01/M_Naivis:featherB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01/M_Naivis:featherB02/M_Naivis:featherB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01/M_Naivis:featherC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01/M_Naivis:featherC02/M_Naivis:featherC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12/M_Naivis:tailB13
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12/M_Naivis:tailB13/M_Naivis:tailB14
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05/M_Naivis:plantA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05/M_Naivis:plantA06/M_Naivis:plantA07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06/M_Naivis:plantB07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06/M_Naivis:plantB07/M_Naivis:plantsA08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AM_Naivis_Idle
+      takeName: AM_Naivis_Idle
+      firstFrame: 101
+      lastFrame: 397
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: M_Naivis:mesh
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_Naivis1
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisTail
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_A
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_B
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_C
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower/M_Naivis:A1_M_NaivisFlower_A
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower/M_Naivis:A1_M_NaivisFlower_B
+        weight: 1
+      - path: M_Naivis:skeleton
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01/M_Naivis:L_bLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01/M_Naivis:L_bLegC02/M_Naivis:L_bLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01/M_Naivis:R_bLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01/M_Naivis:R_bLegC02/M_Naivis:R_bLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01/M_Naivis:L_mLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01/M_Naivis:L_mLegC02/M_Naivis:L_mLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01/M_Naivis:R_mLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01/M_Naivis:R_mLegC02/M_Naivis:R_mLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03/M_Naivis:A_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03/M_Naivis:A_wingPetalA04/M_Naivis:A_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03/M_Naivis:A_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03/M_Naivis:A_wingPetalB04/M_Naivis:A_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03/M_Naivis:A_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03/M_Naivis:A_wingPetalC04/M_Naivis:A_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03/M_Naivis:A_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03/M_Naivis:A_wingPetalD04/M_Naivis:A_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03/M_Naivis:A_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03/M_Naivis:A_wingPetalE04/M_Naivis:A_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03/M_Naivis:A_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03/M_Naivis:A_wingPetalF04/M_Naivis:A_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04/M_Naivis:B_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04/M_Naivis:B_wingPetalA05/M_Naivis:B_wingPetalA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04/M_Naivis:B_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04/M_Naivis:B_wingPetalB05/M_Naivis:B_wingPetalB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04/M_Naivis:B_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04/M_Naivis:B_wingPetalC05/M_Naivis:B_wingPetalC06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04/M_Naivis:B_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04/M_Naivis:B_wingPetalD05/M_Naivis:B_wingPetalD06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04/M_Naivis:B_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04/M_Naivis:B_wingPetalE05/M_Naivis:B_wingPetalE06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04/M_Naivis:B_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04/M_Naivis:B_wingPetalF05/M_Naivis:B_wingPetalF06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04/M_Naivis:C_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04/M_Naivis:C_wingPetalA05/M_Naivis:C_wingPetalA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04/M_Naivis:C_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04/M_Naivis:C_wingPetalB05/M_Naivis:C_wingPetalB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04/M_Naivis:C_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04/M_Naivis:C_wingPetalC05/M_Naivis:C_wingPetalC06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04/M_Naivis:C_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04/M_Naivis:C_wingPetalD05/M_Naivis:C_wingPetalD06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04/M_Naivis:C_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04/M_Naivis:C_wingPetalE05/M_Naivis:C_wingPetalE06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04/M_Naivis:C_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04/M_Naivis:C_wingPetalF05/M_Naivis:C_wingPetalF06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:be_head02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04/M_Naivis:feather05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04/M_Naivis:feather05/M_Naivis:feather06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03/M_Naivis:L_fLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03/M_Naivis:L_fLegC02/M_Naivis:L_fLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03/M_Naivis:R_fLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03/M_Naivis:R_fLegC02/M_Naivis:R_fLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08/M_Naivis:tailA09
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08/M_Naivis:tailA09/M_Naivis:tailA10
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01/M_Naivis:featherA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01/M_Naivis:featherA02/M_Naivis:featherA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01/M_Naivis:featherB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01/M_Naivis:featherB02/M_Naivis:featherB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01/M_Naivis:featherC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01/M_Naivis:featherC02/M_Naivis:featherC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12/M_Naivis:tailB13
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12/M_Naivis:tailB13/M_Naivis:tailB14
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05/M_Naivis:plantA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05/M_Naivis:plantA06/M_Naivis:plantA07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06/M_Naivis:plantB07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06/M_Naivis:plantB07/M_Naivis:plantsA08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 101
+    - serializedVersion: 16
+      name: AM_Naivis_Pulled
+      takeName: AM_Naivis_Pulled
+      firstFrame: 501
+      lastFrame: 620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.77705413
+        functionName: Activate
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: M_Naivis:mesh
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_Naivis1
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisTail
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_A
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_B
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_C
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower/M_Naivis:A1_M_NaivisFlower_A
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower/M_Naivis:A1_M_NaivisFlower_B
+        weight: 1
+      - path: M_Naivis:skeleton
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01/M_Naivis:L_bLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01/M_Naivis:L_bLegC02/M_Naivis:L_bLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01/M_Naivis:R_bLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01/M_Naivis:R_bLegC02/M_Naivis:R_bLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01/M_Naivis:L_mLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01/M_Naivis:L_mLegC02/M_Naivis:L_mLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01/M_Naivis:R_mLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01/M_Naivis:R_mLegC02/M_Naivis:R_mLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03/M_Naivis:A_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03/M_Naivis:A_wingPetalA04/M_Naivis:A_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03/M_Naivis:A_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03/M_Naivis:A_wingPetalB04/M_Naivis:A_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03/M_Naivis:A_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03/M_Naivis:A_wingPetalC04/M_Naivis:A_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03/M_Naivis:A_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03/M_Naivis:A_wingPetalD04/M_Naivis:A_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03/M_Naivis:A_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03/M_Naivis:A_wingPetalE04/M_Naivis:A_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03/M_Naivis:A_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03/M_Naivis:A_wingPetalF04/M_Naivis:A_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04/M_Naivis:B_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04/M_Naivis:B_wingPetalA05/M_Naivis:B_wingPetalA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04/M_Naivis:B_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04/M_Naivis:B_wingPetalB05/M_Naivis:B_wingPetalB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04/M_Naivis:B_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04/M_Naivis:B_wingPetalC05/M_Naivis:B_wingPetalC06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04/M_Naivis:B_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04/M_Naivis:B_wingPetalD05/M_Naivis:B_wingPetalD06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04/M_Naivis:B_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04/M_Naivis:B_wingPetalE05/M_Naivis:B_wingPetalE06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04/M_Naivis:B_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04/M_Naivis:B_wingPetalF05/M_Naivis:B_wingPetalF06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04/M_Naivis:C_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04/M_Naivis:C_wingPetalA05/M_Naivis:C_wingPetalA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04/M_Naivis:C_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04/M_Naivis:C_wingPetalB05/M_Naivis:C_wingPetalB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04/M_Naivis:C_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04/M_Naivis:C_wingPetalC05/M_Naivis:C_wingPetalC06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04/M_Naivis:C_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04/M_Naivis:C_wingPetalD05/M_Naivis:C_wingPetalD06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04/M_Naivis:C_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04/M_Naivis:C_wingPetalE05/M_Naivis:C_wingPetalE06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04/M_Naivis:C_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04/M_Naivis:C_wingPetalF05/M_Naivis:C_wingPetalF06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:be_head02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04/M_Naivis:feather05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04/M_Naivis:feather05/M_Naivis:feather06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03/M_Naivis:L_fLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03/M_Naivis:L_fLegC02/M_Naivis:L_fLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03/M_Naivis:R_fLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03/M_Naivis:R_fLegC02/M_Naivis:R_fLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08/M_Naivis:tailA09
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08/M_Naivis:tailA09/M_Naivis:tailA10
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01/M_Naivis:featherA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01/M_Naivis:featherA02/M_Naivis:featherA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01/M_Naivis:featherB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01/M_Naivis:featherB02/M_Naivis:featherB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01/M_Naivis:featherC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01/M_Naivis:featherC02/M_Naivis:featherC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12/M_Naivis:tailB13
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12/M_Naivis:tailB13/M_Naivis:tailB14
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05/M_Naivis:plantA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05/M_Naivis:plantA06/M_Naivis:plantA07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06/M_Naivis:plantB07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06/M_Naivis:plantB07/M_Naivis:plantsA08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 501
+    - serializedVersion: 16
+      name: AM_Naivis_Open
+      takeName: AM_Naivis_Open
+      firstFrame: 701
+      lastFrame: 850
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.51776046
+        functionName: Deactivate
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: M_Naivis:mesh
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_Naivis1
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisTail
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_A
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_B
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisBody/M_Naivis:A1_M_NaivisWing_C
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower/M_Naivis:A1_M_NaivisFlower_A
+        weight: 1
+      - path: M_Naivis:mesh/M_Naivis:NaivisFlower/M_Naivis:A1_M_NaivisFlower_B
+        weight: 1
+      - path: M_Naivis:skeleton
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01/M_Naivis:L_bLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:L_bLegA01/M_Naivis:L_bLegB01/M_Naivis:L_bLegB02/M_Naivis:L_bLegC01/M_Naivis:L_bLegC02/M_Naivis:L_bLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01/M_Naivis:R_bLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:R_bLegA01/M_Naivis:R_bLegB01/M_Naivis:R_bLegB02/M_Naivis:R_bLegC01/M_Naivis:R_bLegC02/M_Naivis:R_bLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01/M_Naivis:L_mLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:L_mLegA01/M_Naivis:L_mLegB01/M_Naivis:L_mLegB02/M_Naivis:L_mLegC01/M_Naivis:L_mLegC02/M_Naivis:L_mLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01/M_Naivis:R_mLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:R_mLegA01/M_Naivis:R_mLegB01/M_Naivis:R_mLegB02/M_Naivis:R_mLegC01/M_Naivis:R_mLegC02/M_Naivis:R_mLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03/M_Naivis:A_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalA01/M_Naivis:A_wingPetalA02/M_Naivis:A_wingPetalA03/M_Naivis:A_wingPetalA04/M_Naivis:A_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03/M_Naivis:A_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalB01/M_Naivis:A_wingPetalB02/M_Naivis:A_wingPetalB03/M_Naivis:A_wingPetalB04/M_Naivis:A_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03/M_Naivis:A_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalC01/M_Naivis:A_wingPetalC02/M_Naivis:A_wingPetalC03/M_Naivis:A_wingPetalC04/M_Naivis:A_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03/M_Naivis:A_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalD01/M_Naivis:A_wingPetalD02/M_Naivis:A_wingPetalD03/M_Naivis:A_wingPetalD04/M_Naivis:A_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03/M_Naivis:A_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalE01/M_Naivis:A_wingPetalE02/M_Naivis:A_wingPetalE03/M_Naivis:A_wingPetalE04/M_Naivis:A_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03/M_Naivis:A_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:A_wingPetalF01/M_Naivis:A_wingPetalF02/M_Naivis:A_wingPetalF03/M_Naivis:A_wingPetalF04/M_Naivis:A_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04/M_Naivis:B_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalA01/M_Naivis:B_wingPetalA02/M_Naivis:B_wingPetalA03/M_Naivis:B_wingPetalA04/M_Naivis:B_wingPetalA05/M_Naivis:B_wingPetalA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04/M_Naivis:B_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalB01/M_Naivis:B_wingPetalB02/M_Naivis:B_wingPetalB03/M_Naivis:B_wingPetalB04/M_Naivis:B_wingPetalB05/M_Naivis:B_wingPetalB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04/M_Naivis:B_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalC01/M_Naivis:B_wingPetalC02/M_Naivis:B_wingPetalC03/M_Naivis:B_wingPetalC04/M_Naivis:B_wingPetalC05/M_Naivis:B_wingPetalC06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04/M_Naivis:B_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalD01/M_Naivis:B_wingPetalD02/M_Naivis:B_wingPetalD03/M_Naivis:B_wingPetalD04/M_Naivis:B_wingPetalD05/M_Naivis:B_wingPetalD06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04/M_Naivis:B_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalE01/M_Naivis:B_wingPetalE02/M_Naivis:B_wingPetalE03/M_Naivis:B_wingPetalE04/M_Naivis:B_wingPetalE05/M_Naivis:B_wingPetalE06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04/M_Naivis:B_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:B_wingPetalF01/M_Naivis:B_wingPetalF02/M_Naivis:B_wingPetalF03/M_Naivis:B_wingPetalF04/M_Naivis:B_wingPetalF05/M_Naivis:B_wingPetalF06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04/M_Naivis:C_wingPetalA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalA01/M_Naivis:C_wingPetalA02/M_Naivis:C_wingPetalA03/M_Naivis:C_wingPetalA04/M_Naivis:C_wingPetalA05/M_Naivis:C_wingPetalA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04/M_Naivis:C_wingPetalB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalB01/M_Naivis:C_wingPetalB02/M_Naivis:C_wingPetalB03/M_Naivis:C_wingPetalB04/M_Naivis:C_wingPetalB05/M_Naivis:C_wingPetalB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04/M_Naivis:C_wingPetalC05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalC01/M_Naivis:C_wingPetalC02/M_Naivis:C_wingPetalC03/M_Naivis:C_wingPetalC04/M_Naivis:C_wingPetalC05/M_Naivis:C_wingPetalC06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04/M_Naivis:C_wingPetalD05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalD01/M_Naivis:C_wingPetalD02/M_Naivis:C_wingPetalD03/M_Naivis:C_wingPetalD04/M_Naivis:C_wingPetalD05/M_Naivis:C_wingPetalD06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04/M_Naivis:C_wingPetalE05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalE01/M_Naivis:C_wingPetalE02/M_Naivis:C_wingPetalE03/M_Naivis:C_wingPetalE04/M_Naivis:C_wingPetalE05/M_Naivis:C_wingPetalE06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04/M_Naivis:C_wingPetalF05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:C_wingPetalF01/M_Naivis:C_wingPetalF02/M_Naivis:C_wingPetalF03/M_Naivis:C_wingPetalF04/M_Naivis:C_wingPetalF05/M_Naivis:C_wingPetalF06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:be_head02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04/M_Naivis:feather05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:endSpine/M_Naivis:head01/M_Naivis:feather01/M_Naivis:feather02/M_Naivis:feather03/M_Naivis:feather04/M_Naivis:feather05/M_Naivis:feather06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03/M_Naivis:L_fLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:L_fLegA01/M_Naivis:L_fLegB01/M_Naivis:L_fLegB02/M_Naivis:L_fLegB03/M_Naivis:L_fLegC02/M_Naivis:L_fLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03/M_Naivis:R_fLegC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:spine02/M_Naivis:spine03/M_Naivis:R_fLegA01/M_Naivis:R_fLegB01/M_Naivis:R_fLegB02/M_Naivis:R_fLegB03/M_Naivis:R_fLegC02/M_Naivis:R_fLegC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08/M_Naivis:tailA09
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:spine01/M_Naivis:tailA01/M_Naivis:tailA02/M_Naivis:tailA03/M_Naivis:tailA04/M_Naivis:tailA05/M_Naivis:tailA06/M_Naivis:tailA07/M_Naivis:tailA08/M_Naivis:tailA09/M_Naivis:tailA10
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01/M_Naivis:featherA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherA01/M_Naivis:featherA02/M_Naivis:featherA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01/M_Naivis:featherB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherB01/M_Naivis:featherB02/M_Naivis:featherB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01/M_Naivis:featherC02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:featherC01/M_Naivis:featherC02/M_Naivis:featherC03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12/M_Naivis:tailB13
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_naivis/M_Naivis:tailB00/M_Naivis:tailB01/M_Naivis:tailB02/M_Naivis:tailB03/M_Naivis:tailB04/M_Naivis:tailB05/M_Naivis:tailB06/M_Naivis:tailB07/M_Naivis:tailB08/M_Naivis:tailB09/M_Naivis:tailB10/M_Naivis:tailB11/M_Naivis:tailB12/M_Naivis:tailB13/M_Naivis:tailB14
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05/M_Naivis:plantA06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantA01/M_Naivis:plantA02/M_Naivis:plantA03/M_Naivis:plantA04/M_Naivis:plantA05/M_Naivis:plantA06/M_Naivis:plantA07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06/M_Naivis:plantB07
+        weight: 1
+      - path: M_Naivis:skeleton/M_Naivis:skel_plants/M_Naivis:plantB01/M_Naivis:plantB02/M_Naivis:plantB03/M_Naivis:plantB04/M_Naivis:plantB05/M_Naivis:plantB06/M_Naivis:plantB07/M_Naivis:plantsA08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 701
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

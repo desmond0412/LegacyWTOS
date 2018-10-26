@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 4de283ddd6cfeaa48a843f92e8b6b4c5
+timeCreated: 1462515408
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: claw
+    100002: clawA01
+    100004: clawA02
+    100006: clawA03
+    100008: clawA04
+    100010: clawA05
+    100012: clawA06
+    100014: clawA07
+    100016: clawA08
+    100018: clawA09
+    100020: clawB01
+    100022: clawB02
+    100024: clawB03
+    100026: clawB04
+    100028: clawB05
+    100030: clawB06
+    100032: clawB07
+    100034: clawB08
+    100036: clawB09
+    100038: clawC01
+    100040: clawC02
+    100042: clawC03
+    100044: clawC04
+    100046: clawC05
+    100048: clawC06
+    100050: clawC07
+    100052: clawC08
+    100054: clawC09
+    100056: clawD01
+    100058: clawD02
+    100060: clawD03
+    100062: clawD04
+    100064: clawD05
+    100066: clawD06
+    100068: clawD07
+    100070: clawD08
+    100072: clawD09
+    100074: //RootNode
+    100076: mesh
+    100078: mesh_zrootClaw01
+    100080: mesh_zrootClaw02
+    100082: mesh_zrootClaw03
+    100084: mesh_zrootClaw04
+    100086: mesh_zrootVines
+    100088: rootClaw
+    100090: skeleton
+    100092: trunk
+    100094: trunk01
+    100096: trunk02
+    100098: trunk03
+    100100: trunk04
+    100102: trunk05
+    100104: trunk06
+    100106: trunk07
+    100108: trunk08
+    100110: trunk09
+    100112: trunk10
+    100114: trunk11
+    100116: trunk12
+    100118: trunk13
+    100120: trunk14
+    100122: trunk15
+    100124: trunk16
+    400000: claw
+    400002: clawA01
+    400004: clawA02
+    400006: clawA03
+    400008: clawA04
+    400010: clawA05
+    400012: clawA06
+    400014: clawA07
+    400016: clawA08
+    400018: clawA09
+    400020: clawB01
+    400022: clawB02
+    400024: clawB03
+    400026: clawB04
+    400028: clawB05
+    400030: clawB06
+    400032: clawB07
+    400034: clawB08
+    400036: clawB09
+    400038: clawC01
+    400040: clawC02
+    400042: clawC03
+    400044: clawC04
+    400046: clawC05
+    400048: clawC06
+    400050: clawC07
+    400052: clawC08
+    400054: clawC09
+    400056: clawD01
+    400058: clawD02
+    400060: clawD03
+    400062: clawD04
+    400064: clawD05
+    400066: clawD06
+    400068: clawD07
+    400070: clawD08
+    400072: clawD09
+    400074: //RootNode
+    400076: mesh
+    400078: mesh_zrootClaw01
+    400080: mesh_zrootClaw02
+    400082: mesh_zrootClaw03
+    400084: mesh_zrootClaw04
+    400086: mesh_zrootVines
+    400088: rootClaw
+    400090: skeleton
+    400092: trunk
+    400094: trunk01
+    400096: trunk02
+    400098: trunk03
+    400100: trunk04
+    400102: trunk05
+    400104: trunk06
+    400106: trunk07
+    400108: trunk08
+    400110: trunk09
+    400112: trunk10
+    400114: trunk11
+    400116: trunk12
+    400118: trunk13
+    400120: trunk14
+    400122: trunk15
+    400124: trunk16
+    4300000: mesh_zrootVines
+    4300002: mesh_zrootClaw01
+    4300004: mesh_zrootClaw02
+    4300006: mesh_zrootClaw03
+    4300008: mesh_zrootClaw04
+    9500000: //RootNode
+    13700000: mesh_zrootClaw01
+    13700002: mesh_zrootClaw02
+    13700004: mesh_zrootClaw03
+    13700006: mesh_zrootClaw04
+    13700008: mesh_zrootVines
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

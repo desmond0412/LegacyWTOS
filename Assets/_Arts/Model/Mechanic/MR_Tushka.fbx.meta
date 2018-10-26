@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: ff749532c47522346aa118400a639cfb
+labels:
+- A1P16
+timeCreated: 1460544839
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: be_ball
+    100002: be_ball 1
+    100004: bn_ball
+    100006: bn_ball 1
+    100008: bn_root01
+    100010: bn_root02
+    100012: bn_root03
+    100014: bn_spring01
+    100016: bn_spring02
+    100018: bn_spring03
+    100020: bn_spring04
+    100022: bn_spring05
+    100024: bn_spring06
+    100026: bn_spring07
+    100028: bn_spring08
+    100030: bn_spring09
+    100032: bn_spring10
+    100034: bn_spring11
+    100036: bn_spring12
+    100038: bn_spring13
+    100040: bn_spring14
+    100042: bn_spring15
+    100044: bn_spring16
+    100046: bn_spring17
+    100048: bn_spring_18
+    100050: cl_trunk
+    100052: constraints
+    100054: controler
+    100056: crv_spring
+    100058: CTRL_Global
+    100060: CTRL_lightBall
+    100062: CTRL_rootTrunk01
+    100064: CTRL_rootTrunk02
+    100066: CTRL_trunk
+    100068: drv_ball
+    100070: grp_cl_trunk
+    100072: GRP_CTRL_lightBall
+    100074: GRP_CTRL_rootTrunk01
+    100076: GRP_CTRL_rootTrunk02
+    100078: GRP_CTRL_trunk
+    100080: ikHandle_spine
+    100082: mesh
+    100084: misc
+    100086: //RootNode
+    100088: rig
+    100090: root01
+    100092: root02
+    100094: root03
+    100096: skeleton
+    100098: spring01
+    100100: spring02
+    100102: spring03
+    100104: spring04
+    100106: spring05
+    100108: spring06
+    100110: spring07
+    100112: spring08
+    100114: spring09
+    100116: spring10
+    100118: spring11
+    100120: spring12
+    100122: spring13
+    100124: spring14
+    100126: spring15
+    100128: spring16
+    100130: spring17
+    100132: spring_end
+    100134: Tushka_Ball
+    100136: Tushka_Body
+    100138: Tushka_Branch
+    400000: be_ball
+    400002: be_ball 1
+    400004: bn_ball
+    400006: bn_ball 1
+    400008: bn_root01
+    400010: bn_root02
+    400012: bn_root03
+    400014: bn_spring01
+    400016: bn_spring02
+    400018: bn_spring03
+    400020: bn_spring04
+    400022: bn_spring05
+    400024: bn_spring06
+    400026: bn_spring07
+    400028: bn_spring08
+    400030: bn_spring09
+    400032: bn_spring10
+    400034: bn_spring11
+    400036: bn_spring12
+    400038: bn_spring13
+    400040: bn_spring14
+    400042: bn_spring15
+    400044: bn_spring16
+    400046: bn_spring17
+    400048: bn_spring_18
+    400050: cl_trunk
+    400052: constraints
+    400054: controler
+    400056: crv_spring
+    400058: CTRL_Global
+    400060: CTRL_lightBall
+    400062: CTRL_rootTrunk01
+    400064: CTRL_rootTrunk02
+    400066: CTRL_trunk
+    400068: drv_ball
+    400070: grp_cl_trunk
+    400072: GRP_CTRL_lightBall
+    400074: GRP_CTRL_rootTrunk01
+    400076: GRP_CTRL_rootTrunk02
+    400078: GRP_CTRL_trunk
+    400080: ikHandle_spine
+    400082: mesh
+    400084: misc
+    400086: //RootNode
+    400088: rig
+    400090: root01
+    400092: root02
+    400094: root03
+    400096: skeleton
+    400098: spring01
+    400100: spring02
+    400102: spring03
+    400104: spring04
+    400106: spring05
+    400108: spring06
+    400110: spring07
+    400112: spring08
+    400114: spring09
+    400116: spring10
+    400118: spring11
+    400120: spring12
+    400122: spring13
+    400124: spring14
+    400126: spring15
+    400128: spring16
+    400130: spring17
+    400132: spring_end
+    400134: Tushka_Ball
+    400136: Tushka_Body
+    400138: Tushka_Branch
+    2300000: Tushka_Ball
+    2300002: Tushka_Body
+    2300004: Tushka_Branch
+    3300000: Tushka_Ball
+    3300002: Tushka_Body
+    3300004: Tushka_Branch
+    4300000: Tushka_Ball
+    4300002: Tushka_Body
+    4300004: Tushka_Branch
+    9500000: //RootNode
+    13700000: Tushka_Ball
+    13700002: Tushka_Body
+    13700004: Tushka_Branch
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

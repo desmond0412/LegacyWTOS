@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 7b48e094997ccc54587d713bfda94f89
+labels:
+- A1P16
+timeCreated: 1460541905
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mesh_A1P16_collider
+    100004: mesh_Rock_01
+    100006: mesh_Rock_02
+    100008: mesh_Rock_03
+    100010: mesh_Rock_04
+    100012: mesh_Rock_05
+    100014: mesh_Rock_06
+    100016: mesh_Roots_01
+    100018: mesh_Roots_01_vines
+    100020: mesh_twinCopa
+    100022: A1P16_Envi
+    100024: back
+    100026: left
+    100028: mesh_Roots_02
+    100030: fogPlane
+    100032: mesh_Rock_07
+    100034: mesh_Rock_06 1
+    100036: mesh_A1P16_collider_hole
+    100038: mesh_Shadhole
+    400000: //RootNode
+    400002: mesh_A1P16_collider
+    400004: mesh_Rock_01
+    400006: mesh_Rock_02
+    400008: mesh_Rock_03
+    400010: mesh_Rock_04
+    400012: mesh_Rock_05
+    400014: mesh_Rock_06
+    400016: mesh_Roots_01
+    400018: mesh_Roots_01_vines
+    400020: mesh_twinCopa
+    400022: A1P16_Envi
+    400024: back
+    400026: left
+    400028: mesh_Roots_02
+    400030: fogPlane
+    400032: mesh_Rock_07
+    400034: mesh_Rock_06 1
+    400036: mesh_A1P16_collider_hole
+    400038: mesh_Shadhole
+    2300000: mesh_A1P16_collider
+    2300002: mesh_Rock_01
+    2300004: mesh_Rock_02
+    2300006: mesh_Rock_03
+    2300008: mesh_Rock_04
+    2300010: mesh_Rock_05
+    2300012: mesh_Rock_06
+    2300014: mesh_Roots_01
+    2300016: mesh_Roots_01_vines
+    2300018: mesh_twinCopa
+    2300020: mesh_Roots_02
+    2300022: fogPlane
+    2300024: mesh_Rock_07
+    2300026: mesh_Rock_06 1
+    2300028: mesh_A1P16_collider_hole
+    2300030: mesh_Shadhole
+    3300000: mesh_A1P16_collider
+    3300002: mesh_Rock_01
+    3300004: mesh_Rock_02
+    3300006: mesh_Rock_03
+    3300008: mesh_Rock_04
+    3300010: mesh_Rock_05
+    3300012: mesh_Rock_06
+    3300014: mesh_Roots_01
+    3300016: mesh_Roots_01_vines
+    3300018: mesh_twinCopa
+    3300020: mesh_Roots_02
+    3300022: fogPlane
+    3300024: mesh_Rock_07
+    3300026: mesh_Rock_06 1
+    3300028: mesh_A1P16_collider_hole
+    3300030: mesh_Shadhole
+    4300000: mesh_A1P16_collider
+    4300002: mesh_Rock_01
+    4300004: mesh_Rock_02
+    4300006: mesh_Rock_03
+    4300008: mesh_Rock_04
+    4300010: mesh_Rock_05
+    4300012: mesh_Rock_06
+    4300014: mesh_Roots_01
+    4300016: mesh_Roots_01_vines
+    4300018: mesh_twinCopa
+    4300020: mesh_Roots_02
+    4300022: fogPlane
+    4300024: mesh_Rock_07
+    4300026: mesh_Rock_06
+    4300028: mesh_A1P16_collider_hole
+    4300030: mesh_Shadhole
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

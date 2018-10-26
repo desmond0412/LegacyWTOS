@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: d43036c98c2716841b372b8efd96a165
+timeCreated: 1463041195
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: mesh_BlueGrass_A
+    100002: mesh_BlueGrass_B
+    100004: mesh_BlueGrass_C
+    100006: mesh_BlueGrass_D
+    100008: mesh_BlueGrass_E
+    100010: mesh_BlueGrass_F
+    100012: mesh_BlueGrass_G
+    100014: mesh_BlueGrass_H
+    100016: mesh_BlueGrass_I
+    100018: mesh_BlueGrass_J
+    100020: mesh_BlueGrass_K
+    100022: mesh_BlueGrass_L
+    100024: mesh_BlueGrass_M
+    100026: mesh_BlueGrass_N
+    100028: mesh_BlueGrass_O
+    100030: //RootNode
+    400000: mesh_BlueGrass_A
+    400002: mesh_BlueGrass_B
+    400004: mesh_BlueGrass_C
+    400006: mesh_BlueGrass_D
+    400008: mesh_BlueGrass_E
+    400010: mesh_BlueGrass_F
+    400012: mesh_BlueGrass_G
+    400014: mesh_BlueGrass_H
+    400016: mesh_BlueGrass_I
+    400018: mesh_BlueGrass_J
+    400020: mesh_BlueGrass_K
+    400022: mesh_BlueGrass_L
+    400024: mesh_BlueGrass_M
+    400026: mesh_BlueGrass_N
+    400028: mesh_BlueGrass_O
+    400030: //RootNode
+    2300000: mesh_BlueGrass_A
+    2300002: mesh_BlueGrass_B
+    2300004: mesh_BlueGrass_C
+    2300006: mesh_BlueGrass_D
+    2300008: mesh_BlueGrass_E
+    2300010: mesh_BlueGrass_F
+    2300012: mesh_BlueGrass_G
+    2300014: mesh_BlueGrass_H
+    2300016: mesh_BlueGrass_I
+    2300018: mesh_BlueGrass_J
+    2300020: mesh_BlueGrass_K
+    2300022: mesh_BlueGrass_L
+    2300024: mesh_BlueGrass_M
+    2300026: mesh_BlueGrass_N
+    2300028: mesh_BlueGrass_O
+    3300000: mesh_BlueGrass_A
+    3300002: mesh_BlueGrass_B
+    3300004: mesh_BlueGrass_C
+    3300006: mesh_BlueGrass_D
+    3300008: mesh_BlueGrass_E
+    3300010: mesh_BlueGrass_F
+    3300012: mesh_BlueGrass_G
+    3300014: mesh_BlueGrass_H
+    3300016: mesh_BlueGrass_I
+    3300018: mesh_BlueGrass_J
+    3300020: mesh_BlueGrass_K
+    3300022: mesh_BlueGrass_L
+    3300024: mesh_BlueGrass_M
+    3300026: mesh_BlueGrass_N
+    3300028: mesh_BlueGrass_O
+    4300000: mesh_BlueGrass_I
+    4300002: mesh_BlueGrass_H
+    4300004: mesh_BlueGrass_E
+    4300006: mesh_BlueGrass_A
+    4300008: mesh_BlueGrass_B
+    4300010: mesh_BlueGrass_C
+    4300012: mesh_BlueGrass_D
+    4300014: mesh_BlueGrass_G
+    4300016: mesh_BlueGrass_F
+    4300018: mesh_BlueGrass_J
+    4300020: mesh_BlueGrass_K
+    4300022: mesh_BlueGrass_O
+    4300024: mesh_BlueGrass_M
+    4300026: mesh_BlueGrass_L
+    4300028: mesh_BlueGrass_N
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
